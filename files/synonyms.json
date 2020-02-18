@@ -1,0 +1,1830 @@
+{
+  "intent": [
+    {
+      "definition": "problema",
+      "synonims": [
+        "problema1",
+        "problema2",
+        "problema3",
+        "problema4"
+      ],
+      "_id": "062d61a0-51fb-11ea-bc5a-1fd124c1d38d",
+      "name": "problema"
+    },
+    {
+      "definition": "problema_note",
+      "synonims": [
+        "problema_note1",
+        "problema_note2",
+        "problema_note3",
+        "problema_note4"
+      ],
+      "_id": "062d61a1-51fb-11ea-bc5a-1fd124c1d38d",
+      "name": "problema_note"
+    },
+    {
+      "definition": "problema_celular",
+      "synonims": [
+        "problema_cel1",
+        "problema_cel2",
+        "problema_cel3",
+        "problema_cel4"
+      ],
+      "_id": "062d61a2-51fb-11ea-bc5a-1fd124c1d38d",
+      "name": "problema_celular"
+    },
+    {
+      "definition": "problema",
+      "synonims": [
+        "problema1",
+        "problema2",
+        "problema3",
+        "problema4"
+      ],
+      "_id": "062d61a3-51fb-11ea-bc5a-1fd124c1d38d",
+      "name": "problema"
+    },
+    {
+      "definition": "problema_note",
+      "synonims": [
+        "problema_note1",
+        "problema_note2",
+        "problema_note3",
+        "problema_note4"
+      ],
+      "_id": "062d61a4-51fb-11ea-bc5a-1fd124c1d38d",
+      "name": "problema_note"
+    },
+    {
+      "definition": "problema_celular",
+      "synonims": [
+        "problema_cel1",
+        "problema_cel2",
+        "problema_cel3",
+        "problema_cel4"
+      ],
+      "_id": "062d61a5-51fb-11ea-bc5a-1fd124c1d38d",
+      "name": "problema_celular"
+    },
+    {
+      "definition": "problema",
+      "synonims": [
+        "problema1",
+        "problema2",
+        "problema3",
+        "problema4"
+      ],
+      "_id": "062d61a6-51fb-11ea-bc5a-1fd124c1d38d",
+      "name": "problema"
+    },
+    {
+      "definition": "problema_note",
+      "synonims": [
+        "problema_note1",
+        "problema_note2",
+        "problema_note3",
+        "problema_note4"
+      ],
+      "_id": "062d61a7-51fb-11ea-bc5a-1fd124c1d38d",
+      "name": "problema_note"
+    },
+    {
+      "definition": "problema_celular",
+      "synonims": [
+        "problema_cel1",
+        "problema_cel2",
+        "problema_cel3",
+        "problema_cel4"
+      ],
+      "_id": "062d61a8-51fb-11ea-bc5a-1fd124c1d38d",
+      "name": "problema_celular"
+    },
+    {
+      "definition": "problema",
+      "synonims": [
+        "problema1",
+        "problema2",
+        "problema3",
+        "problema4"
+      ],
+      "_id": "062d61a9-51fb-11ea-bc5a-1fd124c1d38d",
+      "name": "problema"
+    },
+    {
+      "definition": "problema_note",
+      "synonims": [
+        "problema_note1",
+        "problema_note2",
+        "problema_note3",
+        "problema_note4"
+      ],
+      "_id": "062d61aa-51fb-11ea-bc5a-1fd124c1d38d",
+      "name": "problema_note"
+    },
+    {
+      "definition": "problema_celular",
+      "synonims": [
+        "problema_cel1",
+        "problema_cel2",
+        "problema_cel3",
+        "problema_cel4"
+      ],
+      "_id": "062d61ab-51fb-11ea-bc5a-1fd124c1d38d",
+      "name": "problema_celular"
+    },
+    {
+      "definition": "problema",
+      "synonims": [
+        "problema1",
+        "problema2",
+        "problema3",
+        "problema4"
+      ],
+      "_id": "062d61ac-51fb-11ea-bc5a-1fd124c1d38d",
+      "name": "problema"
+    },
+    {
+      "definition": "problema_note",
+      "synonims": [
+        "problema_note1",
+        "problema_note2",
+        "problema_note3",
+        "problema_note4"
+      ],
+      "_id": "062d61ad-51fb-11ea-bc5a-1fd124c1d38d",
+      "name": "problema_note"
+    },
+    {
+      "definition": "problema_celular",
+      "synonims": [
+        "problema_cel1",
+        "problema_cel2",
+        "problema_cel3",
+        "problema_cel4"
+      ],
+      "_id": "062d61ae-51fb-11ea-bc5a-1fd124c1d38d",
+      "name": "problema_celular"
+    },
+    {
+      "definition": "problema",
+      "synonims": [
+        "problema1",
+        "problema2",
+        "problema3",
+        "problema4"
+      ],
+      "_id": "062d61af-51fb-11ea-bc5a-1fd124c1d38d",
+      "name": "problema"
+    },
+    {
+      "definition": "problema_note",
+      "synonims": [
+        "problema_note1",
+        "problema_note2",
+        "problema_note3",
+        "problema_note4"
+      ],
+      "_id": "062d61b0-51fb-11ea-bc5a-1fd124c1d38d",
+      "name": "problema_note"
+    },
+    {
+      "definition": "problema_celular",
+      "synonims": [
+        "problema_cel1",
+        "problema_cel2",
+        "problema_cel3",
+        "problema_cel4"
+      ],
+      "_id": "062d61b1-51fb-11ea-bc5a-1fd124c1d38d",
+      "name": "problema_celular"
+    },
+    {
+      "definition": "problema",
+      "synonims": [
+        "problema1",
+        "problema2",
+        "problema3",
+        "problema4"
+      ],
+      "_id": "062d61b2-51fb-11ea-bc5a-1fd124c1d38d",
+      "name": "problema"
+    },
+    {
+      "definition": "problema_note",
+      "synonims": [
+        "problema_note1",
+        "problema_note2",
+        "problema_note3",
+        "problema_note4"
+      ],
+      "_id": "062d61b3-51fb-11ea-bc5a-1fd124c1d38d",
+      "name": "problema_note"
+    },
+    {
+      "definition": "problema_celular",
+      "synonims": [
+        "problema_cel1",
+        "problema_cel2",
+        "problema_cel3",
+        "problema_cel4"
+      ],
+      "_id": "062d61b4-51fb-11ea-bc5a-1fd124c1d38d",
+      "name": "problema_celular"
+    },
+    {
+      "definition": "problema",
+      "synonims": [
+        "problema1",
+        "problema2",
+        "problema3",
+        "problema4"
+      ],
+      "_id": "062d61b5-51fb-11ea-bc5a-1fd124c1d38d",
+      "name": "problema"
+    },
+    {
+      "definition": "problema_note",
+      "synonims": [
+        "problema_note1",
+        "problema_note2",
+        "problema_note3",
+        "problema_note4"
+      ],
+      "_id": "062d61b6-51fb-11ea-bc5a-1fd124c1d38d",
+      "name": "problema_note"
+    },
+    {
+      "definition": "problema_celular",
+      "synonims": [
+        "problema_cel1",
+        "problema_cel2",
+        "problema_cel3",
+        "problema_cel4"
+      ],
+      "_id": "062d61b7-51fb-11ea-bc5a-1fd124c1d38d",
+      "name": "problema_celular"
+    },
+    {
+      "definition": "problema",
+      "synonims": [
+        "problema1",
+        "problema2",
+        "problema3",
+        "problema4"
+      ],
+      "_id": "062d61b8-51fb-11ea-bc5a-1fd124c1d38d",
+      "name": "problema"
+    },
+    {
+      "definition": "problema_note",
+      "synonims": [
+        "problema_note1",
+        "problema_note2",
+        "problema_note3",
+        "problema_note4"
+      ],
+      "_id": "062d61b9-51fb-11ea-bc5a-1fd124c1d38d",
+      "name": "problema_note"
+    },
+    {
+      "definition": "problema_celular",
+      "synonims": [
+        "problema_cel1",
+        "problema_cel2",
+        "problema_cel3",
+        "problema_cel4"
+      ],
+      "_id": "062d61ba-51fb-11ea-bc5a-1fd124c1d38d",
+      "name": "problema_celular"
+    },
+    {
+      "definition": "problema",
+      "synonims": [
+        "problema1",
+        "problema2",
+        "problema3",
+        "problema4"
+      ],
+      "_id": "062d61bb-51fb-11ea-bc5a-1fd124c1d38d",
+      "name": "problema"
+    },
+    {
+      "definition": "problema_note",
+      "synonims": [
+        "problema_note1",
+        "problema_note2",
+        "problema_note3",
+        "problema_note4"
+      ],
+      "_id": "062d61bc-51fb-11ea-bc5a-1fd124c1d38d",
+      "name": "problema_note"
+    },
+    {
+      "definition": "problema_celular",
+      "synonims": [
+        "problema_cel1",
+        "problema_cel2",
+        "problema_cel3",
+        "problema_cel4"
+      ],
+      "_id": "062d61bd-51fb-11ea-bc5a-1fd124c1d38d",
+      "name": "problema_celular"
+    },
+    {
+      "definition": "problema",
+      "synonims": [
+        "problema1",
+        "problema2",
+        "problema3",
+        "problema4"
+      ],
+      "_id": "062d61be-51fb-11ea-bc5a-1fd124c1d38d",
+      "name": "problema"
+    },
+    {
+      "definition": "problema_note",
+      "synonims": [
+        "problema_note1",
+        "problema_note2",
+        "problema_note3",
+        "problema_note4"
+      ],
+      "_id": "062d61bf-51fb-11ea-bc5a-1fd124c1d38d",
+      "name": "problema_note"
+    },
+    {
+      "definition": "problema_celular",
+      "synonims": [
+        "problema_cel1",
+        "problema_cel2",
+        "problema_cel3",
+        "problema_cel4"
+      ],
+      "_id": "062d61c0-51fb-11ea-bc5a-1fd124c1d38d",
+      "name": "problema_celular"
+    },
+    {
+      "definition": "problema",
+      "synonims": [
+        "problema1",
+        "problema2",
+        "problema3",
+        "problema4"
+      ],
+      "_id": "062d61c1-51fb-11ea-bc5a-1fd124c1d38d",
+      "name": "problema"
+    },
+    {
+      "definition": "problema_note",
+      "synonims": [
+        "problema_note1",
+        "problema_note2",
+        "problema_note3",
+        "problema_note4"
+      ],
+      "_id": "062d61c2-51fb-11ea-bc5a-1fd124c1d38d",
+      "name": "problema_note"
+    },
+    {
+      "definition": "problema_celular",
+      "synonims": [
+        "problema_cel1",
+        "problema_cel2",
+        "problema_cel3",
+        "problema_cel4"
+      ],
+      "_id": "062d61c3-51fb-11ea-bc5a-1fd124c1d38d",
+      "name": "problema_celular"
+    },
+    {
+      "definition": "problema",
+      "synonims": [
+        "problema1",
+        "problema2",
+        "problema3",
+        "problema4"
+      ],
+      "_id": "062d61c4-51fb-11ea-bc5a-1fd124c1d38d",
+      "name": "problema"
+    },
+    {
+      "definition": "problema_note",
+      "synonims": [
+        "problema_note1",
+        "problema_note2",
+        "problema_note3",
+        "problema_note4"
+      ],
+      "_id": "062d61c5-51fb-11ea-bc5a-1fd124c1d38d",
+      "name": "problema_note"
+    },
+    {
+      "definition": "problema_celular",
+      "synonims": [
+        "problema_cel1",
+        "problema_cel2",
+        "problema_cel3",
+        "problema_cel4"
+      ],
+      "_id": "062d61c6-51fb-11ea-bc5a-1fd124c1d38d",
+      "name": "problema_celular"
+    },
+    {
+      "definition": "problema",
+      "synonims": [
+        "problema1",
+        "problema2",
+        "problema3",
+        "problema4"
+      ],
+      "_id": "062d61c7-51fb-11ea-bc5a-1fd124c1d38d",
+      "name": "problema"
+    },
+    {
+      "definition": "problema_note",
+      "synonims": [
+        "problema_note1",
+        "problema_note2",
+        "problema_note3",
+        "problema_note4"
+      ],
+      "_id": "062d61c8-51fb-11ea-bc5a-1fd124c1d38d",
+      "name": "problema_note"
+    },
+    {
+      "definition": "problema_celular",
+      "synonims": [
+        "problema_cel1",
+        "problema_cel2",
+        "problema_cel3",
+        "problema_cel4"
+      ],
+      "_id": "062d61c9-51fb-11ea-bc5a-1fd124c1d38d",
+      "name": "problema_celular"
+    },
+    {
+      "definition": "problema_note",
+      "synonims": [
+        "problema_note1",
+        "problema_note2",
+        "problema_note3",
+        "problema_note4"
+      ],
+      "_id": "062d61ca-51fb-11ea-bc5a-1fd124c1d38d",
+      "name": "problema_note"
+    },
+    {
+      "definition": "problema_celular",
+      "synonims": [
+        "problema_cel1",
+        "problema_cel2",
+        "problema_cel3",
+        "problema_cel4"
+      ],
+      "_id": "062d61cb-51fb-11ea-bc5a-1fd124c1d38d",
+      "name": "problema_celular"
+    },
+    {
+      "definition": "problema",
+      "synonims": [
+        "problema1",
+        "problema2",
+        "problema3",
+        "problema4"
+      ],
+      "_id": "062d61cc-51fb-11ea-bc5a-1fd124c1d38d",
+      "name": "problema"
+    },
+    {
+      "definition": "problema_note",
+      "synonims": [
+        "problema_note1",
+        "problema_note2",
+        "problema_note3",
+        "problema_note4"
+      ],
+      "_id": "062d61cd-51fb-11ea-bc5a-1fd124c1d38d",
+      "name": "problema_note"
+    },
+    {
+      "definition": "problema_celular",
+      "synonims": [
+        "problema_cel1",
+        "problema_cel2",
+        "problema_cel3",
+        "problema_cel4"
+      ],
+      "_id": "062d61ce-51fb-11ea-bc5a-1fd124c1d38d",
+      "name": "problema_celular"
+    },
+    {
+      "definition": "problema",
+      "synonims": [
+        "problema1",
+        "problema2",
+        "problema3",
+        "problema4"
+      ],
+      "_id": "062d61cf-51fb-11ea-bc5a-1fd124c1d38d",
+      "name": "problema"
+    },
+    {
+      "definition": "problema_note",
+      "synonims": [
+        "problema_note1",
+        "problema_note2",
+        "problema_note3",
+        "problema_note4"
+      ],
+      "_id": "062d61d0-51fb-11ea-bc5a-1fd124c1d38d",
+      "name": "problema_note"
+    },
+    {
+      "definition": "problema_celular",
+      "synonims": [
+        "problema_cel1",
+        "problema_cel2",
+        "problema_cel3",
+        "problema_cel4"
+      ],
+      "_id": "062d61d1-51fb-11ea-bc5a-1fd124c1d38d",
+      "name": "problema_celular"
+    },
+    {
+      "definition": "problema",
+      "synonims": [
+        "problema1",
+        "problema2",
+        "problema3",
+        "problema4"
+      ],
+      "_id": "062d61d2-51fb-11ea-bc5a-1fd124c1d38d",
+      "name": "problema"
+    },
+    {
+      "definition": "problema_note",
+      "synonims": [
+        "problema_note1",
+        "problema_note2",
+        "problema_note3",
+        "problema_note4"
+      ],
+      "_id": "062d61d3-51fb-11ea-bc5a-1fd124c1d38d",
+      "name": "problema_note"
+    },
+    {
+      "definition": "problema_celular",
+      "synonims": [
+        "problema_cel1",
+        "problema_cel2",
+        "problema_cel3",
+        "problema_cel4"
+      ],
+      "_id": "062d61d4-51fb-11ea-bc5a-1fd124c1d38d",
+      "name": "problema_celular"
+    },
+    {
+      "definition": "problema",
+      "synonims": [
+        "problema1",
+        "problema2",
+        "problema3",
+        "problema4"
+      ],
+      "_id": "062d61d5-51fb-11ea-bc5a-1fd124c1d38d",
+      "name": "problema"
+    },
+    {
+      "definition": "problema_note",
+      "synonims": [
+        "problema_note1",
+        "problema_note2",
+        "problema_note3",
+        "problema_note4"
+      ],
+      "_id": "062d61d6-51fb-11ea-bc5a-1fd124c1d38d",
+      "name": "problema_note"
+    },
+    {
+      "definition": "problema_celular",
+      "synonims": [
+        "problema_cel1",
+        "problema_cel2",
+        "problema_cel3",
+        "problema_cel4"
+      ],
+      "_id": "062d61d7-51fb-11ea-bc5a-1fd124c1d38d",
+      "name": "problema_celular"
+    },
+    {
+      "definition": "problema",
+      "synonims": [
+        "problema1",
+        "problema2",
+        "problema3",
+        "problema4"
+      ],
+      "_id": "062d61d8-51fb-11ea-bc5a-1fd124c1d38d",
+      "name": "problema"
+    },
+    {
+      "definition": "problema_note",
+      "synonims": [
+        "problema_note1",
+        "problema_note2",
+        "problema_note3",
+        "problema_note4"
+      ],
+      "_id": "062d61d9-51fb-11ea-bc5a-1fd124c1d38d",
+      "name": "problema_note"
+    },
+    {
+      "definition": "problema_celular",
+      "synonims": [
+        "problema_cel1",
+        "problema_cel2",
+        "problema_cel3",
+        "problema_cel4"
+      ],
+      "_id": "062d61da-51fb-11ea-bc5a-1fd124c1d38d",
+      "name": "problema_celular"
+    },
+    {
+      "definition": "problema",
+      "synonims": [
+        "problema1",
+        "problema2",
+        "problema3",
+        "problema4"
+      ],
+      "_id": "062d61db-51fb-11ea-bc5a-1fd124c1d38d",
+      "name": "problema"
+    },
+    {
+      "definition": "problema_note",
+      "synonims": [
+        "problema_note1",
+        "problema_note2",
+        "problema_note3",
+        "problema_note4"
+      ],
+      "_id": "062d61dc-51fb-11ea-bc5a-1fd124c1d38d",
+      "name": "problema_note"
+    },
+    {
+      "definition": "problema_celular",
+      "synonims": [
+        "problema_cel1",
+        "problema_cel2",
+        "problema_cel3",
+        "problema_cel4"
+      ],
+      "_id": "062d61dd-51fb-11ea-bc5a-1fd124c1d38d",
+      "name": "problema_celular"
+    },
+    {
+      "definition": "problema",
+      "synonims": [
+        "problema1",
+        "problema2",
+        "problema3",
+        "problema4"
+      ],
+      "_id": "062d61de-51fb-11ea-bc5a-1fd124c1d38d",
+      "name": "problema"
+    },
+    {
+      "definition": "problema_note",
+      "synonims": [
+        "problema_note1",
+        "problema_note2",
+        "problema_note3",
+        "problema_note4"
+      ],
+      "_id": "062d61df-51fb-11ea-bc5a-1fd124c1d38d",
+      "name": "problema_note"
+    },
+    {
+      "definition": "problema_celular",
+      "synonims": [
+        "problema_cel1",
+        "problema_cel2",
+        "problema_cel3",
+        "problema_cel4"
+      ],
+      "_id": "062d61e0-51fb-11ea-bc5a-1fd124c1d38d",
+      "name": "problema_celular"
+    },
+    {
+      "definition": "problema",
+      "synonims": [
+        "problema1",
+        "problema2",
+        "problema3",
+        "problema4"
+      ],
+      "_id": "062d61e1-51fb-11ea-bc5a-1fd124c1d38d",
+      "name": "problema"
+    },
+    {
+      "definition": "problema_note",
+      "synonims": [
+        "problema_note1",
+        "problema_note2",
+        "problema_note3",
+        "problema_note4"
+      ],
+      "_id": "062d61e2-51fb-11ea-bc5a-1fd124c1d38d",
+      "name": "problema_note"
+    },
+    {
+      "definition": "problema_celular",
+      "synonims": [
+        "problema_cel1",
+        "problema_cel2",
+        "problema_cel3",
+        "problema_cel4"
+      ],
+      "_id": "062d61e3-51fb-11ea-bc5a-1fd124c1d38d",
+      "name": "problema_celular"
+    },
+    {
+      "definition": "problema",
+      "synonims": [
+        "problema1",
+        "problema2",
+        "problema3",
+        "problema4"
+      ],
+      "_id": "062d61e4-51fb-11ea-bc5a-1fd124c1d38d",
+      "name": "problema"
+    },
+    {
+      "definition": "problema_note",
+      "synonims": [
+        "problema_note1",
+        "problema_note2",
+        "problema_note3",
+        "problema_note4"
+      ],
+      "_id": "062d61e5-51fb-11ea-bc5a-1fd124c1d38d",
+      "name": "problema_note"
+    },
+    {
+      "definition": "problema_celular",
+      "synonims": [
+        "problema_cel1",
+        "problema_cel2",
+        "problema_cel3",
+        "problema_cel4"
+      ],
+      "_id": "062d61e6-51fb-11ea-bc5a-1fd124c1d38d",
+      "name": "problema_celular"
+    },
+    {
+      "definition": "problema",
+      "synonims": [
+        "problema1",
+        "problema2",
+        "problema3",
+        "problema4"
+      ],
+      "_id": "062d61e7-51fb-11ea-bc5a-1fd124c1d38d",
+      "name": "problema"
+    },
+    {
+      "definition": "problema_note",
+      "synonims": [
+        "problema_note1",
+        "problema_note2",
+        "problema_note3",
+        "problema_note4"
+      ],
+      "_id": "062d61e8-51fb-11ea-bc5a-1fd124c1d38d",
+      "name": "problema_note"
+    },
+    {
+      "definition": "problema_celular",
+      "synonims": [
+        "problema_cel1",
+        "problema_cel2",
+        "problema_cel3",
+        "problema_cel4"
+      ],
+      "_id": "062d61e9-51fb-11ea-bc5a-1fd124c1d38d",
+      "name": "problema_celular"
+    },
+    {
+      "definition": "problema",
+      "synonims": [
+        "problema1",
+        "problema2",
+        "problema3",
+        "problema4"
+      ],
+      "_id": "062d61ea-51fb-11ea-bc5a-1fd124c1d38d",
+      "name": "problema"
+    },
+    {
+      "definition": "problema_note",
+      "synonims": [
+        "problema_note1",
+        "problema_note2",
+        "problema_note3",
+        "problema_note4"
+      ],
+      "_id": "062d61eb-51fb-11ea-bc5a-1fd124c1d38d",
+      "name": "problema_note"
+    },
+    {
+      "definition": "problema_celular",
+      "synonims": [
+        "problema_cel1",
+        "problema_cel2",
+        "problema_cel3",
+        "problema_cel4"
+      ],
+      "_id": "062d61ec-51fb-11ea-bc5a-1fd124c1d38d",
+      "name": "problema_celular"
+    },
+    {
+      "definition": "problema",
+      "synonims": [
+        "problema1",
+        "problema2",
+        "problema3",
+        "problema4"
+      ],
+      "_id": "062d61ed-51fb-11ea-bc5a-1fd124c1d38d",
+      "name": "problema"
+    },
+    {
+      "definition": "problema_note",
+      "synonims": [
+        "problema_note1",
+        "problema_note2",
+        "problema_note3",
+        "problema_note4"
+      ],
+      "_id": "062d61ee-51fb-11ea-bc5a-1fd124c1d38d",
+      "name": "problema_note"
+    },
+    {
+      "definition": "problema_celular",
+      "synonims": [
+        "problema_cel1",
+        "problema_cel2",
+        "problema_cel3",
+        "problema_cel4"
+      ],
+      "_id": "062d61ef-51fb-11ea-bc5a-1fd124c1d38d",
+      "name": "problema_celular"
+    },
+    {
+      "definition": "problema",
+      "synonims": [
+        "problema1",
+        "problema2",
+        "problema3",
+        "problema4"
+      ],
+      "_id": "062d61f0-51fb-11ea-bc5a-1fd124c1d38d",
+      "name": "problema"
+    },
+    {
+      "definition": "problema_note",
+      "synonims": [
+        "problema_note1",
+        "problema_note2",
+        "problema_note3",
+        "problema_note4"
+      ],
+      "_id": "062d61f1-51fb-11ea-bc5a-1fd124c1d38d",
+      "name": "problema_note"
+    },
+    {
+      "definition": "problema_celular",
+      "synonims": [
+        "problema_cel1",
+        "problema_cel2",
+        "problema_cel3",
+        "problema_cel4"
+      ],
+      "_id": "062d61f2-51fb-11ea-bc5a-1fd124c1d38d",
+      "name": "problema_celular"
+    },
+    {
+      "definition": "problema",
+      "synonims": [
+        "problema1",
+        "problema2",
+        "problema3",
+        "problema4"
+      ],
+      "_id": "062d61f3-51fb-11ea-bc5a-1fd124c1d38d",
+      "name": "problema"
+    },
+    {
+      "definition": "problema_note",
+      "synonims": [
+        "problema_note1",
+        "problema_note2",
+        "problema_note3",
+        "problema_note4"
+      ],
+      "_id": "062d61f4-51fb-11ea-bc5a-1fd124c1d38d",
+      "name": "problema_note"
+    },
+    {
+      "definition": "problema_celular",
+      "synonims": [
+        "problema_cel1",
+        "problema_cel2",
+        "problema_cel3",
+        "problema_cel4"
+      ],
+      "_id": "062d61f5-51fb-11ea-bc5a-1fd124c1d38d",
+      "name": "problema_celular"
+    },
+    {
+      "definition": "problema",
+      "synonims": [
+        "problema1",
+        "problema2",
+        "problema3",
+        "problema4"
+      ],
+      "_id": "062d61f6-51fb-11ea-bc5a-1fd124c1d38d",
+      "name": "problema"
+    },
+    {
+      "definition": "problema_note",
+      "synonims": [
+        "problema_note1",
+        "problema_note2",
+        "problema_note3",
+        "problema_note4"
+      ],
+      "_id": "062d61f7-51fb-11ea-bc5a-1fd124c1d38d",
+      "name": "problema_note"
+    },
+    {
+      "definition": "problema_celular",
+      "synonims": [
+        "problema_cel1",
+        "problema_cel2",
+        "problema_cel3",
+        "problema_cel4"
+      ],
+      "_id": "062d61f8-51fb-11ea-bc5a-1fd124c1d38d",
+      "name": "problema_celular"
+    },
+    {
+      "definition": "problema",
+      "synonims": [
+        "problema1",
+        "problema2",
+        "problema3",
+        "problema4"
+      ],
+      "_id": "062d61f9-51fb-11ea-bc5a-1fd124c1d38d",
+      "name": "problema"
+    },
+    {
+      "definition": "problema_note",
+      "synonims": [
+        "problema_note1",
+        "problema_note2",
+        "problema_note3",
+        "problema_note4"
+      ],
+      "_id": "062d61fa-51fb-11ea-bc5a-1fd124c1d38d",
+      "name": "problema_note"
+    },
+    {
+      "definition": "problema_celular",
+      "synonims": [
+        "problema_cel1",
+        "problema_cel2",
+        "problema_cel3",
+        "problema_cel4"
+      ],
+      "_id": "062d61fb-51fb-11ea-bc5a-1fd124c1d38d",
+      "name": "problema_celular"
+    },
+    {
+      "definition": "problema",
+      "synonims": [
+        "problema1",
+        "problema2",
+        "problema3",
+        "problema4"
+      ],
+      "_id": "062d61fc-51fb-11ea-bc5a-1fd124c1d38d",
+      "name": "problema"
+    },
+    {
+      "definition": "problema_note",
+      "synonims": [
+        "problema_note1",
+        "problema_note2",
+        "problema_note3",
+        "problema_note4"
+      ],
+      "_id": "062d61fd-51fb-11ea-bc5a-1fd124c1d38d",
+      "name": "problema_note"
+    },
+    {
+      "definition": "problema_celular",
+      "synonims": [
+        "problema_cel1",
+        "problema_cel2",
+        "problema_cel3",
+        "problema_cel4"
+      ],
+      "_id": "062d61fe-51fb-11ea-bc5a-1fd124c1d38d",
+      "name": "problema_celular"
+    },
+    {
+      "definition": "problema",
+      "synonims": [
+        "problema1",
+        "problema2",
+        "problema3",
+        "problema4"
+      ],
+      "_id": "062d61ff-51fb-11ea-bc5a-1fd124c1d38d",
+      "name": "problema"
+    },
+    {
+      "definition": "problema_note",
+      "synonims": [
+        "problema_note1",
+        "problema_note2",
+        "problema_note3",
+        "problema_note4"
+      ],
+      "_id": "062d6200-51fb-11ea-bc5a-1fd124c1d38d",
+      "name": "problema_note"
+    },
+    {
+      "definition": "problema_celular",
+      "synonims": [
+        "problema_cel1",
+        "problema_cel2",
+        "problema_cel3",
+        "problema_cel4"
+      ],
+      "_id": "062d6201-51fb-11ea-bc5a-1fd124c1d38d",
+      "name": "problema_celular"
+    },
+    {
+      "definition": "problema",
+      "synonims": [
+        "problema1",
+        "problema2",
+        "problema3",
+        "problema4"
+      ],
+      "_id": "062d6202-51fb-11ea-bc5a-1fd124c1d38d",
+      "name": "problema"
+    },
+    {
+      "definition": "problema_note",
+      "synonims": [
+        "problema_note1",
+        "problema_note2",
+        "problema_note3",
+        "problema_note4"
+      ],
+      "_id": "062d6203-51fb-11ea-bc5a-1fd124c1d38d",
+      "name": "problema_note"
+    },
+    {
+      "definition": "problema_celular",
+      "synonims": [
+        "problema_cel1",
+        "problema_cel2",
+        "problema_cel3",
+        "problema_cel4"
+      ],
+      "_id": "062d6204-51fb-11ea-bc5a-1fd124c1d38d",
+      "name": "problema_celular"
+    },
+    {
+      "definition": "problema",
+      "synonims": [
+        "problema1",
+        "problema2",
+        "problema3",
+        "problema4"
+      ],
+      "_id": "062d6205-51fb-11ea-bc5a-1fd124c1d38d",
+      "name": "problema"
+    },
+    {
+      "definition": "problema_note",
+      "synonims": [
+        "problema_note1",
+        "problema_note2",
+        "problema_note3",
+        "problema_note4"
+      ],
+      "_id": "062d6206-51fb-11ea-bc5a-1fd124c1d38d",
+      "name": "problema_note"
+    },
+    {
+      "definition": "problema_celular",
+      "synonims": [
+        "problema_cel1",
+        "problema_cel2",
+        "problema_cel3",
+        "problema_cel4"
+      ],
+      "_id": "062d6207-51fb-11ea-bc5a-1fd124c1d38d",
+      "name": "problema_celular"
+    },
+    {
+      "definition": "problema",
+      "synonims": [
+        "problema1",
+        "problema2",
+        "problema3",
+        "problema4"
+      ],
+      "_id": "062d6208-51fb-11ea-bc5a-1fd124c1d38d",
+      "name": "problema"
+    },
+    {
+      "definition": "problema_note",
+      "synonims": [
+        "problema_note1",
+        "problema_note2",
+        "problema_note3",
+        "problema_note4"
+      ],
+      "_id": "062d6209-51fb-11ea-bc5a-1fd124c1d38d",
+      "name": "problema_note"
+    },
+    {
+      "definition": "problema_celular",
+      "synonims": [
+        "problema_cel1",
+        "problema_cel2",
+        "problema_cel3",
+        "problema_cel4"
+      ],
+      "_id": "062d620a-51fb-11ea-bc5a-1fd124c1d38d",
+      "name": "problema_celular"
+    },
+    {
+      "definition": "problema",
+      "synonims": [
+        "problema1",
+        "problema2",
+        "problema3",
+        "problema4"
+      ],
+      "_id": "062d620b-51fb-11ea-bc5a-1fd124c1d38d",
+      "name": "problema"
+    },
+    {
+      "definition": "problema_note",
+      "synonims": [
+        "problema_note1",
+        "problema_note2",
+        "problema_note3",
+        "problema_note4"
+      ],
+      "_id": "062d620c-51fb-11ea-bc5a-1fd124c1d38d",
+      "name": "problema_note"
+    },
+    {
+      "definition": "problema_celular",
+      "synonims": [
+        "problema_cel1",
+        "problema_cel2",
+        "problema_cel3",
+        "problema_cel4"
+      ],
+      "_id": "062d620d-51fb-11ea-bc5a-1fd124c1d38d",
+      "name": "problema_celular"
+    },
+    {
+      "definition": "problema",
+      "synonims": [
+        "problema1",
+        "problema2",
+        "problema3",
+        "problema4"
+      ],
+      "_id": "062d620e-51fb-11ea-bc5a-1fd124c1d38d",
+      "name": "problema"
+    },
+    {
+      "definition": "problema_note",
+      "synonims": [
+        "problema_note1",
+        "problema_note2",
+        "problema_note3",
+        "problema_note4"
+      ],
+      "_id": "062d620f-51fb-11ea-bc5a-1fd124c1d38d",
+      "name": "problema_note"
+    },
+    {
+      "definition": "problema_celular",
+      "synonims": [
+        "problema_cel1",
+        "problema_cel2",
+        "problema_cel3",
+        "problema_cel4"
+      ],
+      "_id": "062d6210-51fb-11ea-bc5a-1fd124c1d38d",
+      "name": "problema_celular"
+    },
+    {
+      "definition": "problema",
+      "synonims": [
+        "problema1",
+        "problema2",
+        "problema3",
+        "problema4"
+      ],
+      "_id": "062d6211-51fb-11ea-bc5a-1fd124c1d38d",
+      "name": "problema"
+    },
+    {
+      "definition": "problema_note",
+      "synonims": [
+        "problema_note1",
+        "problema_note2",
+        "problema_note3",
+        "problema_note4"
+      ],
+      "_id": "062d6212-51fb-11ea-bc5a-1fd124c1d38d",
+      "name": "problema_note"
+    },
+    {
+      "definition": "problema_celular",
+      "synonims": [
+        "problema_cel1",
+        "problema_cel2",
+        "problema_cel3",
+        "problema_cel4"
+      ],
+      "_id": "062d6213-51fb-11ea-bc5a-1fd124c1d38d",
+      "name": "problema_celular"
+    },
+    {
+      "definition": "problema",
+      "synonims": [
+        "problema1",
+        "problema2",
+        "problema3",
+        "problema4"
+      ],
+      "_id": "062d6214-51fb-11ea-bc5a-1fd124c1d38d",
+      "name": "problema"
+    },
+    {
+      "definition": "problema_note",
+      "synonims": [
+        "problema_note1",
+        "problema_note2",
+        "problema_note3",
+        "problema_note4"
+      ],
+      "_id": "062d6215-51fb-11ea-bc5a-1fd124c1d38d",
+      "name": "problema_note"
+    },
+    {
+      "definition": "problema_celular",
+      "synonims": [
+        "problema_cel1",
+        "problema_cel2",
+        "problema_cel3",
+        "problema_cel4"
+      ],
+      "_id": "062d6216-51fb-11ea-bc5a-1fd124c1d38d",
+      "name": "problema_celular"
+    },
+    {
+      "definition": "problema",
+      "synonims": [
+        "problema1",
+        "problema2",
+        "problema3",
+        "problema4"
+      ],
+      "_id": "062d6217-51fb-11ea-bc5a-1fd124c1d38d",
+      "name": "problema"
+    },
+    {
+      "definition": "problema_note",
+      "synonims": [
+        "problema_note1",
+        "problema_note2",
+        "problema_note3",
+        "problema_note4"
+      ],
+      "_id": "062d6218-51fb-11ea-bc5a-1fd124c1d38d",
+      "name": "problema_note"
+    },
+    {
+      "definition": "problema_celular",
+      "synonims": [
+        "problema_cel1",
+        "problema_cel2",
+        "problema_cel3",
+        "problema_cel4"
+      ],
+      "_id": "062d6219-51fb-11ea-bc5a-1fd124c1d38d",
+      "name": "problema_celular"
+    },
+    {
+      "definition": "problema",
+      "synonims": [
+        "problema1",
+        "problema2",
+        "problema3",
+        "problema4"
+      ],
+      "_id": "062d621a-51fb-11ea-bc5a-1fd124c1d38d",
+      "name": "problema"
+    },
+    {
+      "definition": "problema_note",
+      "synonims": [
+        "problema_note1",
+        "problema_note2",
+        "problema_note3",
+        "problema_note4"
+      ],
+      "_id": "062d621b-51fb-11ea-bc5a-1fd124c1d38d",
+      "name": "problema_note"
+    },
+    {
+      "definition": "problema_celular",
+      "synonims": [
+        "problema_cel1",
+        "problema_cel2",
+        "problema_cel3",
+        "problema_cel4"
+      ],
+      "_id": "062d621c-51fb-11ea-bc5a-1fd124c1d38d",
+      "name": "problema_celular"
+    },
+    {
+      "definition": "problema_note",
+      "synonims": [
+        "problema_note1",
+        "problema_note2",
+        "problema_note3",
+        "problema_note4"
+      ],
+      "_id": "062d621d-51fb-11ea-bc5a-1fd124c1d38d",
+      "name": "problema_note"
+    },
+    {
+      "definition": "problema_celular",
+      "synonims": [
+        "problema_cel1",
+        "problema_cel2",
+        "problema_cel3",
+        "problema_cel4"
+      ],
+      "_id": "062d621e-51fb-11ea-bc5a-1fd124c1d38d",
+      "name": "problema_celular"
+    },
+    {
+      "definition": "problema",
+      "synonims": [
+        "problema1",
+        "problema2",
+        "problema3",
+        "problema4"
+      ],
+      "_id": "062d621f-51fb-11ea-bc5a-1fd124c1d38d",
+      "name": "problema"
+    },
+    {
+      "definition": "problema_note",
+      "synonims": [
+        "problema_note1",
+        "problema_note2",
+        "problema_note3",
+        "problema_note4"
+      ],
+      "_id": "062d6220-51fb-11ea-bc5a-1fd124c1d38d",
+      "name": "problema_note"
+    },
+    {
+      "definition": "problema_celular",
+      "synonims": [
+        "problema_cel1",
+        "problema_cel2",
+        "problema_cel3",
+        "problema_cel4"
+      ],
+      "_id": "062d6221-51fb-11ea-bc5a-1fd124c1d38d",
+      "name": "problema_celular"
+    },
+    {
+      "definition": "problema",
+      "synonims": [
+        "problema1",
+        "problema2",
+        "problema3",
+        "problema4"
+      ],
+      "_id": "062d6222-51fb-11ea-bc5a-1fd124c1d38d",
+      "name": "problema"
+    },
+    {
+      "definition": "problema_note",
+      "synonims": [
+        "problema_note1",
+        "problema_note2",
+        "problema_note3",
+        "problema_note4"
+      ],
+      "_id": "062d6223-51fb-11ea-bc5a-1fd124c1d38d",
+      "name": "problema_note"
+    },
+    {
+      "definition": "problema_celular",
+      "synonims": [
+        "problema_cel1",
+        "problema_cel2",
+        "problema_cel3",
+        "problema_cel4"
+      ],
+      "_id": "062d6224-51fb-11ea-bc5a-1fd124c1d38d",
+      "name": "problema_celular"
+    },
+    {
+      "definition": "problema",
+      "synonims": [
+        "problema1",
+        "problema2",
+        "problema3",
+        "problema4"
+      ],
+      "_id": "062d6225-51fb-11ea-bc5a-1fd124c1d38d",
+      "name": "problema"
+    },
+    {
+      "definition": "problema_note",
+      "synonims": [
+        "problema_note1",
+        "problema_note2",
+        "problema_note3",
+        "problema_note4"
+      ],
+      "_id": "062d6226-51fb-11ea-bc5a-1fd124c1d38d",
+      "name": "problema_note"
+    },
+    {
+      "definition": "problema_celular",
+      "synonims": [
+        "problema_cel1",
+        "problema_cel2",
+        "problema_cel3",
+        "problema_cel4"
+      ],
+      "_id": "062d6227-51fb-11ea-bc5a-1fd124c1d38d",
+      "name": "problema_celular"
+    },
+    {
+      "definition": "problema",
+      "synonims": [
+        "problema1",
+        "problema2",
+        "problema3",
+        "problema4"
+      ],
+      "_id": "062d6228-51fb-11ea-bc5a-1fd124c1d38d",
+      "name": "problema"
+    },
+    {
+      "definition": "problema_note",
+      "synonims": [
+        "problema_note1",
+        "problema_note2",
+        "problema_note3",
+        "problema_note4"
+      ],
+      "_id": "062d6229-51fb-11ea-bc5a-1fd124c1d38d",
+      "name": "problema_note"
+    },
+    {
+      "definition": "problema_celular",
+      "synonims": [
+        "problema_cel1",
+        "problema_cel2",
+        "problema_cel3",
+        "problema_cel4"
+      ],
+      "_id": "062d622a-51fb-11ea-bc5a-1fd124c1d38d",
+      "name": "problema_celular"
+    },
+    {
+      "definition": "problema",
+      "synonims": [
+        "problema1",
+        "problema2",
+        "problema3",
+        "problema4"
+      ],
+      "_id": "062d622b-51fb-11ea-bc5a-1fd124c1d38d",
+      "name": "problema"
+    },
+    {
+      "definition": "problema_note",
+      "synonims": [
+        "problema_note1",
+        "problema_note2",
+        "problema_note3",
+        "problema_note4"
+      ],
+      "_id": "062d622c-51fb-11ea-bc5a-1fd124c1d38d",
+      "name": "problema_note"
+    },
+    {
+      "definition": "problema_celular",
+      "synonims": [
+        "problema_cel1",
+        "problema_cel2",
+        "problema_cel3",
+        "problema_cel4"
+      ],
+      "_id": "062d622d-51fb-11ea-bc5a-1fd124c1d38d",
+      "name": "problema_celular"
+    },
+    {
+      "definition": "problema",
+      "synonims": [
+        "problema1",
+        "problema2",
+        "problema3",
+        "problema4"
+      ],
+      "_id": "062d622e-51fb-11ea-bc5a-1fd124c1d38d",
+      "name": "problema"
+    },
+    {
+      "definition": "problema_note",
+      "synonims": [
+        "problema_note1",
+        "problema_note2",
+        "problema_note3",
+        "problema_note4"
+      ],
+      "_id": "062d622f-51fb-11ea-bc5a-1fd124c1d38d",
+      "name": "problema_note"
+    },
+    {
+      "definition": "problema_celular",
+      "synonims": [
+        "problema_cel1",
+        "problema_cel2",
+        "problema_cel3",
+        "problema_cel4"
+      ],
+      "_id": "062d6230-51fb-11ea-bc5a-1fd124c1d38d",
+      "name": "problema_celular"
+    },
+    {
+      "definition": "problema",
+      "synonims": [
+        "problema1",
+        "problema2",
+        "problema3",
+        "problema4"
+      ],
+      "_id": "062d6231-51fb-11ea-bc5a-1fd124c1d38d",
+      "name": "problema"
+    },
+    {
+      "definition": "problema_note",
+      "synonims": [
+        "problema_note1",
+        "problema_note2",
+        "problema_note3",
+        "problema_note4"
+      ],
+      "_id": "062d6232-51fb-11ea-bc5a-1fd124c1d38d",
+      "name": "problema_note"
+    },
+    {
+      "definition": "problema_celular",
+      "synonims": [
+        "problema_cel1",
+        "problema_cel2",
+        "problema_cel3",
+        "problema_cel4"
+      ],
+      "_id": "062d6233-51fb-11ea-bc5a-1fd124c1d38d",
+      "name": "problema_celular"
+    },
+    {
+      "definition": "problema",
+      "synonims": [
+        "problema1",
+        "problema2",
+        "problema3",
+        "problema4"
+      ],
+      "_id": "062d6234-51fb-11ea-bc5a-1fd124c1d38d",
+      "name": "problema"
+    },
+    {
+      "definition": "problema_note",
+      "synonims": [
+        "problema_note1",
+        "problema_note2",
+        "problema_note3",
+        "problema_note4"
+      ],
+      "_id": "062d6235-51fb-11ea-bc5a-1fd124c1d38d",
+      "name": "problema_note"
+    },
+    {
+      "definition": "problema_celular",
+      "synonims": [
+        "problema_cel1",
+        "problema_cel2",
+        "problema_cel3",
+        "problema_cel4"
+      ],
+      "_id": "062d6236-51fb-11ea-bc5a-1fd124c1d38d",
+      "name": "problema_celular"
+    },
+    {
+      "definition": "problema",
+      "synonims": [
+        "problema1",
+        "problema2",
+        "problema3",
+        "problema4"
+      ],
+      "_id": "062d6237-51fb-11ea-bc5a-1fd124c1d38d",
+      "name": "problema"
+    },
+    {
+      "definition": "problema_note",
+      "synonims": [
+        "problema_note1",
+        "problema_note2",
+        "problema_note3",
+        "problema_note4"
+      ],
+      "_id": "062d6238-51fb-11ea-bc5a-1fd124c1d38d",
+      "name": "problema_note"
+    },
+    {
+      "definition": "problema_celular",
+      "synonims": [
+        "problema_cel1",
+        "problema_cel2",
+        "problema_cel3",
+        "problema_cel4"
+      ],
+      "_id": "062d6239-51fb-11ea-bc5a-1fd124c1d38d",
+      "name": "problema_celular"
+    },
+    {
+      "definition": "problema",
+      "synonims": [
+        "problema1",
+        "problema2",
+        "problema3",
+        "problema4"
+      ],
+      "_id": "062d623a-51fb-11ea-bc5a-1fd124c1d38d",
+      "name": "problema"
+    },
+    {
+      "definition": "problema_note",
+      "synonims": [
+        "problema_note1",
+        "problema_note2",
+        "problema_note3",
+        "problema_note4"
+      ],
+      "_id": "062d623b-51fb-11ea-bc5a-1fd124c1d38d",
+      "name": "problema_note"
+    },
+    {
+      "definition": "problema_celular",
+      "synonims": [
+        "problema_cel1",
+        "problema_cel2",
+        "problema_cel3",
+        "problema_cel4"
+      ],
+      "_id": "062d623c-51fb-11ea-bc5a-1fd124c1d38d",
+      "name": "problema_celular"
+    },
+    {
+      "definition": "problema",
+      "synonims": [
+        "problema1",
+        "problema2",
+        "problema3",
+        "problema4"
+      ],
+      "_id": "062d623d-51fb-11ea-bc5a-1fd124c1d38d",
+      "name": "problema"
+    },
+    {
+      "definition": "problema_note",
+      "synonims": [
+        "problema_note1",
+        "problema_note2",
+        "problema_note3",
+        "problema_note4"
+      ],
+      "_id": "062d623e-51fb-11ea-bc5a-1fd124c1d38d",
+      "name": "problema_note"
+    },
+    {
+      "definition": "problema_celular",
+      "synonims": [
+        "problema_cel1",
+        "problema_cel2",
+        "problema_cel3",
+        "problema_cel4"
+      ],
+      "_id": "062d623f-51fb-11ea-bc5a-1fd124c1d38d",
+      "name": "problema_celular"
+    },
+    {
+      "definition": "problema",
+      "synonims": [
+        "problema1",
+        "problema2",
+        "problema3",
+        "problema4"
+      ],
+      "_id": "062d6240-51fb-11ea-bc5a-1fd124c1d38d",
+      "name": "problema"
+    },
+    {
+      "definition": "problema_note",
+      "synonims": [
+        "problema_note1",
+        "problema_note2",
+        "problema_note3",
+        "problema_note4"
+      ],
+      "_id": "062d6241-51fb-11ea-bc5a-1fd124c1d38d",
+      "name": "problema_note"
+    },
+    {
+      "definition": "problema_celular",
+      "synonims": [
+        "problema_cel1",
+        "problema_cel2",
+        "problema_cel3",
+        "problema_cel4"
+      ],
+      "_id": "062d6242-51fb-11ea-bc5a-1fd124c1d38d",
+      "name": "problema_celular"
+    },
+    {
+      "definition": "problema",
+      "synonims": [
+        "problema1",
+        "problema2",
+        "problema3",
+        "problema4"
+      ],
+      "_id": "062d6243-51fb-11ea-bc5a-1fd124c1d38d",
+      "name": "problema"
+    },
+    {
+      "definition": "problema_note",
+      "synonims": [
+        "problema_note1",
+        "problema_note2",
+        "problema_note3",
+        "problema_note4"
+      ],
+      "_id": "062d6244-51fb-11ea-bc5a-1fd124c1d38d",
+      "name": "problema_note"
+    },
+    {
+      "definition": "problema_celular",
+      "synonims": [
+        "problema_cel1",
+        "problema_cel2",
+        "problema_cel3",
+        "problema_cel4"
+      ],
+      "_id": "062d6245-51fb-11ea-bc5a-1fd124c1d38d",
+      "name": "problema_celular"
+    }
+  ]
+}
