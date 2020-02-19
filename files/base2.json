@@ -1,0 +1,2310 @@
+{
+  "base": [
+    {
+      "Description": "suporte_definicao_match",
+      "AssociatedSentences": [
+        "O que é match?",
+        "Deu match, o que é?",
+        "match ?",
+        "Para que serve o match?",
+        "Quero entender o match?",
+        "O que significa match?",
+        "pra serve o match?",
+        "me explica o que é match",
+        "fale sobre match",
+        "o match é instantâneo ?",
+        "Qual a vantagem de dar match",
+        "O que é match pedido?",
+        "Somente em anúncio em potencial que acontece o match?",
+        "Todos clientes podem ter anúncios com match?",
+        "Posso dar matche em um anúncio grátis?",
+        "Posso cancelar um match?",
+        "o match serve para aluguéis?",
+        "Quando dá match significa que existe uma grande possibilidade de sucesso?",
+        "Posso realizar mais de um match?",
+        "Match é uma ferramenta?",
+        "Para entender melhor o que é o match o que devo fazer?"
+      ]
+    },
+    {
+      "Description": "suporte_match_como_fazer",
+      "AssociatedSentences": [
+        "Quando faço match, ocorre instantaneamente?",
+        "O match é feito automaticamente?",
+        "Como é feito o match?",
+        "Como fazer match?",
+        "Como a plataforma faz o match?",
+        "O match é feito pela plataforma como?",
+        "de que jeito o match é realizado?",
+        "de que maneira o match é feito?",
+        "De que modo ocorre o match?",
+        "Sou corretor e quero entender como dar matches",
+        "Como visualizo o match no aplicativo?",
+        "Quero dar matche em anúncios e pedidos, como fazer?",
+        "Como saber se o matche deu certo?",
+        "Como realizar um matche?",
+        "Como sei que meu anúncio deu match?",
+        "Como saber se meu anúncio deu match?",
+        "Match deve funcionar de que maneira?",
+        "O Match é automático?",
+        "Para fazer um Match, qual o procedimento?",
+        "quero fazer matches"
+      ]
+    },
+    {
+      "Description": "suporte_definicao_cliente_potencial",
+      "AssociatedSentences": [
+        "O que é cliente em potencial?",
+        "quando o cliente é potencial ?",
+        "quem é o cliente em potencial ?",
+        "cliente em potencial é o que ?",
+        "como assim cliente potencial?",
+        "O que faz o cliente em potencial?",
+        "Qual a utilidade do cliente em potencial?",
+        "Cliente em potencial?",
+        "O que seria um cliente em potencial?",
+        "CLIENTE EM POTENCIAL",
+        "Defina cliente em potencial para a plataforma",
+        "me diga o que é o cliente em potencial",
+        "fale a respeito do cliente em potencial",
+        "o cliente potencial seria o que exatamente?",
+        "Pode haver vários clientes em potencial dentro da plataforma?"
+      ]
+    },
+    {
+      "Description": "suporte_visualiza_anuncios",
+      "AssociatedSentences": [
+        "Quem visualiza meus anúncios?",
+        "quem vê meus anúncios ?",
+        "as pessoas enxergam meu anuncio ?",
+        "meu anuncio é visto por quem ?",
+        "os clientes veem meu anúncio ?",
+        "Quem tem acesso ao meu anúncio?",
+        "Todos os usuários têm acesso ao meu anúncio?",
+        "alguém vê meus anuncios?",
+        "meu anuncio pode ser visualizado por quem?",
+        "visualização de anuncios é realizada por quem.",
+        "que usuários que veem meu anuncios?",
+        "os usuários que visualizam os anuncios são?",
+        "que pessoa que visualiza os anuncios?",
+        "que tipo de pessoa visualiza os meus anuncios?",
+        "quem vê os meus anuncios?",
+        "quem enxerga os meus anuncios?",
+        "Meu anúncio é visto por quem?",
+        "Quem poder ver meus anúncios além de mim?",
+        "Quem pode enchergar meus anúncios?",
+        "Tenho anúncios visíveis para os corretores?",
+        "Todos perfis de acesso podem ter direito a ver meus anúncios?",
+        "Qualquer cliente tem acesso aos anúncios?"
+      ]
+    },
+    {
+      "Description": "suporte_visualiza_pedidos",
+      "AssociatedSentences": [
+        "Quem visualiza meus pedidos?",
+        "quem enxerga meus pedidos ?",
+        "quem enxerga meu pedido ?",
+        "meu pedido é visto por quem ?",
+        "as pessoas verão meu pedido ?",
+        "qualquer um vê meu pedido ?",
+        "Meu pedido fica visível a quem?",
+        "quem ve meus pedidos?",
+        "alguém vê meus pedidos?",
+        "meu pedido pode ser visto por qual tipo de pessoa?",
+        "que usuários que veem meu pedido?",
+        "os usuários que visualizam os pedidos são?",
+        "que pessoa que visualiza os pedidos?",
+        "que tipo de pessoa visualiza os meus pedidos?",
+        "quem vê os meus pedidos?",
+        "quem enxerga os meus pedidos?",
+        "Posso enxergar pedidos de outros clientes?",
+        "Todos clientes tem acesso a todos pedidos no site?",
+        "Os pedidos ficarão sempre visíveis na plataforma?",
+        "Quero enxegar todos meus pedidos agora, como procedo?"
+      ]
+    },
+    {
+      "Description": "suporte_visualizar_dados_usuario_pedido",
+      "AssociatedSentences": [
+        "Por que não posso acessar os dados do usuário que faz pedido?",
+        "Não consigo visualizar os dados do usuário que faz pedido, o que faço?",
+        "Gostaria de acessar os dados do usuário que faz pedido, como faço?",
+        "Posso acessar os dados do usuário que faz pedido?",
+        "Apenas corretores tem acesso aos dados do user que fez os pedidos?",
+        "Como acesso os dados do usuário que faz pedido?",
+        "Por que não posso ter acessar os dados do user que fez o pedido?",
+        "Não consigo visualizar os dados do user responsável pelo pedido, o que devo fazer?",
+        "Gostaria de acessar os dados do user de quem fez o pedido, como faço?",
+        "Posso acessar os dados do usuário gerador do pedido?"
+      ]
+    },
+    {
+      "Description": "suporte_placa_informacoes",
+      "AssociatedSentences": [
+        "para que serve placa cortesia ?",
+        "o que contem a placa?",
+        "o que é placa cortesia?",
+        "quero saber o que é placa",
+        "me explique o que é placa cortesia",
+        "Meu nome estará na placa?",
+        "o que posso escrever na placa do imóvel ?",
+        "me defina placa",
+        "me explique o que é a placa?",
+        "para o meu plano como ganho a placa?",
+        "no plano grátis tem placas",
+        "as placas vem no plano premium",
+        "o plano corretor vem com placas?",
+        "Quero entender melhor sobre placa cortesia"
+      ]
+    },
+    {
+      "Description": "suporte_placa_como_fixar",
+      "AssociatedSentences": [
+        "Como coloco a placa de maneira certa?",
+        "Como prender a placa corretamente?",
+        "Posso usar prego para fixar a placa?",
+        "Quero fixar a placa e agora?",
+        "Tem jeito certo para colocar a placa?",
+        "Não sei colocar a placa e agora?",
+        "Como devo colocar a placa?",
+        "Qual a melhor forma de colocar a placa?",
+        "Para fixar a placa devo?",
+        "Como devo anexar a placa no meu imóvel?",
+        "Quero colocar placa no meu imóvel, como eu faço",
+        "como ponho a placa no meu imóvel",
+        "qual a maneira de por a placa no imovel",
+        "que maneiras existem para por uma placa no imovel",
+        "Posso colocar a placa da maneira como bem entender?",
+        "Não sei como colocar a placa no imóvel",
+        "Se eu fixar a placa incorretamente, posso mudar depois?",
+        "Como prender a placa do jeito certo para não cair?",
+        "Posso prender a placa do jeito que eu quiser?"
+      ]
+    },
+    {
+      "Description": "suporte_mais_placas_cortesia",
+      "AssociatedSentences": [
+        "Posso pedir mais placas?",
+        "Quero mais placa",
+        "Quero mais uma placa de cortesia",
+        "Mais Placa Cortesia?",
+        "Como conseguir mais placas de cortesia?",
+        "preciso de mais placas",
+        "Quantas placas recebo no anúncio premium?",
+        "Posso ganhar mais placas cortesia?",
+        "até quantas placas de cortesia consigo?",
+        "Mais placas é possível?",
+        "como procedo para comprar mais placas",
+        "como procedo para adquirir um numero maior de placas.",
+        "posso adquirir mais placas",
+        "tem como eu conseguir mais placas gratuitamente?"
+      ]
+    },
+    {
+      "Description": "suporte_definicao_gestor_placa",
+      "AssociatedSentences": [
+        "O que é gestor placa?",
+        "gestor placa?",
+        "pra que serve o gestor de placa ?",
+        "faz o que o gestor de placas ?",
+        "oq faz gestor de placa?",
+        "quero saber o que é gestor de placa",
+        "Quando uso o gestor placa?",
+        "Para quê uso o gestor placa?",
+        "Qual a serventia do gestor de placas?",
+        "a utilidade de um gestor de placas.",
+        "Quando sei que posso usar a função de gestor placa?",
+        "Quero entender melhor sobre gestor placa na plataforma?",
+        "Gestor placa é sobre as placas físicas do anúncio?",
+        "Como corretor quero saber mais sobre gestão de placas?",
+        "Via plataforma, quero saber mais sobre a gestão de placas físicas?",
+        "Sou corretor, quero entender sobre gestão de placas?"
+      ]
+    },
+    {
+      "Description": "suporte_criacao_placa",
+      "AssociatedSentences": [
+        "Posso fazer a placa em outro lugar?",
+        "quero fazer minha placa em outro lugar",
+        "outro lugar pode fazer uma placa do meu imóvel ?",
+        "a placa do imóvel precisa ser feita aqui ?",
+        "posso usar uma placa feita em outro lugar ?",
+        "A placa pode ser feita em outro lugar?",
+        "tem como fazer a placa em outro lugar?",
+        "Gostaria de fazer a placa do meu imóvel em outro lugar.",
+        "Posso fazer a placa com um terceiro?",
+        "teria como fazer a placa em outro lugar?",
+        "Posso fazer minhas placas fora daqui sem problemas?",
+        "Existem regras diferentes de município, caso eu faça as placas em outra região?",
+        "Eu consigo fazer minhas placas fora do portal?"
+      ]
+    },
+    {
+      "Description": "suporte_placa_informacoes_dados_divulgacao",
+      "AssociatedSentences": [
+        "As placas de divulgação possuem meu nome e telefone?",
+        "Meu nome e telefone estão nas placas de divulgação?",
+        "Meu nome e telefone se encontram nas placas de divulgação?",
+        "Meu telefone e nome serão divulgados nas placas?",
+        "As placas de divulgação apresentarão meu nome e telefone?",
+        "Meu nome estará na placa de divulgação?",
+        "Meu telefone estará na placa de divulgação?",
+        "quais dados são exibidos na placa de divulgação?",
+        "Quais informações existem na placa de divulgação?",
+        "Me fale quais dados são exibidos na placa de divulgação.",
+        "Na placa do anúncio premium, posso colocar um telefone?",
+        "Quais informações ficam na placa?",
+        "quais informações vão na placa",
+        "meu telefone estará na placa?",
+        "Como saber as informações da placa?",
+        "Me explica com mais detalhes sobre os dados das placas?",
+        "Quero entender sobre as informações que virão nas placas"
+      ]
+    },
+    {
+      "Description": "suporte_restricao_visualizacao_pedidos",
+      "AssociatedSentences": [
+        "Posso ver os pedidos de outro corretor?",
+        "Posso ver os pedidos de outras pessoas?",
+        "Posso ver os pedidos de terceiros?",
+        "existe alguma restrição ao visualizar pedidos de outro corretor?",
+        "Não posso ver os pedidos de outros usuários?",
+        "Posso buscar os pedidos?",
+        "Onde eu poderia buscar os pedidos?",
+        "Vejo onde os pedidos?",
+        "Onde eu consigo visualizar os pedidos dos clientes?",
+        "Onde eu posso ver os pedidos dos clientes?",
+        "Eu posso a qualquer momento buscar pedidos de clientes e corretores?"
+      ]
+    },
+    {
+      "Description": "suporte_definicao_agente",
+      "AssociatedSentences": [
+        "O que é agente?",
+        "explica o que é agente",
+        "o que significa ser agente?",
+        "meu amigo disse que é um agente, o que isto quer dizer?",
+        "o que quer dizer ser agente?",
+        "oq é ser agente",
+        "Quais os benefícios de ser agente?",
+        "Oportunidade de ser agente?",
+        "defina agente.",
+        "Agente",
+        "Como eu reconheço um usuário agente?",
+        "o significado de usuário agente",
+        "me diga a respeito dos usuários agentes",
+        "Quero entender melhor sobre papel do agente?",
+        "Como sei quem é o agente na plataforma?",
+        "Qual a função principal de um Agente?",
+        "Agente pode trabalhar junto com um terceiro credenciado?",
+        "Um Agente pode trabalhar junto com um terceiro credenciado?",
+        "Ser um agente na plataforma pode auxiliar em que?"
+      ]
+    },
+    {
+      "Description": "suporte_visualizar_dados_contato_pedido",
+      "AssociatedSentences": [
+        "Por que não vejo os dados de contato de um pedido?",
+        "Todos os corretores podem ver os meus dados de contato em um pedido ?",
+        "meus dados ficam visíveis em um pedido?",
+        "se eu fizer um pedido, meus dados pessoais serão mostrados?",
+        "fiz um pedido, meus dados vão ficar visíveis ?",
+        "não estou vendo os dados de contato no pedido, o que faço ?",
+        "Os dados de contato do pedido não estão aparecendo, o que faço?",
+        "não são exibidos os dados de contato de um pedido, como proceder?",
+        "exibição dos dados de contato de um pedido",
+        "não vejo o contato de um pedido."
+      ]
+    },
+    {
+      "Description": "suporte_definicao_turbinar",
+      "AssociatedSentences": [
+        "O que é turbinar?",
+        "Poderia me explicar o que é turbinar?",
+        "O que é turbinada ?",
+        "O que é um Turbo?",
+        "Pq devo turbinar ?",
+        "qual a vantagem de uma turbinada ?",
+        "explica o que é turbinar",
+        "O que é um anúncio turbinado?",
+        "Qual anúncio posso turbinar?",
+        "Tem anúncio certo para turbinar?",
+        "Como posso turbinar o anúncio do meu imóvel?",
+        "O que significa turbinar um anúncio?",
+        "O que significa anúncio turbinado ?",
+        "Para que serve turbinar um anúncio?",
+        "Muda algo turbinar um anúncio ?"
+      ]
+    },
+    {
+      "Description": "suporte_regras_anunciar_imovel",
+      "AssociatedSentences": [
+        "Posso anunciar um imóvel que não é meu?",
+        "não tenho creci, posso anunciar um imóvel ?",
+        "sou proprietário do imóvel, posso anunciar ?",
+        "quero anunciar um imóvel que não é meu, posso ?",
+        "posso anunciar um imóvel de outra pessoa ?",
+        "Não sou proprietário do imóvel, posso anunciar ?",
+        "Regras para anunciar um imovel",
+        "O que eu preciso ter para anunciar um imovel?",
+        "tem alguma regra pra eu fazer um anuncio de um imóvel?",
+        "tem regra para fazer uma propaganda?",
+        "quais as regras para anunciar um imóvel?"
+      ]
+    },
+    {
+      "Description": "suporte_anuncio_imovel_em_construcao",
+      "AssociatedSentences": [
+        "Posso anunciar um imóvel que não está pronto?",
+        "se o imóvel está em construção pode ser anunciado ?",
+        "imóveis inacabados como devem ser anunciados ?",
+        "tem regra para cadastrar imóvel que não está pronto ?",
+        "meu imóvel está em construção, mas eu queria anunciar, posso ?",
+        "É possível anunciar um imóvel ainda em construção?",
+        "Um imóvel que não está pronto, pode ser anunciado?",
+        "posso anunciar um imovel em fase de construção?",
+        "imovel sendo construido pode ser anunciado?",
+        "anuncio de um imovel em construção."
+      ]
+    },
+    {
+      "Description": "suporte_anunciar_imovel_outro_corretor",
+      "AssociatedSentences": [
+        "Posso anunciar um imóvel que já foi anunciado anteriormente?",
+        "Posso anunciar o mesmo imóvel que já está anunciado por outro corretor?",
+        "Quero anunciar um imóvel já anunciado por outro corretor, posso anunciar?",
+        "Gostaria de anunciar um imóvel já anunciado por um corretor, posso?",
+        "teria algum problema se eu anunciar um imovel anunciado por outra pessoa?",
+        "um anuncio pode ser feito após o mesmo ter sido anunciado?",
+        "um anuncio quando anunciado pode ser anunciado novamente por outro usuário?",
+        "Posso anunciar o mesmo imóvel que já está anunciado por outro usuário?",
+        "Quero anunciar um imóvel já anunciado por outro usuário, posso anunciar?",
+        "Gostaria de anunciar um imóvel já anunciado por um usuário, posso?",
+        "Um outro corretor pode anunciar o mesmo imóvel que eu já anunciei?",
+        "Quero anunciar o mesmo imóvel já anunciado por outro corretor, posso?",
+        "Como corretor posso anunciar um imóvel já anunciado por outro corretor?",
+        "Eu posso anunciar o mesmo imóvel que outro corretor já anunciou?"
+      ]
+    },
+    {
+      "Description": "suporte_anuncio_corretores_diferentes",
+      "AssociatedSentences": [
+        "Corretores diferentes podem anunciar os mesmos imóveis?",
+        "O mesmo imóvel pode ser anunciado mais do que uma vez por corretores diferentes?",
+        "Diferentes corretores podem anunciar o mesmo imóvel?",
+        "Posso anunciar um imóvel que já foi anunciado por outro corretor diferente no aplicativo?",
+        "Um outro corretor diferente pode anunciar um imóvel já anunciado por mim?",
+        "Outro corretor diferente quer anunciar o mesmo imóvel que eu já anunciei, ele pode?",
+        "Sou corretor, posso anunciar um imóvel já anunciado por outro diferente corretor?",
+        "Eu como um corretor anuciando imovel de outro corretor diferente."
+      ]
+    },
+    {
+      "Description": "suporte_definicao_angariador",
+      "AssociatedSentences": [
+        "O que é angariador?",
+        "o que significa angariador de imóvel ?",
+        "faz o que um angariador de imóveis ?",
+        "explique o significado de angariador de imóveis",
+        "angariador de imóvel ?",
+        "Qual a função de um angariador de imóveis?",
+        "Para que serve um angariador de imóveis?",
+        "defina angariador",
+        "ANGARIDOR?",
+        "angariador de imoveis",
+        "O que significa angariar?",
+        "O que significa captação de imóveis?",
+        "o que é angariar imoveis ?"
+      ]
+    },
+    {
+      "Description": "suporte_anuncio_pode_desarquivar",
+      "AssociatedSentences": [
+        "Posso desarquivar um imóvel?",
+        "quero desarquivar um imóvel, pode ?",
+        "eu posso desarquivar um imóvel ?",
+        "pode publicar novamente um imóvel arquivado ?",
+        "é possível desarquivar um imóvel",
+        "Gostaria de desarquivar um anúncio de um imóvel.",
+        "Um anúncio desarquivado pode ser publicado novamente?",
+        "desarquive meu anuncio de imovel.",
+        "desarquivar anuncio",
+        "desarquivar imovel",
+        "tem como desarquivar um anuncio?",
+        "guardar anuncio imóvel"
+      ]
+    },
+    {
+      "Description": "suporte_anuncio_regra_expirar",
+      "AssociatedSentences": [
+        "Por que o anúncio expirou?",
+        "por que o anúncio está expirado ?",
+        "o que aconteceu que o anúncio está expirado ?",
+        "ví que meu anúncio expirou, o que aconteceu ?",
+        "por que o anúncio expira ?",
+        "O que fazer quando o anúncio expira?",
+        "Posso publicar novamente quando o anúncio expira?",
+        "Tempo de expiração de um anuncio",
+        "tempo de validade de um anuncio",
+        "expiração de anuncio",
+        "os anuncios tem validade?",
+        "a validade de um anuncio tende a durar quanto?",
+        "ao expirar o tempo de validade de um anuncio o que acontece?"
+      ]
+    },
+    {
+      "Description": "suporte_anuncio_reprovado",
+      "AssociatedSentences": [
+        "Meu anúncio não foi aprovado. O que eu faço?",
+        "o que faço se meu anúncio foi recusado ?",
+        "meu anuncio foi recusado, e agora ?",
+        "quero saber o que fazer agora que meu anúncio foi recusado",
+        "recusaram meu anúncio, preciso fazer algo ?",
+        "O que fazer após ter um anúncio recusado?",
+        "Anúncio recusado, o que faço?",
+        "Anuncio recusado",
+        "Anuncio reprovado",
+        "o que faço se meu anúncio foi reprovado ?",
+        "após a reprovação de um anuncio como devo proceder?",
+        "o que faço com os anúncios reprovados? posso reenviá-los para nova aprovação?",
+        "Como procedo se meu anúncio foi reprovado?",
+        "Meu anúncio foi reprovado e agora?",
+        "Reprovaram meu anúncio, o que devo fazer agora?",
+        "Seu meu anúncio foi reprovado o que eu posso fazer com ele?",
+        "Se acontecer do meu anúncio sofrer reprovação o que posso fazer?",
+        "Se por acaso meu anúncio for reprovado o que eu posso fazer?",
+        "Consigo ver o motivo de recusa do meu anúncio?",
+        "Meu anuncio foi recusado, quais os motivos?",
+        "Porque meu anuncio foi recusado?",
+        "Por quais motivos meu anuncio foi recusado?",
+        "Quais os motivos de recusa do meu anuncio?",
+        "Como saber por que meu anúncio foi recusado?",
+        "Meu anúncio foi desaprovado, o que posso fazer?",
+        "qual a razão pela qual meu anuncio foi reprovado?",
+        "Por que meu anuncio foi recusado?",
+        "A recusa de um anuncio é devido a?",
+        "recusaram meu anuncio por quê?",
+        "quais as razões pela reprovação do meu anúncio",
+        "meu anuncio foi reprovado por qual razão",
+        "Após meu anúncio passar por análise e ser reprovado, posso reformula-lo?",
+        "Posso reformular meu anúncio, após reprovação?",
+        "Quero reformular meu anúncio reprovado, posso?",
+        "É possível reformular um anúncio reprovado?",
+        "Meu anúncio foi reprovado, posso reformula-lo?",
+        "Reprovaram meu anúncio, quero reformula-lo",
+        "Quero editar meu anúncio reprovado",
+        "Posso atualizar o meu anúncio que foi reprovado?",
+        "quero alterar o meu anúncio que foi recusado",
+        "Reformular anúncio",
+        "quero modificar meu anuncio que foi anteriormente recusado",
+        "modificação após reprovação de anuncio",
+        "Se meu anúncio foi reprovado, eu consigo editá-lo?",
+        "Reprovaram meu anúncio, como posso editá-lo?",
+        "Como devo editar um anúncio reprovado?",
+        "como eu posso reformular meu anúncio caso ele tenha sido reprovado?",
+        "Como devo reformular um anúncio reprovado?"
+      ]
+    },
+    {
+      "Description": "suporte_pedido_pode_arquivar",
+      "AssociatedSentences": [
+        "Por que não posso arquivar um pedido?",
+        "queria arquivar um pedido, pode ?",
+        "posso arquivar um pedido ?",
+        "não estou conseguindo arquivar um pedido",
+        "por que não pode arquivar o anúncio ?",
+        "Gostaria de arquivar um pedido.",
+        "Como arquivar um pedido?",
+        "arquivar um pedido",
+        "como realizar a arquivação de um pedido?",
+        "arquivamento de um pedido",
+        "tem como eu guardar um pedido?",
+        "guardar um pedido"
+      ]
+    },
+    {
+      "Description": "suporte_avaliar_atendimento_corretor",
+      "AssociatedSentences": [
+        "Por quem sou avaliado?",
+        "quem me avalia ?",
+        "os cliente avalizam os corretores ?",
+        "serei avaliado por alguém ?",
+        "quem avalia os corretores ?",
+        "Quem é responsável por avaliar o corretor?",
+        "Sou avaliado por quem?",
+        "os clientes pontuam os corretores?",
+        "quero avaliar corretor.",
+        "quero pontuar corretor",
+        "fazer a avaliação do corretor"
+      ]
+    },
+    {
+      "Description": "suporte_definicao_avaliacao",
+      "AssociatedSentences": [
+        "Como funciona a avaliação de um terreno?",
+        "Como é calculada a nota da avaliação?",
+        "a nota de avaliação de um espaço é determinada de que forma ?",
+        "qual a maneira de calcular a nota de avaliação ?",
+        "de que jeito é calculada a nota de avaliação ?",
+        "quem calcula a nota de avaliação ?",
+        "Quais são os critérios da nota de avaliação?",
+        "defina avaliação de imóveis",
+        "nota de avaliação de uma propriedade",
+        "como é definiada a nota de avaliação de um imóvel?"
+      ]
+    },
+    {
+      "Description": "suporte_definicao_pastas_favorito",
+      "AssociatedSentences": [
+        "O que são as pastas do favorito?",
+        "para que servem as pastas de favoritos ?",
+        "posso usar a pasta do favorito ?",
+        "o que é pasta do favorito ?",
+        "o que são os favoritos ?",
+        "Qual a funcionalidade dos favoritos?",
+        "defina pasta de favoritos",
+        "pasta de favoritos",
+        "favoritos",
+        "me fale mais sobre a pasta de favoritos",
+        "diga me o que é essa pasta de favoritos"
+      ]
+    },
+    {
+      "Description": "suporte_diferenca_anuncios",
+      "AssociatedSentences": [
+        "Qual a diferença de anúncio grátis e premium?",
+        "me explique a diferença sobre anuncio grátis e premium",
+        "quero saber sobre anuncio premium e gratis",
+        "o que muda entre os anúncios grátis e premium ?",
+        "o que difere os anúncios premium e grátis?",
+        "Diferenças entre anúncios grátis e premium.",
+        "Dissemelhança entre anúncio grátis e premium.",
+        "como posso diferenciar os anuncios?",
+        "tem diferença os anuncios?",
+        "Anuncios diferenças",
+        "como consigo destinguir os anuncios"
+      ]
+    },
+    {
+      "Description": "suporte_permissao_anuncio_gratis",
+      "AssociatedSentences": [
+        "Um corretor pode anunciar grátis?",
+        "o corretor pode anunciar grátis ?",
+        "é permitido ao corretor anunciar grátis ?",
+        "sou corretor, posso anunciar grátis ?",
+        "eu posso anunciar grátis ?",
+        "quero anunciar gratis, posso ?",
+        "Quero anunciar grátis sendo corretor, posso?",
+        "Como anunciar grátis?",
+        "Quero fazer um anúncio grátis, como faço?",
+        "Como posso anunciar grátis?",
+        "Quero anunciar grátis, como faço?",
+        "Gostaria de saber se posso anunciar grátis.",
+        "Como faço para ter um anúncio grátis?",
+        "Quero anunciar grátis, posso fazer isso?",
+        "Como funciona o anúncio gratis?",
+        "O anúncio grátis, funciona como?"
+      ]
+    },
+    {
+      "Description": "suporte_definicao_anuncio_destaque",
+      "AssociatedSentences": [
+        "O que é um anúncio destaque?",
+        "para que serve o anúncio em destaque ?",
+        "O que faz o destaque de anúncio ?",
+        "quero saber o que é anúncio destaque",
+        "me fale sobre anuncio destaque",
+        "explique sobre anúncio destaque",
+        "Defina anuncio em destaque",
+        "Anuncio em destaque",
+        "Destacar anuncio serve pra que",
+        "O que é o destaque?",
+        "Me ajude a entender sobre destaque anúncio",
+        "Todos corretores destacam anúncios?",
+        "o que significa anuncio em destaque"
+      ]
+    },
+    {
+      "Description": "suporte_definicao_imovel_sem_placa",
+      "AssociatedSentences": [
+        "Imóvel sem placa, o que é?",
+        "o que é imóvel sem placa ?",
+        "quando o imóvel está sem placa ?",
+        "o que acontece quando o imóvel fica sem placa ?",
+        "o que significa imóvel sem placa ?",
+        "O que fazer com um imóvel sem placa?",
+        "Meu imóvel sem placa, tem algum problema?",
+        "Imovel sem placa",
+        "defina imovel sem placa",
+        "imovel sem placa seria?",
+        "Se meu imóvel não tiver placa, posso ter problemas?",
+        "O que pode acontecer para um imóvel que está sem placa?"
+      ]
+    },
+    {
+      "Description": "suporte_definicao_imovel_com_placa",
+      "AssociatedSentences": [
+        "Imóvel com placa, o que é?",
+        "O que acontece quando existe placa no imóvel?",
+        "Para que serve a placa em um imóvel?",
+        "Qual a utilidade da placa no imóvel?",
+        "Por que ter placa no imóvel?",
+        "Um imóvel com placa, ajuda na venda?",
+        "O que significa um imóvel com placa?",
+        "Tenho chances de vender meu imóvel se não colocar placa?",
+        "Para que ter as placas no imóvel?",
+        "Por que ter as placa no meu imóvel?",
+        "Imóvel com placas?",
+        "defina imóvel com placa",
+        "Posso ter quantos imóveis com placa?"
+      ]
+    },
+    {
+      "Description": "suporte_definicao_advogadox",
+      "AssociatedSentences": [
+        "O que é o Advogado x?",
+        "pra que serve o advogado x ?",
+        "o advogado x é um site ?",
+        "advogado x é o que ?",
+        "quem é o advogado x ?",
+        "queria saber sobre o advogado x",
+        "Me explique sobre o advogado x.",
+        "Defina advogado x",
+        "Advogado x",
+        "Advogado x seria?",
+        "Pode explicar qual a função do advogado x?",
+        "Como o advogadoX pode ajudar?",
+        "Qual o papel principal do Advogado X?",
+        "Advogado X pode ser útil para quem?",
+        "Sobre o advogadoX no que pode me ajudar?",
+        "Como o Advogado X pode me ajudar"
+      ]
+    },
+    {
+      "Description": "suporte_definicao_iago",
+      "AssociatedSentences": [
+        "Quem é Iago?",
+        "O que faz o iago?",
+        "O que é o iago?",
+        "Iago é um atendente?",
+        "Iago?",
+        "Acesso ao Iago?",
+        "o que significa iago?",
+        "Iago seria?",
+        "Iago é uma pessoa?",
+        "Iago é um ser vivo?",
+        "Iago é um robô?",
+        "Iago é um chatbot?",
+        "Posso pedir ajuda ao Iago qualquer momento?",
+        "Iago só pode ser acessado por corretores?"
+      ]
+    },
+    {
+      "Description": "suporte_definicao_ana",
+      "AssociatedSentences": [
+        "Quem é Ana?",
+        "o que faz a ana ?",
+        "para que serve a Ana ?",
+        "quem é ana ?",
+        "ana é uma pessoa ?",
+        "Ana é uma atendente?",
+        "o que significa ana?",
+        "quem é voce?",
+        "quem é vc",
+        "com quem estou falando",
+        "quem esta falando comigo?",
+        "ana pode me auxiliar em que?",
+        "Como a ana pode me ajudar?",
+        "Ana pode ser acessada por todos?",
+        "Por que acessar a Ana?",
+        "Ana pode me ajudar?",
+        "Ana me ajuda em uma dúvida?",
+        "Tenho acesso a Ana todos dias?",
+        "Quero saber mais sobre a Ana?",
+        "quem está aí?",
+        "falo com quem"
+      ]
+    },
+    {
+      "Description": "suporte_definicao_randomico",
+      "AssociatedSentences": [
+        "O é que randômico?",
+        "O que é destaque randômico?",
+        "Para que serve o destaque randômico?",
+        "Por que precisa do destaque randômico?",
+        "Para que serve destaque  randômico?",
+        "Como funciona o destaque randômico?",
+        "Randômico significa o que?",
+        "me fale sobre randômico",
+        "o que seria randomico?",
+        "randômico",
+        "defina randômico"
+      ]
+    },
+    {
+      "Description": "agradecimento",
+      "AssociatedSentences": [
+        "thnx",
+        "obg",
+        "obrigado",
+        "valeu",
+        "vou fazer isso",
+        "grato",
+        "agradecido",
+        "vlw",
+        "Muito obrigado",
+        "Muito agradecido",
+        "tks",
+        "ok vlww",
+        "ta, obrigado"
+      ]
+    },
+    {
+      "Description": "saudacao",
+      "AssociatedSentences": [
+        "boa noite",
+        "boa tarde",
+        "bom dia",
+        "oi",
+        "oiii",
+        "OIe",
+        "ooi",
+        "oei",
+        "olá",
+        "Olar",
+        "Olaa",
+        "fala blz",
+        "Eae",
+        "Opa",
+        "iai td bem",
+        "e ai cara",
+        "fala ai",
+        "eai",
+        "Hey",
+        "viva",
+        "diga",
+        "diz ai"
+      ]
+    },
+    {
+      "Description": "saudacao_resp",
+      "AssociatedSentences": [
+        "estou bem",
+        "tranquilo e como voce esta?",
+        "bem e você?",
+        "blz e com vc?",
+        "tudo",
+        "estou bem",
+        "tudo bem tambem",
+        "td bem",
+        "bem tbm e com vc",
+        "eu estou bem e como voce esta",
+        "tranquilo"
+      ]
+    },
+    {
+      "Description": "despedida_afirmativa",
+      "AssociatedSentences": [
+        "ainda não entendi",
+        "continuo com duvidas",
+        "sim",
+        "s",
+        "preciso de mais ajuda",
+        "não consegui entender",
+        "não ficou claro para mim",
+        "positivo"
+      ]
+    },
+    {
+      "Description": "despedida_negativa",
+      "AssociatedSentences": [
+        "não",
+        "nunca",
+        "jamais",
+        "negativo",
+        "n",
+        "nem",
+        "num",
+        "nope",
+        "niem"
+      ]
+    },
+    {
+      "Description": "despedida",
+      "AssociatedSentences": [
+        "adeus",
+        "tchau",
+        "flw",
+        "Fui",
+        "até mais",
+        "até breve",
+        "te vejo logo",
+        "adeusinho",
+        "até à próxima",
+        "até depois",
+        "ate à vista",
+        "ate logo",
+        "tchauzinho",
+        "me despeço de você",
+        "Até qualquer dia",
+        "Até amanhã"
+      ]
+    },
+    {
+      "Description": "suporte_visualizar_todos_anuncios",
+      "AssociatedSentences": [
+        "Posso ver anúncios de outro corretor?",
+        "Posso ver anúncios de outras pessoas?",
+        "Consigo acessar todos os anúncios?",
+        "Como vejo todos os anúncios?",
+        "Por que não consigo acessar todos os anúncios?",
+        "Por que não são todos que conseguem acessar meu anúncio?",
+        "Me fale a quais anuncios tenho acesso?",
+        "Teria como dizer a quais anúncios tenho acesso?",
+        "quero ver todos os anuncios",
+        "Outras pessoas podem ver meus anúncios?",
+        "eu consigo ver os anuncios de qualquer pessoa?",
+        "eu posso enxergar quais anuncios?",
+        "poderia me dizer quais anuncios eu vejo?",
+        "Por que eu não consigo acessar todos os anúncios na plataforma?",
+        "Eu tenho acesso a quais anúncios na plataforma?",
+        "Quero ver todos anúncios da plataforma, como faço?",
+        "Posso visualizar todos anúncios da plataforma?",
+        "Posso visualizar os anúncios de outras pessoas da plataforma?",
+        "Todos anúncios podem ser visualizados pela plataforma?",
+        "Corretores associados podem visualizar todos anúncios pela plataforma?"
+      ]
+    },
+    {
+      "Description": "suporte_o_que_administrar_usuario",
+      "AssociatedSentences": [
+        "O que é administrar os usuários?",
+        "O que é administrar usuários extras?",
+        "Posso convidar outros usuários?",
+        "O que significa administrar usuários extras?",
+        "O que acontece quando administro um usuário extra?",
+        "Explica administrar usuários",
+        "O que faz a administração de usuários?",
+        "O que é usuário extra?",
+        "O que significa usuário extra?",
+        "Me explique o que é usuário extra",
+        "Como usar o usuário extra?",
+        "Qual a utilidade do usuário extra?",
+        "O corretor tem usuário extra?",
+        "A imobiliária tem usuário extra?",
+        "gerenciar usúarios extras seria o que exatamente?",
+        "o que significa gerenciar usuários?",
+        "me diga a definição de gerenciar usuários"
+      ]
+    },
+    {
+      "Description": "suporte_anuncio_nome_anunciante",
+      "AssociatedSentences": [
+        "Os anúncios ficam no meu nome?",
+        "Em nome de quem ficam os anúncios?",
+        "Meu nome se encontra nos anúncios?",
+        "Posso colocar os anúncios em meu nome?",
+        "O nome do anunciante fica nos anúncios?",
+        "Os anúncios ficam no nome do titular?",
+        "Os anúncios ficam no nome de quem?",
+        "Os anuncios estarão em qual nome?",
+        "Anúncios no nome do anunciante",
+        "Anúncios no nome do titular"
+      ]
+    },
+    {
+      "Description": "suporte_o_que_qtde_visualizacao_anuncio",
+      "AssociatedSentences": [
+        "O que é a quantidade de visualização de um anúncio?",
+        "Como funciona a quantidade de vizualizações de um anúncio?",
+        "quantidade de visualização do anuncio",
+        "se eu vi um imóvel, entra no numero de visualização de anuncio",
+        "Para que serve a quantidade de visualizações de um anúncio?",
+        "Quantidade de visualização de anúncio?",
+        "Qual a funcionalidade da quantidade de visualização de anúncio?",
+        "A serventia da quantidade de visualizações no anuncio?",
+        "quantidade de visualizações",
+        "me fale sobre a quantidade de exibições",
+        "A serventia da quantidade de exibições no anuncio?",
+        "quantidade de exibições",
+        "me fale sobre a quantidade de visualizações",
+        "Como funciona a somatória de visualização de anúncios?",
+        "Quero entender melhor sobre qtde de visualização de anúncios",
+        "Porque existe a funcionalidade de visualização de anúncio"
+      ]
+    },
+    {
+      "Description": "suporte_o_que_interessados_anuncio",
+      "AssociatedSentences": [
+        "O que é interessados em um anúncio?",
+        "O que são os interessados?",
+        "Quem são os interessados em um anúncio?",
+        "Sou interessado em um anúncio, como faço?",
+        "Como me torno um interessado no anúncio?",
+        "O que significa tem pessoas interessadas no anúncio?",
+        "Por que aparece interessados em um anúncio?",
+        "Pessoas interessadas no eu anuncio",
+        "interessados anuncio",
+        "me fale sobre os interessados no anuncio",
+        "Posso me interessar por mais de um anúncio?",
+        "Se eu me interessar em um anúncio, como faço?",
+        "Posso estar interessada em vários anúncios",
+        "Interessados anúncios?",
+        "Estou interessado em um anúncio, o que acontece agora?"
+      ]
+    },
+    {
+      "Description": "suporte_definicao_canal_corretor",
+      "AssociatedSentences": [
+        "O que é o Canal do corretor?",
+        "Como funciona o Canal do corretor?",
+        "Quando utilizar o Canal do corretor?",
+        "Posso utilizar o Canal do corretor?",
+        "Quando preciso do Canal do corretor?",
+        "Como faz para utilizar o Canal do corretor?",
+        "Quero utilizar o Canal do corretor, posso?",
+        "Me fale sobre o canal do corretor",
+        "Canal do corretor",
+        "Defina Canal do corretor",
+        "Como acesso o canal do corretor",
+        "Quero acessar o canal do corretor, como proceder",
+        "Canal de Corretor é uma área que visa o que?",
+        "Qualquer corretor pode usar o Canal do Corretor?",
+        "não estou entendendo o canal do corretor"
+      ]
+    },
+    {
+      "Description": "suporte_definicao_imovel_oportunidade",
+      "AssociatedSentences": [
+        "O que é Imóvel de Oportunidade?",
+        "Como funciona o Imóvel de Oportunidade?",
+        "Eu, como corretor, faço uso do Imóvel de Oportunidade como?",
+        "Como usar o Imóvel de Oportunidade?",
+        "O que significa Imóvel de Oportunidade?",
+        "Imóvel de oportunidade?",
+        "Para uso do corretor, como funciona o Imóvel de Oportunidade?",
+        "me fale sobre imovel de oportunidade",
+        "Defina imovel de oportunidade",
+        "Imóvel de oportunidade",
+        "O que são imóveis de oportunidade?",
+        "Imóveis de Oportunidade são usados para que?",
+        "Consigo ver meus imóveis de oportunidade",
+        "O que são imóveis de oportunidade ?",
+        "imóveis de oportunidade são de clientes em potencial ?"
+      ]
+    },
+    {
+      "Description": "suporte_como_destacar_anuncio",
+      "AssociatedSentences": [
+        "Como posso destacar um anúncio?",
+        "Como faço um destaque?",
+        "Como funciona o destaque?",
+        "Quero saber como destacar um anúncio.",
+        "Gostaria de destacar um anúncio, como faço?",
+        "Poderia me informar como destacar um anúncio?",
+        "teria como destacar meu anuncio dos outros?",
+        "Me fale como destaco bem meu anuncio",
+        "Como destacar anúncio",
+        "Quero de destacar um anúncio, como procedo",
+        "Quero destacar meu anúncio, o que faço?",
+        "Me informe como destaco meu anúncio?",
+        "Como funciona o anúncio em destaque?"
+      ]
+    },
+    {
+      "Description": "suporte_como_usar_pedido_cliente",
+      "AssociatedSentences": [
+        "Como utilizar o Pedido do cliente?",
+        "Como funciona o Pedido do cliente?",
+        "Como corretor, posso utilizar o pedido do cliente?",
+        "Para que serve o Pedido do Cliente?",
+        "Funcionalidade do Pedido do Cliente.",
+        "Eu, como corretor, utilizo como o Pedido do Cliente?",
+        "O que fazer com o Pedido do Cliente?",
+        "O que consigo fazer no Pedido do Cliente?",
+        "eu posso fazer o que no pedido de cliente?",
+        "Como usar o pedido do cliente?",
+        "Como corretor, qual ação tomo em cima do pedido do cliente?",
+        "Pedido do cliente serve para que?",
+        "como utilizo os pedidos cliente?",
+        "Como faço para entrar no pedido do cliente?",
+        "Como entro no pedido do cliente?",
+        "Como acho o pedido do cliente?",
+        "Qual caminho para entrar no pedido do cliente?",
+        "Poderia me auxiliar a entrar no pedido do cliente?",
+        "Quero entrar no pedido do cliente, como faço?",
+        "Por onde acesso o pedido do cliente?",
+        "me fale como faço para visualizar os pedidos do clientes.",
+        "Pedidos de Clientes, como posso visualizá-los?",
+        "quero ver um pedido de cliente",
+        "preciso ver um pedido de cliente",
+        "eu consigo ver um pedido de cliente"
+      ]
+    },
+    {
+      "Description": "suporte_qtde_anuncio",
+      "AssociatedSentences": [
+        "Quantos anúncios posso fazer no Compre & Alugue Agora?",
+        "Posso fazer quantos anúncios no Compre & Alugue Agora?",
+        "Existe uma quantidade de anúncios que podem ser feitos na plataforma?",
+        "Qual a quantidade limite de anúncios que posso fazer?",
+        "Posso fazer mais do que um anúncio grátis?",
+        "Quantos imóveis posso anunciar gratuitamente?",
+        "Tem limite de anúncios que posso fazer no Compre & Alugue Agora?",
+        "me fale sobre a quantidade de anuncios que posso fazer",
+        "Tem algum limite para anunciar gratuitamente?",
+        "Posso fazer vários anúncios grátis?",
+        "Posso anunciar acima de quantos anúncios gratuitos",
+        "Existe limite de quantidade para anúncios Grátis e Premium por usuário?",
+        "Existe uma quantidade de anúncios que podem ser feitos na plataforma?",
+        "Quero entender melhor sobre quantidade de anúncios que posso anunciar grátis"
+      ]
+    },
+    {
+      "Description": "suporte_entrega_placa",
+      "AssociatedSentences": [
+        "Como faço para receber minha placa de anúncio do imóvel?",
+        "Como recebo a placa de divulgação do anúncio premium?",
+        "Recebo placa no anúncio grátis?",
+        "Quando recebo placa?",
+        "Anunciei grátis e não recebi placa, por que não recebi?",
+        "As placas de divulgação são entregues em minha casa?",
+        "Placas de divulgação também são enviadas para pessoas que anunciaram grátis?",
+        "Eu rebebo uma placa?",
+        "me fale como posso receber placas",
+        "Para onde são entregues placas de divulgação ?",
+        "Qual o prazo para recebimento das placas?"
+      ]
+    },
+    {
+      "Description": "suporte_como_usar_advogadox",
+      "AssociatedSentences": [
+        "Posso utilizar a plataforma Advogado X?",
+        "Como posso ter acesso a plataforma do Advogado x?",
+        "Posso utilizar a plataforma do Advogado X?",
+        "Para que serve a plataforma do Advogado x?",
+        "Gostaria de utilizar a plataforma do advogado x",
+        "Explique-me sobre o Advogado X.",
+        "Como utilizo a plataforma a plataforma Advogado X?",
+        "Me fale como uso a plataforma advogado X",
+        "Eu quero usar o advogado X",
+        "Onde consigo acessar o advagado X?",
+        "como pedir ajuda ao Advogado X?"
+      ]
+    },
+    {
+      "Description": "suporte_como_alterar_email",
+      "AssociatedSentences": [
+        "Como alterar meu e-mail no cadastro?",
+        "Posso alterar o email cadastrado?",
+        "Quero mudar o e-mail cadastrado.",
+        "Preciso mudar meu e-mail do cadastro.",
+        "Alterei meu e-mail de contato e gostaria de mudá-lo aqui, como faço?",
+        "Alterar e-mail de cadastro.",
+        "É possível alterar o e-mail de cadastro?",
+        "me fale como alterar o meu e-mail do cadastro.",
+        "Quero alterar meu e-mail do cadastro",
+        "Alterar email do cadastro",
+        "me diga como modificar o meu e-mail no cadastro.",
+        "Quero atualizar o meu email no cadastro",
+        "Modificar email do cadastro"
+      ]
+    },
+    {
+      "Description": "suporte_como_alterar_senha",
+      "AssociatedSentences": [
+        "Como alterar minha senha de acesso?",
+        "Como faço para alterar a senha?",
+        "Esqueci minha senha e agora?",
+        "Gostaria de alterar minha senha.",
+        "Como faço para mudar minha senha?",
+        "Quero mudar minha senha.",
+        "É possível alterar a minha senha?",
+        "quero trocar de senha",
+        "quero alterar a senha do meu perfil",
+        "é possível trocar a senha do meu perfil?"
+      ]
+    },
+    {
+      "Description": "suporte_como_contato_anunciante",
+      "AssociatedSentences": [
+        "Como entrar em contato com o anunciante?",
+        "Quero entrar em contato com o anunciante, como faço?",
+        "Gostaria de entrar em contato com o anunciante.",
+        "Posso contatar o anunciante?",
+        "Como contatar o anunciante?",
+        "Quero falar com o anunciante.",
+        "Como falar com o anunciante?",
+        "me diga como entrar em contato com o anunciante."
+      ]
+    },
+    {
+      "Description": "suporte_responsavel_permitir_turbinar",
+      "AssociatedSentences": [
+        "Preciso ser proprietário do imóvel para poder autorizar que alguém turbine o anúncio?",
+        "Para turbinar o anúncio, o proprietário do imóvel precisa autorizar?",
+        "Preciso pedir autorização do proprietário do imóvel para autorizar um anúncio?",
+        "Necessito de autorização do proprietário para turbinar um anúncio?",
+        "Para alguém turbinar meu anúncio preciso o proprietário autorizar?",
+        "É necessário autorização do proprietário para turbinar um anúncio?",
+        "O proprietário precisa autorizar caso eu queira turbinar um anúncio?",
+        "quem permite se o anuncio vai ser turbinado?",
+        "eu posso permirtir o turbo no meu anuncio?",
+        "preciso ser o dono do imóvel para que ele possa ser turbinado?",
+        "um anuncio para ser turbinado necessita da permissão do proprietário do anúncio?"
+      ]
+    },
+    {
+      "Description": "suporte_como_comprar_alugar",
+      "AssociatedSentences": [
+        "Como faço para alugar ou comprar um imóvel no Compre & Alugue Agora?",
+        "Como posso alugar ou comprar um imóvel na plataforma?",
+        "Quais as etapas para eu poder alugar ou comprar um imóvel no Compre & Alugue Agora?",
+        "Poderia me ajudar a comprar ou alugar um imóvel no Compre & Alugue Agora?",
+        "Gostaria de comprar um imóvel no Compre & Alugue Agora, poderia me auxiliar?",
+        "Gostaria de alugar um imóvel no Compre & Alugue Agora, poderia me auxiliar?",
+        "Quero alugar um imóvel da plataforma, como faço?",
+        "Quero comprar um imóvel da plataforma, como faço?",
+        "me diga como comprar um imovel?",
+        "me diga como alugar um imovel?"
+      ]
+    },
+    {
+      "Description": "suporte_perfil_avaliacao_maxima",
+      "AssociatedSentences": [
+        "Como posso conquistar 5 estrelas no meu perfil?",
+        "Quero conquistar 5 estrelas em meu perfil, como faço?",
+        "O que devo fazer para conquistar 5 estrelas em meu perfil?",
+        "Poderia me ajudar a saber como conquisto 5 estrelas em meu perfil?",
+        "Quero ter uma avaliação de 5 estrelas.",
+        "Me fale como conseguir as 5 estrelas",
+        "preciso ter as 5 estrelas na avaliação.",
+        "Perfil com avaliação maxima",
+        "Quero a maxima avaliação no meu perfil.",
+        "Como posso conquistar a avaliação maxima no meu perfil?",
+        "consigo ter um perfil cinco estrelas?",
+        "O que devo fazer para conquistar cinco estrelas?"
+      ]
+    },
+    {
+      "Description": "suporte_onde_meus_anuncios",
+      "AssociatedSentences": [
+        "Onde ficam meus anúncios?",
+        "Quais são meus anúncios?",
+        "Onde encontro meus anúncios?",
+        "Cadê meus anúncios?",
+        "Não encontro meus anúncios, onde ficam?",
+        "Como acesso meus anúncios?",
+        "Por onde acesso meus anúncios?",
+        "Onde consigo ver meus anúncios?",
+        "Quero ver meus anúncios, onde vou?",
+        "Como vejo meus anúncios?",
+        "Em que lugar ficam meus anúncios?",
+        "Gostaria de ver meus anúncios, onde ficam?"
+      ]
+    },
+    {
+      "Description": "suporte_foto_perfil_outra_pessoa",
+      "AssociatedSentences": [
+        "Posso colocar uma foto que não é minha?",
+        "A minha foto de perfil precisa ser de mim?",
+        "A foto de perfil precisa ser minha?",
+        "Preciso colocar uma foto de perfil minha?",
+        "Posso colocar a foto de outra pessoa em meu perfil?",
+        "Posso colocar a foto de outra coisa em meu perfil?",
+        "No cadastro, a foto deve ser minha?"
+      ]
+    },
+    {
+      "Description": "suporte_alterar_perfil",
+      "AssociatedSentences": [
+        "Quando alterar meu cadastro, o mesmo vai obrigatoriamente para análise?",
+        "Posso mudar meu perfil?",
+        "Posso alterar meu cadastro?",
+        "Gostaria de alterar meu cadastro, é possível?",
+        "Meu cadastro vai para análise após ser alterado?",
+        "Posso alterar o o perfil do meu cadastro?",
+        "Como altero o perfil do meu cadastro?",
+        "me fale como alterar o meu perfil no cadastro.",
+        "Quero alterar meu perfil do cadastro",
+        "Alterar perfil do cadastro"
+      ]
+    },
+    {
+      "Description": "suporte_definicao_chamado",
+      "AssociatedSentences": [
+        "O que é um chamado?",
+        "O que significa abrir um chamado?",
+        "Poderia me explicar o que é abrir um chamado?",
+        "Defina um chamado",
+        "chamado seria o que exatamente?",
+        "me fale sobre abertura de chamados",
+        "estou querendo saber sobre chamados",
+        "significado dos chamados"
+      ]
+    },
+    {
+      "Description": "suporte_placa_anuncio_opcional",
+      "AssociatedSentences": [
+        "Sou obrigado a colocar a placa do imóvel no anúncio?",
+        "Tenho obrigação de colocar a placa do imóvel no anúncio?",
+        "Preciso colocar a placa do imóvel no anúncio?",
+        "A placa do imóvel tem que ser colocada no anúncio?",
+        "Há necessidade de colocar a placa do imóvel no anúncio?",
+        "A placa de divulgação precisa ser colocada no imóvel?",
+        "Posso não utilizar a placa?",
+        "Preciso utilizar a placa?",
+        "é de uso obrigatorio a placa?",
+        "A placa é de uso opcional?",
+        "preciso por a placa no meu imóvel?",
+        "é de necessidade obrigatória por a placa no imovel?"
+      ]
+    },
+    {
+      "Description": "suporte_video_anuncio_opcional",
+      "AssociatedSentences": [
+        "Sou obrigado a colocar um vídeo no meu anúncio?",
+        "Meu anúncio precisa ter vídeo?",
+        "O vídeo é necessário em meu anúncio?",
+        "Meu anúncio necessita de vídeo?",
+        "Qual necessidade do vídeo em meu anúncio?",
+        "O vídeo é obrigatório no anúncio?",
+        "Preciso colocar vídeo no anúncio?",
+        "Video é de uso opcinal?",
+        "é obrigatorio eu usar o video no meu anuncio?"
+      ]
+    },
+    {
+      "Description": "suporte_alterar_plano_andamento",
+      "AssociatedSentences": [
+        "Posso alterar um plano que já está em andamento?",
+        "Posso fazer upgrade do meu plano?",
+        "Gostaria de alterar meu plano, é possível?",
+        "Existe a possibilidade de alterar meu plano em andamento?",
+        "Quero alterar o plano, posso?",
+        "É possível alterar um plano que se encontra em andamento?",
+        "Um plano em andamento pode ser alterado?",
+        "O que devo fazer para alterar meu plano contratado?",
+        "me diga como alterar meu plano contratado",
+        "Para alterar meu plano contratado devo?"
+      ]
+    },
+    {
+      "Description": "suporte_controle_placas",
+      "AssociatedSentences": [
+        "Existe um controle de quantidade de placas colocadas por mim?",
+        "Como vejo qual imóvel está com placa?",
+        "É possível, através do aplicativo, eu saber quais anúncios apresentam placas no imóvel?",
+        "Como sei se o imóvel ja esta com placa?",
+        "Preciso ir ate imóvel para saber se o mesmo esta com placa?",
+        "Como saber se o imóvel está com placa sem ter que ir até o mesmo?",
+        "Quero saber se o imóvel está com placa de divulgação",
+        "existe algum controle para saber se existe a placa no imóvel",
+        "tem alguem que tenha me diga quais imóveis tem a placa?"
+      ]
+    },
+    {
+      "Description": "suporte_responsavel_comissao",
+      "AssociatedSentences": [
+        "Quanto vou ganhar de comissão usando o Compre & Alugue Agora?",
+        "Qual valor posso ganhar de comissão usando o Compre & Alugue Agora?",
+        "O Compre & Alugue Agora se responsabiliza pelo valor que ganharei de comissão?",
+        "O aplicativo é responsável pela comissão de parceria com outro corretor?",
+        "Preciso receber uma comissao de parceria com outro corretor, o aplicativo se responsabiliza?",
+        "Um outro corretor deseja fazer uma parceria, caso de errado o Compre & Alugue Agora se responsabiliza pela minha comissao?",
+        "Quero fazer uma negociação com outro corretor, apenas os usuários envolvidos são responsáveis pela negociação ou o Compre & Alugue Agora também se responsabiliza?",
+        "Responsável pela comissão",
+        "Quem é o responsável pela comissão.",
+        "quem é o responssável por pagar a comissão?",
+        "quem é que paga a comissão?"
+      ]
+    },
+    {
+      "Description": "suporte_empregado_corretor",
+      "AssociatedSentences": [
+        "Sou empregado do meu corretor?",
+        "Agente é empregado do corretor?",
+        "Existe vinculo empregatício entre agente e corretor?",
+        "Meu agente é meu empregado?",
+        "Estou trabalhando com um corretor, sou empregado dele?",
+        "Eu, trabalhando como agente, sou empregado do corretor?",
+        "O agente se encaixa em empregado do corretor?",
+        "eu como um agente sou empregado do corretor.",
+        "o corretor é meu chefe?",
+        "sendo um agente o corretor é meu chefe?",
+        "o agente é um funcionário do corretor?",
+        "Os agentes são funcionários do corretor?",
+        "eu como um corretor tenho os agentes como funcionários?",
+        "eu sou funcionário do corretor?",
+        "o agente trabalha pra mim corretor?",
+        "corretor é o chefe do agente?"
+      ]
+    },
+    {
+      "Description": "suporte_definicao_anuncio_gratis",
+      "AssociatedSentences": [
+        "O que é anúncio grátis?",
+        "significado anuncio grátis",
+        "defina anuncio grátis",
+        "Existe opção gratis para anunciar?",
+        "Quero anunciar gratis.",
+        "Me explique o que é anúncio grátis.",
+        "Anuncio grátis pode me exlicar?",
+        "Me fale sobre anúncio grátis",
+        "quero saber sobre anuncio grátis",
+        "me fale sobre os anuncios grátis",
+        "diga algo sobre anuncio grátis",
+        "quero saber o que é anunciar grátis",
+        "definição de anuncio grátis"
+      ]
+    },
+    {
+      "Description": "suporte_definicao_corretor_associado",
+      "AssociatedSentences": [
+        "O que é corretor associado?",
+        "O que significa corretor associado?",
+        "Corretor associado é profissional habilitado pelo Creci?",
+        "Como funciona a função do corretor associado?",
+        "Corretor associado, o que é?",
+        "Poderia me explicar o que é corretor associado?",
+        "Gostaria de saber como funciona o corretor associado na plataforma",
+        "defina corretor associado",
+        "me fale sobre o corretor associado.",
+        "Corretor associado?"
+      ]
+    },
+    {
+      "Description": "suporte_duplicar_anuncios",
+      "AssociatedSentences": [
+        "Posso duplicar o anúncio de um imóvel do aplicativo?",
+        "Quero anunciar um imóvel já anunciado novamente, posso?",
+        "Um outro usuário pode anunciar um imóvel já anunciado pela segunda vez?",
+        "Um outro usuário pode anunciar um imóvel já anunciado pela 2ª vez?",
+        "Quero duplicar meu anúncio, posso?",
+        "Quero anunciar duas vezes o meu anúncio.",
+        "Duplicar anúncios"
+      ]
+    },
+    {
+      "Description": "suporte_pendente_aprovacao_editar",
+      "AssociatedSentences": [
+        "Posso editar meu anúncio enquanto estiver pendente de aprovação?",
+        "Posso arquivar meu anúncio enquanto estiver pendente de aprovação?",
+        "Mandei meu anúncio para aprovação e o mesmo está pendente de ser aprovado, mas eu gostaria de editá-lo, posso fazer isso?",
+        "Quero editar um anúncio que está pendente de aprovação, como faço isso?",
+        "Gostaria de arquivar um anúncio que está pendente de aprovação, posso?",
+        "Como faço para editar um anúncio que está pendente de aprovação?",
+        "Como faço para arquivar um anúncio que está pendente de aprovação?",
+        "Posso alterar um anúncio pendente de aprovação?",
+        "Posso atualizar um anúncio pendente de aprovação?"
+      ]
+    },
+    {
+      "Description": "suporte_imovel_vendido_por_fora",
+      "AssociatedSentences": [
+        "Vendi meu imóvel, o que devo fazer com meu anúncio?",
+        "O que faço com meu anúncio após vender o imóvel?",
+        "Devo excluir meu anúncio após vender meu imóvel?",
+        "Devo arquivar meu anúncio após vender meu imóvel?",
+        "O que acontece com o anúncio após a venda do imóvel?",
+        "O que a plataforma sugere que eu faça com meu anúncio após eu vender o imóvel?",
+        "Qual procedimento devo fazer com meu anúncio agora que vendi o imóvel?",
+        "Ao vender um imóvel por fora, como devo proceder?"
+      ]
+    },
+    {
+      "Description": "suporte_reembolso_plano",
+      "AssociatedSentences": [
+        "Em caso de desistência, posso pedir o dinheiro utilizado no plano de volta?",
+        "Quero desistir do meu plano de anúncio, recebo meu dinheiro de volta?",
+        "Gostaria de desistir do meu plano de anúncio e conseguir meu dinheiro de volta, posso fazer isso?",
+        "Posso desistir do meu plano de anúncios e receber meu dinheiro de volta?",
+        "Como recebo meu dinheiro de volta após desistência do meu plano de anúncios?",
+        "Se eu desistir do meu plano, eu recebo meu dinheiro de volta?",
+        "Não quero mais meu plano de anúncio, posso cancelar e receber meu dinheiro de volta?",
+        "Quero o dinheiro do plano de volta.",
+        "O que faço para ter meu dinheiro de volta?",
+        "reembolso é possível?",
+        "não gostei do meu plano contratado, eu consigo o meu dinheiro de volta/",
+        "recebo o meu dinheiro de volta se eu não gostar do plano"
+      ]
+    },
+    {
+      "Description": "suporte_qtde_imoveis_favorito",
+      "AssociatedSentences": [
+        "Quantos imóveis posso colocar como favorito?",
+        "Quantos imóveis podem estar nos  meus favoritos?",
+        "Posso favoritar quantos imóveis quiser?",
+        "Quantos imóveis podem ser favoritados?",
+        "Favorito quantos imóveis quiser?",
+        "Qual o limite de imóveis que posso favoritar?",
+        "Existe um número limite de imóveis que posso favoritar?",
+        "Me fale sobre a quantidade de imóveis que posso ter como favoritos.",
+        "posso por quantas imóveis no favoritos",
+        "tem limite de imoveis que posso por no meu favoritos",
+        "existe um excedente de imoveis que posso por no favoritos?"
+      ]
+    },
+    {
+      "Description": "suporte_placa_poste",
+      "AssociatedSentences": [
+        "É proibido colocar as placas em postes de iluminação?",
+        "Posso colocar a placa de divulgação no poste de iluminação?",
+        "A placa pode ser colocada em algum outro lugar que não seja o imóvel?",
+        "Não quero colocar a placa no imóvel, posso colocar em outro lugar?",
+        "Qual o local ideal para colocar a placa de divulgação do imóvel?",
+        "Gostaria de colocar a placa de divulgação em um poste de luz a frente do imóvel, posso fazer isso?",
+        "posso por a placa no poste",
+        "tem um poste perto de casa posso por a placa",
+        "postes são bons lugares para colocar as placas",
+        "se eu por a placa em um poste pode dar algum problema?",
+        "placa no poste"
+      ]
+    },
+    {
+      "Description": "suporte_como_busco_imovel",
+      "AssociatedSentences": [
+        "Como busco um imóvel?",
+        "Onde busco um imóvel?",
+        "Por onde busco um imóvel?",
+        "Quero buscar um imóvel",
+        "Em qual espaço da plataforma busco por um imóvel?",
+        "Em que lugar da plataforma eu busco por imóveis?",
+        "Poderia me auxiliar por onde tenho que ir para buscar um imóvel?",
+        "onde pesquiso por imóveis na plataforma?",
+        "pesquisa por imóveis",
+        "Quero achar um imóvel na plataforma?",
+        "Quero encontrar um imóvel na plataforma ?"
+      ]
+    },
+    {
+      "Description": "suporte_opcoes_anuncio",
+      "AssociatedSentences": [
+        "Quais as opções de anúncio?",
+        "Me informe sobre as opções de anúncio",
+        "Quero saber sobre as opções de anúncio",
+        "Gostaria de saber sobre quais são as opções de anúncio?",
+        "Quero anunciar, quais as opções de anúncio?",
+        "Opções de anúncio",
+        "Existem quais opções de anúncio?",
+        "que tipos de anúncio eu posso fazer?",
+        "Me fale sobre as opções de anúncio existentes?",
+        "Há alguma outra opção de anúncio?"
+      ]
+    },
+    {
+      "Description": "suporte_anuncio_gratis_omitir_endereco",
+      "AssociatedSentences": [
+        "Quando anuncio gratuitamente posso omitir o endereço do imóvel no aplicativo?",
+        "Quero anunciar gratuitamente, é possível omitir o endereço do imóvel no aplicativo?",
+        "Anunciando gratuitamente é obrigatório anunciar o endereço do imóvel?",
+        "Não gostaria de compartilhar o endereço de um imóvel ao anunciar, poderia omiti-lo?",
+        "Quero omitir o endereço de um imóvel no anúncio, é possível?",
+        "O endereço do imóvel precisa ser compartilhado?",
+        "Seria possível omitir o endereço do imóvel no anúncio?",
+        "tem como eu esconder o endereço do imóvel?",
+        "posso deixar o endereço do meu imóvel invisvel?",
+        "Quero o endereço do meu imóvel invisível.",
+        "Não quero o endereço do meu imóvel seja exibido.",
+        "O endereço do meu imóvel não é mostrado?",
+        "meu endereço fica visível no anúncio ?",
+        "meu endereço é exibido no anúncio ?",
+        "aparece no anúncio o meu endereço ?",
+        "fica aparecendo o endereço do meu imóvel ?",
+        "O endereço de meu imóvel fica oculto?",
+        "Gostaria de ocultar o endereço de meu imóvel.",
+        "fica sendo exibido o endereço do meu imóvel ?",
+        "O endereço de meu imóvel fica invisível?",
+        "Gostaria de deixar invisivel o endereço de meu imóvel.",
+        "Quando compartilho um imóvel, o endereço do proprietário fica visível?",
+        "Ao compartilhar um imóvel, preciso deixar visível o endereço do proprietário?",
+        "Não quero deixar o endereço do proprietário visível, posso fazer isso?",
+        "Ao anunciar, preciso colocar como visível o endereço do proprietário?",
+        "É possível não deixar visível o endereço do proprietário ao compartilhar um imóvel?",
+        "Preciso compartilhar o endereço do imóvel?",
+        "O endereço do imóvel precisa obrigatoriamente ser compartilhado?",
+        "Eu preciso exibir o endereço do imóvel no anuncio?",
+        "me diga se é necessário deixar o endereço do imóvel sendo exibido."
+      ]
+    },
+    {
+      "Description": "suporte_transformar_anuncio_gratis_em_premium",
+      "AssociatedSentences": [
+        "Posso transformar meu anúncio grátis em premium?",
+        "Como transformo meu anúncio grátis em premium?",
+        "Quero mudar meu anúncio grátis para o premium, como faço isso?",
+        "Gostaria de mudar meu anúncio grátis para o premium, como faço?",
+        "Meu anúncio grátis pode mudar para anúncio premium?",
+        "Quero alterar meu anúncio grátis para premium",
+        "Meu anúncio grátis pode virar premium?",
+        "Posso transformar meu anúncio premium em grátis?",
+        "É possível mudar meu anúncio premium para o grátis?",
+        "Não quero mais anúncio premium, posso mudá-lo para grátis?",
+        "Gostaria de mudar meu anúncio premium para grátis, é possível?",
+        "Poderia me informar como transformo o anúncio premium para grátis?",
+        "Quero transformar meu anúncio premium em grátis, poderia me auxiliar?",
+        "Como posso mudar meu anúncio premium para um grátis?"
+      ]
+    },
+    {
+      "Description": "suporte_duvida_creci_requisito",
+      "AssociatedSentences": [
+        "Para associar ao aplicativo, tenho que ter Creci?",
+        "Quero associar ao aplicativo, necessito de Creci?",
+        "Para anunciar no aplicativo precisa de Creci?",
+        "Não tenho Creci, posso anunciar mesmo assim?",
+        "Preciso de Creci para anunciar no aplicativo?",
+        "Para utilizar o Compre & Alugue Agora, necessito de Creci?",
+        "O Creci é necessário para anunciar?",
+        "O Creci é um requisito para entrar no aplicativo?",
+        "Requisitos para me associar ao aplicativo.",
+        "Para anunciar gratuitamente necessito ter creci?",
+        "Posso anunciar sem ter o CRECI?"
+      ]
+    },
+    {
+      "Description": "suporte_como_cadastrar_caa",
+      "AssociatedSentences": [
+        "Como faço meu cadastro no Compre & Alugue Agora?",
+        "Gostaria de fazer meu cadastro no Compre & Alugue Agora.",
+        "Poderia me auxiliar para fazer cadastro na plataforma do Compre & Alugue Agora?",
+        "Quero criar um usuário no Compre e Alugue Agora.",
+        "Como faço um usuário no Compre Alugue Agora?",
+        "Como me torno associado ao Compre & Alugue Agora?",
+        "Sou corretor e quero me cadastrar no Compre & Alugue Agora.",
+        "Me fale como me cadastrar no Compre & Alugue Agora.",
+        "Quero ter um cadastro na plataforma."
+      ]
+    },
+    {
+      "Description": "suporte_ganhar_dinheiro_com_anuncio_gratis",
+      "AssociatedSentences": [
+        "Posso ganhar um dinheiro extra anunciando gratuitamente um imóvel?",
+        "Ao anunciar gratuitamente posso receber um dinheiro extra?",
+        "Anunciando gratuitamente um imóvel, posso ganhar um dinheiro extra?",
+        "Recebo um valor financeiro extra ao anunciar gratuitamente?",
+        "Existe a possibilidade de eu receber um dinheiro extra ao anunciar um imóvel gratuitamente?",
+        "Quero receber um dinheiro extra anunciando gratuitamente, é possível?",
+        "Se eu anunciar gratuitamente, posso receber um dinheiro extra?",
+        "Como lucro com os anúncios grátis?",
+        "Quero fazer mais dinheiro com os anúncios grátis",
+        "É possível fazer mais dinheiro anunciando gratuitamente?",
+        "posso utilizar a plataforma como renda alternativa ?"
+      ]
+    },
+    {
+      "Description": "suporte_pedido_pode_corretor",
+      "AssociatedSentences": [
+        "Posso fazer um pedido de cliente mesmo sendo corretor?",
+        "Sou corretor, posso fazer um pedido de cliente mesmo assim?",
+        "Gostaria de fazer um pedido de cliente mesmo sendo corretor, é possível?",
+        "Quero fazer um pedido de cliente, posso fazer mesmo sendo corretor?",
+        "Sendo corretor é possível fazer um pedido de cliente?",
+        "Um usuário corretor pode fazer pedido de cliente?",
+        "Apenas um usuário comum pode fazer um pedido de cliente ou um corretor associado também pode?",
+        "Qualquer um pode fazer um pedido?",
+        "um corretor pode fazer um pedido pelo compre & alugue Agora",
+        "corretores podem realizar pedidos"
+      ]
+    },
+    {
+      "Description": "suporte_usuario_adcional_pode_remover_imoveis",
+      "AssociatedSentences": [
+        "O usuário extra pode retirar os imóveis?",
+        "Ao não trabalhar mais com o corretor ou com a imobiliária, o usuário extra pode remover seus imóveis angariados?",
+        "Sou usuário extra, posso retirar os imóveis angariados por mim?",
+        "Sou corretor e quero saber se um usuário extra que não trabalha mais comigo ou com a imobiliária, pode permanecer com as suas angariações?",
+        "Gostaria de saber se o usuário extra que não trabalha mais com o corretor tem o direito de levar suas angariações com ele?",
+        "O usuário extra que deixa de trabalhar com o corretor pode levar suas angariações?",
+        "Posso levar minhas angariações comigo, eu sendo usuário extra e não trabalhando mais com o corretor ou imobiliária?",
+        "O usuário extra pode remover os imóveis?",
+        "O usuário adicional que deixa de trabalhar com o corretor pode excluir suas angariações de imóveis?",
+        "Os usuários adcionais pode excluir os imóveis angariados?"
+      ]
+    },
+    {
+      "Description": "suporte_nao_pagar_comissao",
+      "AssociatedSentences": [
+        "Qual o anúncio indicado caso eu não queira pagar comissão para o corretor?",
+        "Não quero pagar comissão para o corretor, qual anúncio sugerem?",
+        "No caso de eu não querer pagar comissão para o corretor, qual anúncio devo usar?",
+        "Quero um anúncio que não precise pagar comissão para corretor",
+        "Se eu não quiser pagar a comissão para corretor, qual anúncio me indicam?",
+        "Anúncio que não precisa pagar  comissão para corretor",
+        "Existe um anúncio que não seja necessário o pagamento de comissão para corretor?",
+        "Não quero pagar comissão.",
+        "Me fale como não pagar a comissão para o corretor."
+      ]
+    },
+    {
+      "Description": "suporte_visualizar_anuncio_gratis",
+      "AssociatedSentences": [
+        "Quando anuncio gratuitamente não aparece online?",
+        "Como aparecem os anúncios gratuitos?",
+        "Quem consegue ver meu anúncio gratuito?",
+        "Apenas os corretores podem ver meu anúncio grátis?",
+        "Meu anúncio grátis é visto por todos os usuários da plataforma?",
+        "Meu anúncio grátis é visto por quem?",
+        "Quais usuários podem ver meu anúncio grátis?",
+        "eu consigo visualizar anuncios grátis?",
+        "eu vejo anuncios grátis?",
+        "anuncios grátis são vistos por quem?"
+      ]
+    },
+    {
+      "Description": "suporte_combinar_valor_corretor",
+      "AssociatedSentences": [
+        "Como posso combinar com o corretor minha porcentagem no negócio?",
+        "De que forma posso combinar com o corretor a minha porcentagem do negócio?",
+        "Como a plataforma me sugere que eu combine com o corretor a minha porcentagem do negócio?",
+        "Qual a melhor maneira de combinar com o corretor a minha parte do valor de transação?",
+        "Podem sugerir maneiras de como combinar minha porcentagem no valor de uma transação?",
+        "Como combino com o corretor minha porcentagem no valor de uma transação?",
+        "Qual a opção sugerida pela plataforma para combinar minha porcentagem no valor da transação?",
+        "Como acerto a minha porcentagem no negócio com o corretor?"
+      ]
+    },
+    {
+      "Description": "suporte_informar_endereco_anuncio",
+      "AssociatedSentences": [
+        "Ao anunciar um imóvel, tenho que colocar bairro, estado, município?",
+        "No anúncio tenho que colocar bairro, estado, município?",
+        "É necessário colocar bairro, estado, município no anúncio?",
+        "Preciso colocar bairro, estado, município no anúncio do imóvel?",
+        "Para anunciar o imóvel, precisa colocar bairro, estado, município no anúncio?",
+        "O anúncio precisa ter bairro, estado, município?",
+        "Preciso compartilhar bairro, estado, município no anúncio do imóvel?"
+      ]
+    },
+    {
+      "Description": "suporte_duracao_anuncio_premium",
+      "AssociatedSentences": [
+        "Quanto tempo dura meu anúncio premium no aplicativo?",
+        "Quanto tempo dura meu anúncio premium no site?",
+        "Quanto tempo dura meu anúncio premium na plataforma?",
+        "Por quanto tempo é válido o anúncio premium?",
+        "Quanto tempo meu anúncio premium fica visível?",
+        "O anúncio premium é válido por quanto tempo?",
+        "Por quantos dias meu anúncio premium fica visível?",
+        "qual é a validade do meu anúncio premium?",
+        "Qual é o periodo de duração do meu anúncio premium",
+        "durabilidade de um anúncio premium"
+      ]
+    },
+    {
+      "Description": "suporte_placa_quem_fixa",
+      "AssociatedSentences": [
+        "Quem é o responsável por colocar a placa no meu imóvel?",
+        "Quem coloca a placa no meu imóvel?",
+        "A placa é colocada por quem em meu imóvel?",
+        "É o anunciante que coloca a placa?",
+        "É o corretor que coloca a placa no imóvel?",
+        "Quem pode colocar a placa em meu imóvel?",
+        "De quem é a responsabilidade por colocar a placa no imóvel?",
+        "Preciso ser corretor para colocar a placa do Compre e Alugue Agora?",
+        "É necessário ser corretor para colocar a placa do Compre e Alugue Agora?",
+        "Para colocar a placa, preciso ser corretor?",
+        "Quem faz a colocação da placa precisa ser corretor?",
+        "Apenas o corretor coloca a placa do Compre e Alugue Agora?",
+        "A placa do Compre e Alugue agora precisa ser colocado por corretor?",
+        "quem coloca a placa no imovel?",
+        "eu posso por a placa no meu imóvel?",
+        "quem põe a placa no meu imóvel?",
+        "quem é que coloca a placa no imóvel"
+      ]
+    },
+    {
+      "Description": "suporte_visualizar_anuncios_permuta",
+      "AssociatedSentences": [
+        "Como faço uma busca avançada para anúncios que aceitem permuta de imóveis como parte do pagamento?",
+        "Como buscar anúncios de imóveis que aceitem permuta?",
+        "Onde encontro anúncios de permuta de imóveis?",
+        "Quero permutar imóveis, onde encontro anúncios de permuta?",
+        "De que maneira encontro anúncios de permuta?",
+        "Anúncios de permuta de imóveis?",
+        "Podem me auxiliar a encontrar anúncios de permuta de imóveis?",
+        "permutas de imóveis anunciadas",
+        "achar um anúncio de imóvel com permuta"
+      ]
+    },
+    {
+      "Description": "suporte_onde_avaliar_corretor",
+      "AssociatedSentences": [
+        "Com qual botão posso avaliar o corretor?",
+        "O corretor pode ser avaliado com qual botão?",
+        "Como faço para avaliar um corretor?",
+        "Quero avaliar o corretor, como faço isso?",
+        "Onde avaliar o corretor?",
+        "Onde vou para avaliar o corretor?",
+        "corretor onde posso avalia-lo?",
+        "a avaliação de um corretor é feita aonde?"
+      ]
+    },
+    {
+      "Description": "suporte_como_pagar",
+      "AssociatedSentences": [
+        "Posso pagar a mensalidade por boleto?",
+        "Posso pagar o anúncio por boleto?",
+        "Posso pagar o plano por boleto?",
+        "O pagamento é feito através de cartão de débito ou crédito?",
+        "O pagamento é feito por boleto?",
+        "Como funciona o pagamento?",
+        "Gostaria de pagar por boleto",
+        "Gostaria de pagar por cartão de crédito",
+        "Quais são as formas de pagamento?",
+        "De que maneiras posso pagar?",
+        "De que jeito posso pagar?"
+      ]
+    },
+    {
+      "Description": "suporte_corretor_nao_cumpre_acordo",
+      "AssociatedSentences": [
+        "O que fazer quando o corretor não cumpre com o combinado?",
+        "O corretor não cumpriu com o combinado, o que faço?",
+        "O que fazer caso o corretor não cumpra com o negócio?",
+        "Como posso me proteger caso o corretor não cumpra com a sua parte?",
+        "Devo fazer o que quando o corretor não cumpre com o combinado?",
+        "Qual o procedimento caso o corretor não cumpra o combinado?",
+        "Trabalhei com um corretor e o mesmo não cumpriu o combinado, gostaria de alertar sobre ele, como faço?",
+        "Como devo proceder quando o corretor no cumpre o acertado?",
+        "corretor não cumpre o acordo",
+        "Fiz um acordo e ele não foi cumprido."
+      ]
+    },
+    {
+      "Description": "suporte_como_garanto_cumprimento_acordo",
+      "AssociatedSentences": [
+        "Como faço para que o combinado seja cumprido pelo corretor?",
+        "Como garanto que o acordo será cumprido pelo corretor?",
+        "Como posso ter certeza que o acordo será cumprido de forma combinada?",
+        "Fiz um combinado referente a um imóvel, como garanto que será cumprido?",
+        "Quero que meu combinado seja cumprido, o que posso fazer?",
+        "O que posso fazer para ter garantia de cumprimento de um acordo realizado?",
+        "Como sugerem que eu faça para ter garantia de um acordo?",
+        "me fale o que devo fazer para que meu acordo seja cumprido.",
+        "Quero garantir que meu acordo seja cumprido"
+      ]
+    },
+    {
+      "Description": "suporte_sigilo_dados",
+      "AssociatedSentences": [
+        "Meus dados são mantidos em sigilo?",
+        "Meus dados são divulgados?",
+        "Como são mantidos os dados do usuário?",
+        "Meus dados são mantidos confidencialmente?",
+        "Gostaria que meus dados fossem mantidos em sigilo",
+        "Quero sigilo dos meus dados",
+        "Quero que meus dados sejam mantidos confidenciais",
+        "Me diga se meus dados estão sendo mantidos em sigilo",
+        "De que maneira meus dados são protegidos",
+        "de que modo meus dados são protegidos",
+        "vocês protegem meus dados?"
+      ]
+    },
+    {
+      "Description": "suporte_visualizar_foto_imovel",
+      "AssociatedSentences": [
+        "Posso ver a foto oficial do imóvel anunciado, como sua fachada, entre outros?",
+        "Como posso ver a foto do imóvel?",
+        "Necessita colocar foto do imóvel ao anunciar?",
+        "Gostei de um imóvel e quero ver fotos dele",
+        "É importante ter fotos com vários ângulos do imóvel?",
+        "É obrigatório postar o anúncio com foto do imóvel?",
+        "É necessário eu colocar uma foto no meu anúncio?",
+        "Quero ver as fotos do imóvel no anuncio",
+        "posso ver as fotos de um imóvel",
+        "no anuncio tem fotos posso vê-las?",
+        "tem algumas imagens no anuncio tem como eu visualiza-las?"
+      ]
+    },
+    {
+      "Description": "suporte_aplicativo_plataformas_suportadas",
+      "AssociatedSentences": [
+        "Para ser associado do aplicativo, qual o tipo de celular que preciso ter e qual plano?",
+        "Qual celular devo ter para fazer uso da plataforma?",
+        "Qual celular é melhor para usar o aplicativo?",
+        "O aplicativo funciona em quais sistemas operacionais?",
+        "Tenho IOS posso usar a plataforma?",
+        "Tenho Android posso usar a plataforma?",
+        "A plataforma funciona em quais sistemas operacionais?",
+        "meu celular suporta o aplicativo da Compre & Alugue Agora?",
+        "meu computador consegue se conectar no site da Compre & Alugue Agora?",
+        "Qual navegador devo utilizar para acessar o Compre & Alugue Agora"
+      ]
+    },
+    {
+      "Description": "suporte_anucio_poucas_visualizacoes",
+      "AssociatedSentences": [
+        "Por que meus anúncios estão em declínio no gráfico de visualizações?",
+        "Por que minhas visualizações estão em declínio?",
+        "Como aumento minhas visualizações?",
+        "Quero aumentar minhas visualizações, como faço?",
+        "Quero mais visualizações em meu anúncio",
+        "O que ajuda nas visualizações do anúncio?",
+        "Gostaria de mais visualizações em meu anúncio",
+        "por que meus anúncios estão com poucas visualizações?",
+        "Qual a razão dos meu anúncios terem poucas visualizações?",
+        "Anuncio com poucas visualizações"
+      ]
+    },
+    {
+      "Description": "suporte_renovar_anuncio_gratis_vencido",
+      "AssociatedSentences": [
+        "Depois de vencido o prazo de anúncio grátis, posso anunciar de novo?",
+        "Posso anunciar de novo, mesmo depois do prazo do anúncio grátis ter vencido?",
+        "Quero anunciar de novo, mas meu prazo do anúncio grátis venceu, o que faço?",
+        "É possível anunciar grátis mesmo depois do prazo vencer?",
+        "O prazo pode ser renovado depois de vencido?",
+        "Anúncio pode ser renovado depois de vencido?",
+        "Meu anúncio venceu, posso renova-lo?",
+        "Um anúncio vencido pode ser reutilizado?",
+        "Quero renovar meu anúncio grátis"
+      ]
+    },
+    {
+      "Description": "suporte_prazo_anuncio_arquivado",
+      "AssociatedSentences": [
+        "Arquivei meu anúncio, está decorrendo o prazo?",
+        "O anúncio arquivado também sofre com o tempo do prazo?",
+        "O tempo do prazo do anúncio continua ocorrendo mesmo anúncio estando arquivado?",
+        "Anúncio arquivado também decorre prazo?",
+        "Meu anúncio está arquivado, mesmo assim seu prazo continua ocorrendo?",
+        "O prazo do anúncio decorre mesmo quando ele está arquivado?",
+        "Um anúncio arquivado também sofre tempo de prazo corrido?",
+        "Um anúncio anteriormente arquivado continua com o seu prazo de duração ativado?",
+        "Duração do anúncio é pausado quando ele é arquivado?",
+        "O tempo de validade de um anúncio é travado ao arquiva-lo?"
+      ]
+    },
+    {
+      "Description": "suporte_avaliacao_metro_quadrado",
+      "AssociatedSentences": [
+        "Como é feita a avaliação do metro quadrado de acordo com o valor do imóvel no aplicativo?",
+        "Como a avaliação metro quadrado influencia o valor do imóvel na plataforma?",
+        "Como funciona a avaliação do metro quadrado para chegar no valor do imóvel?",
+        "Avaliação do metro quadrado no valor do imóvel",
+        "Como posso saber o preço do imóvel de acordo com a avaliação dop metro quadrado?",
+        "A avaliação do metro quadrado influencia diretamente no valor do imóvel?",
+        "Como funciona a avaliação do metro quadrado de acordo com o preço do imóvel?",
+        "Avaliação em metros quadrados",
+        "Quero avaliar meu imóvel em metros quadrados",
+        "me fale sobre a avaliação em metros quadrados",
+        "a avaliação de um metro quadrado é realizada de qual maneira exatamente?",
+        "avaliando em m2",
+        "avaliação realizada em M²",
+        "Como a avaliação m² interfere o valor do imóvel na plataforma?",
+        "Como funciona a avaliação do m2 para chegar no valor do imóvel?",
+        "Avaliação do metro m2 no valor do imóvel"
+      ]
+    },
+    {
+      "Description": "suporte_campos_obrigatorios",
+      "AssociatedSentences": [
+        "Os campos em escritas vermelhas são obrigatórios?",
+        "Os campos em escritas vermelhas podem ser excluídos?",
+        "Porque existem campos com asteriscos vermelhos?",
+        "O que significa o asterisco vermelho?",
+        "Os campos com asteriscos vermelhos são obrigatórios?",
+        "Sou obrigado preencher todos os campos?",
+        "Todos os campos são necessários preencher?",
+        "Tem campos de preenchimento obrigatório?",
+        "campos obrigatórios",
+        "campos que exigem preenchimento?"
+      ]
+    },
+    {
+      "Description": "suporte_quantidade_fotos_imovel",
+      "AssociatedSentences": [
+        "Posso adicionar mais de 20 fotos do meu imóvel no aplicativo?",
+        "Posso adicionar menos de 20 fotos do meu imóvel no aplicativo?",
+        "O número máximo permitido de fotos são 20?",
+        "Tenho que colocar 20 fotos?",
+        "Quero colocar mais de 20 fotos no meu anuncio de imovel",
+        "Quero colocar menos de 20 fotos",
+        "Quantas fotos posso colocar no meu anúncio?",
+        "Limite de fotos em um anúncio",
+        "maximo de fotos a serem anexadas no anúncio",
+        "qual a quantidade maxima de fotos em um anúncio?",
+        "quantas fotos no anuncio do meu imóvel é possível?",
+        "tem limite de fotos que posso por no meu anuncio de imovel",
+        "existe um excedente de fotos que posso por no anuncio do meu imóvel?",
+        "estou limitado pelo número de fotos possíveis",
+        "qual é o limite de fotos em um anuncio de imovel?"
+      ]
+    },
+    {
+      "Description": "suporte_dimensao_foto_imovel",
+      "AssociatedSentences": [
+        "O aplicativo reduz automaticamente o tamanho da foto?",
+        "Como funciona o tamanho da foto no aplicativo?",
+        "O aplicativo adapta o tamanho da foto?",
+        "O aplicativo ajusta o tamanho da foto?",
+        "Devo mudar o tamanho da foto ou a plataforma faz isso?",
+        "A plataforma adapta o tamanho da foto?",
+        "A plataforma ajusta o tamanho da foto?",
+        "Quais são as dimensões das fotos a serem inseridas no anúncio?",
+        "qual a medida das fotos que devo colocar no anúncio?",
+        "o anúncio aceita fotos em qual quer resolução?",
+        "Devo mudar o tamanho da foto ou a plataforma faz isso?",
+        "o aplicativo irá ajustar o tamanho da foto que eu colocar?",
+        "A plataforma deverá reformular o tamanho da foto para eu gravar lá",
+        "como adaptar o tamanho da foto para a plataforma?",
+        "como ajustar o tamanho da foto para atualizar na plataforma?",
+        "eu consigo dimensionar o tamanho da foto na plataforma?",
+        "Devo mudar o tamanho da foto ou a plataforma faz isso?"
+      ]
+    },
+    {
+      "Description": "suporte_valor_iptu",
+      "AssociatedSentences": [
+        "Ao colocar o valor do IPTU, coloco o valor parcelado ou do ano inteiro?",
+        "O valor do IPTU no anúncio deve ser inteiro ou parcelado?",
+        "Coloco o valor do IPTU parcelado no anúncio?",
+        "Coloco o valor inteiro do IPTU no anúncio?",
+        "Como coloco o valor do IPTU?",
+        "Como deve ser feito o valor do IPTU?",
+        "Como faço o valor do IPTU?",
+        "Me fale se existe uma maneira correta de colocar o IPTU no anúncio.",
+        "Quero colocar o valor do iptu no meu anuncio",
+        "com parcelamento de IPTU eu consigo informar o valor da parcela na plataforma?",
+        "Como informar valor do IPTU no site, por causa das parcelas?",
+        "como ajustar os valores de parcela de IPTU na plataforma?"
+      ]
+    },
+    {
+      "Description": "suporte_plano_de_internet_recomendado",
+      "AssociatedSentences": [
+        "Qual o plano de internet para melhor uso do aplicativo?",
+        "O Compre & Alugue Agora recomenda algum plano de internet que seja para melhor uso do aplicativo?",
+        "Plano de internet para uso do aplicativo",
+        "Devo usar qual plano de internet?",
+        "O aplicativo deve ser usado em qual plano de internet?",
+        "Qual plano de internet para otimizar o uso do aplicativo?",
+        "Melhor plano de internet para uso do aplicativo Compre & Alugue Agora"
+      ]
+    },
+    {
+      "Description": "suporte_como_utilizar_qr_code",
+      "AssociatedSentences": [
+        "Quando avisto uma placa do Compre & Alugue agora em um imóvel, consigo entrar no anúncio automaticamente?",
+        "Como utilizo o QR Code?",
+        "Ao avistar uma placa do Compre & Alugue Agora posso entrar automaticamente no anúncio?",
+        "Uso o QR Code para entrar no anúncio automaticamente?",
+        "O QR Code me direciona automaticamente ao anúncio?",
+        "Como funciona o direcioDescriptionnto do anúncio através do QR Code?",
+        "É possível entrar automaticamente no anúncio ao avistar a placa e utilizar o QR Code?",
+        "De que maneira devo usar o QR Code?",
+        "De que jeito utilizo o QR Code?",
+        "De que modo devo utilizar o QR Code?",
+        "Como uso o QR Code?",
+        "Como funciona o QR Code?",
+        "Me explique como funciona o QR Code",
+        "Qr code via android funciona?",
+        "QR Code é acessível como?",
+        "Posso usar o Qr Code através de android e iphone?",
+        "Qr Code funciona em qualquer dispositivo?",
+        "consigo usar o Qr Code na plataforma?",
+        "Quero utilizar a funcionalidade do Qr Code, como faço?",
+        "Quero usar o qr code caso encontre um anúncio na rua, eu posso?",
+        "Posso usar Qr Code"
+      ]
+    },
+    {
+      "Description": "suporte_estagio_associado_caa",
+      "AssociatedSentences": [
+        "Para fazer estágio no Creci posso ser associado do Compre & Alugue agora?",
+        "Quero estagiar no Creci, posso ser associado do Compre & Alugue Agora?",
+        "Posso ser associado do Compre & Alugue Agora enquanto estagio no Creci?",
+        "É possível ser associado ao Compre & Alugue Agora durante estágio no Creci?",
+        "É necessário ter carteirinha definitiva do Creci para associar ao Compre & Alugue Agora?",
+        "A carteirinha definitiva do Creci é obrigatória para associar ao Compre & Alugue Agora?",
+        "Estou estagiando no Creci, posso me tornar associado ao Compre & Alugue Agora?",
+        "Posso me tornar associado creci como estagiário?",
+        "é necessário ter carteirinha creci para se tornar estagiário",
+        "quero entender melhor sobre se associar e ter carteirinha definitiva do creci?",
+        "Quero fazer um estágio no Creci, eu consigo se eu for um associado CAA",
+        "Estou estagiando no creci e quero me associar ao CAA, mas ainda não tenho carteirinha definitiva, posso mesmo assim?"
+      ]
+    },
+    {
+      "Description": "suporte_definicao_qr_code",
+      "AssociatedSentences": [
+        "O que é QR Code?",
+        "QR Code?",
+        "QR Code é?",
+        "Me explique o é QR Code",
+        "Gostaria de saber o que é QR Code",
+        "Defina QR Code",
+        "me fale sobre QR Code",
+        "Diga algo sobre QR Code",
+        "QR Code o que é isso?",
+        "Como anunciante o Qr Code me ajuda como?"
+      ]
+    },
+    {
+      "Description": "suporte_contato_anunciante",
+      "AssociatedSentences": [
+        "Quando ligo para ver um anúncio, falo o endereço ou código do imóvel?",
+        "Falo endereço quando eu ligo sobre um anúncio?",
+        "Falo o código do imóvel quando eu ligo sobre um anúncio?",
+        "Devo informar o endereço ou o código do imóvel quando quero saber sobre um anúncio?",
+        "Ao contatar o anunciante, devo falar o código do imóvel ou o endereço do mesmo?",
+        "Fiquei interessado em um imóvel, devo falar o código do imóvel ou o endereço dele para o anunciante?",
+        "Quero saber sobre um imóvel, ao falar com o anunciante, menciono o endereço ou o código do imóvel?",
+        "Me interessei por anúncio como devo falar sobre ele com o anunciante?",
+        "quais dados de contato serão repassados caso alguém interessado queira entrar em contato",
+        "quais dados de contato devem ser informados para um interessado em meus anúncios",
+        "Devo informar quais dados para entrarem em contato comigo, caso estejam interessados no meu anúncio? Telefone, e-mail?",
+        "tem gente interessada em meu anúncio, quais dados podem ver meus de contato?",
+        "Meu telefone e email ficarão disponíveis caso alguém tenha interesse no meu anúncio?",
+        "Sou anunciante, os anúncios, quais dados meus serão exibidos aos interessados?",
+        "quando eu ligo sobre um anúncio, quais dados serão informados?",
+        "O código do imóvel é importante de ser informado ao entrar em contato com um anúncio que interessa na plataforma?",
+        "Se interessaram pelo meu anúncio, meu código do imóvel pode ser mostrado além dos dados de telefone?"
+      ]
+    },
+    {
+      "Description": "suporte_informar_dados_denunciar_anuncio",
+      "AssociatedSentences": [
+        "Quando denunciar um anúncio, tenho que informar os dados?",
+        "Quero denunciar um anúncio, preciso informar meus dados?",
+        "Quero fazer uma denúncia, mas não quero informar meus dados, preciso informar?",
+        "É necessário informar meus dados se eu quiser denunciar um anúncio?",
+        "Meus dados precisam ser informados para fazer um denúncia de anúncio?",
+        "Preciso informar meus dado para poder fazer uma denúncia?",
+        "É obrigatório informar meus dados caso eu queira fazer uma denúncia?",
+        "preciso fornecer alguma informação minha caso queira fazer uma denúncia?",
+        "Informar dados ao realizar uma denúncia",
+        "Para fazer a denúncia do anúncio, os dados são obrigatórios?",
+        "Preciso realizar uma denúncia e quero entender quais dados devo enviar para realizar isso?",
+        "o que acontece com anúncio denunciado e os meus dados?",
+        "o que acontece com os meus dados no anuncio denunciado?"
+      ]
+    },
+    {
+      "Description": "suporte_definicao_denuncia_anuncio_imovel",
+      "AssociatedSentences": [
+        "O que acontece quando denuncio um anúncio de imóvel?",
+        "O que acontece após denúncia de um anúncio?",
+        "O que a Compre&Alugue Agora faz quando um imóvel é denunciado?",
+        "Como funciona a denúncia de anúncios?",
+        "Gostaria de saber o que acontece quando o anúncio de um imóvel é denunciado?",
+        "Meu anúncio foi denunciado, o que acontece agora?",
+        "Qual o procedimento pós denúncia de anúncio?",
+        "Denuncia anúncio imóvel",
+        "quero denunciar um anúncio de um imóvel",
+        "O que é denunciar um anúncio de imóvel?",
+        "Se denunciarem meu anúncio, o que devo fazer?",
+        "Como saber se meu anúncio foi denunciado?",
+        "Denúncia do anúncio?? O que acontece depois?",
+        "Se meu anúncio for denunciado qual suporte recebo",
+        "Meu anúncio foi denunciado e eu preciso realizar alguma ação?",
+        "o que consigo fazer se meu anúncio sofreu uma denúncia?",
+        "sabendo que meu anúncio foi denunciado, o que devo fazer",
+        "O que deve ser feito se meu anúncio sofrer uma denúncia?",
+        "como devo denunciar um anúncio?",
+        "meu anúncio foi denunciado e agora, que providências devo tomar?",
+        "Anunciaram meu imóvel, e agora?",
+        "O que fazer se uma pessoa anunciou meu imóvel?",
+        "Meu imóvel foi anunciado por outra pessoa, o que faço agora?",
+        "Meu imóvel foi anunciado sem autorização, o que faço?",
+        "Não autorizei o anúncio de um imóvel meu e alguém anunciou o mesmo, o que devo fazer?",
+        "Poderiam me auxiliar no que fazer caso alguém anuncie um imóvel meu sem minha autorização?",
+        "Gostaria de anunciar meu imóvel, mas alguém já o anunciou sem minha autorização, o que devo fazer?",
+        "Alguém anúnciou o meu imóvel, o que devo sair?",
+        "Quero denuciar um imóvel?",
+        "Denunciar imóvel.",
+        "Se denunciarem meu anúncio, o que devo fazer?",
+        "Quero entender quais motivos que levaram a denunciar meu anúncio?",
+        "Quais motivos podem levar um anúncio a ser denunciado"
+      ]
+    },
+    {
+      "Description": "suporte_definicao_icone",
+      "AssociatedSentences": [
+        "O ícone “tem mais pessoas interessadas” no anúncio, me favorece?",
+        "Para que serve o ícone \"há pessoas interessadas no anúncio?",
+        "O que significa o ícone \"há (número) pessoas interessadas neste anúncio”?",
+        "O ícone \"há (número) pessoas interessadas neste anúncio” me favorece?",
+        "O ícone \"há (número) pessoas interessadas neste anúncio” pode vir a me favorecer?",
+        "Como funciona o ícone \"há (número) pessoas interessadas neste anúncio”?",
+        "Apareceu o ícone \"há (número) pessoas interessadas neste anúncio”, o que significa?",
+        "o que é ícone?",
+        "Me fale sobre o ícone “tem mais pessoas interessadas”",
+        "Quero saber sobre o ícone “tem mais pessoas interessadas”",
+        "Defina ícone"
+      ]
+    },
+    {
+      "Description": "suporte_definicao_selfie",
+      "AssociatedSentences": [
+        "O que é uma selfie?",
+        "Selfie?",
+        "Como tirar uma selfie?",
+        "Me explique o que é selfie",
+        "A selfie é o que?",
+        "A selfie é tirada como?",
+        "A selfie é uma fotografia?",
+        "Me fale sobre selfies",
+        "Defina Selfie",
+        "Selfie é uma foto?",
+        "Quero tirar uma selfie correta, como proceder",
+        "Sobre selfies, como sei que está de acordo?"
+      ]
+    },
+    {
+      "Description": "suporte_como_tirar_foto_creci",
+      "AssociatedSentences": [
+        "Como tirar a foto do Creci?",
+        "Como deve ser a foto do Creci?",
+        "Como tiro a foto do Creci?",
+        "Poderia me ajudar com a foto do Creci?",
+        "A foto do Creci deve ser tirada como?",
+        "Devo tirar a foto do Creci como?",
+        "Quero saber como tirar a foto do Creci",
+        "De que modo devo tirar a foto do CRECI",
+        "Foto do creci",
+        "quero entender melhor como tirar foto creci para portal? é necessário?",
+        "Quero tirar minha foto com o creci, tem problema?",
+        "Como deve ser a minha foto do Creci no portal?",
+        "Preciso tirar uma selfie com o Creci?",
+        "Como tirar foto da carteirinha do Creci para o portal?",
+        "A foto no portal deve ser como?",
+        "A foto no portal deve ser uma selfie?",
+        "Devo tirar foto de rosto para o portal?",
+        "de que maneira devo tirar a minha foto do creci para o portal",
+        "De que jeito é a foto do creci no portal",
+        "como sei que a foto creci está correta?",
+        "a minha foto creci está correta no portal",
+        "quero ter certeza que a minha foto do creci no portal está certa",
+        "Foto do perfil de corretor, como procedo?",
+        "Foto do Creci quais são os requisitos básicos para tirar esta selfie?",
+        "Dentro do portal como seria a melhor forma de tirar a foto para Creci?"
+      ]
+    },
+    {
+      "Description": "suporte_diferencas_planos",
+      "AssociatedSentences": [
+        "Qual a diferença do Plano do Corretor para os outros?",
+        "Qual a diferença entre os planos?",
+        "Me explique as diferenças dos planos",
+        "Diferenças entre os planos",
+        "Gostaria de saber quais as diferenças entre os planos",
+        "Quero saber qual a diferença entre os planos?",
+        "Disparidades entre os planos",
+        "Me fale sobre os diferentes tipos de planos",
+        "Quero saber se o meu plano é muito diferente dos outros",
+        "Para anunciar quero entender melhor sobre os planos existentes",
+        "Há diferenças entre os planos?",
+        "Os planos possuem diferença entre eles?",
+        "Como sei qual plano é o melhor?",
+        "Na plataforma como consigo distinguir os planos?",
+        "por curiosidade gostaria de saber mais sobre os planos que existem no compre & algue agora?"
+      ]
+    },
+    {
+      "Description": "suporte_definicao_plano_corretor",
+      "AssociatedSentences": [
+        "O que é o plano do corretor?",
+        "Me explique sobre o plano do corretor",
+        "Como funciona o plano de corretor?",
+        "Plano de corretor?",
+        "Para quem é indicado o plano de corretor?",
+        "Gostaria de saber sobre o plano de corretor",
+        "Como é o plano de corretor?",
+        "Plano do Corretor",
+        "defina plano do corretor",
+        "me fale sobre o plano do corretor"
+      ]
+    },
+    {
+      "Description": "suporte_corretor_cadastrado_creci",
+      "AssociatedSentences": [
+        "Como saber se o corretor é cadastrado no Creci?",
+        "Como descubro se o corretor tem Creci?",
+        "Os corretores tem Creci?",
+        "Estou falando com um corretor, ele tem Creci?",
+        "O corretor é um profissional habilitado?",
+        "O meu corretor tem Creci?",
+        "O corretor do anúncio é habilitado?",
+        "Os corretores cadastrados na plataforma estão regulamentados",
+        "Como verificar a veracidade do creci de um corretor?",
+        "Meu corretor diz que tem creci, mas quero validar, como faço?",
+        "Eu quero conseguir meu creci, como faço?",
+        "Creci é obrigatório para todos corretores?"
+      ]
+    },
+    {
+      "Description": "suporte_associado_em_dia_creci",
+      "AssociatedSentences": [
+        "Preciso estar em dia com o Creci para me tornar um associado?",
+        "É necessário estar em dia com o Creci para me tornar associado?",
+        "Caso eu esteja devendo o Creci, não posso me tornar associado?",
+        "Quero me tornar associado ao aplicativo, preciso estar em dia com o Creci?",
+        "Para me tornar associado, preciso estar em dia com o Creci?",
+        "Gostaria de saber se preciso estar financeiramente em dia com o Creci para ser associado?",
+        "Não estando em dia com o Creci, não posso me tornar associado?"
+      ]
+    },
+    {
+      "Description": "suporte_vantagem_anuncio_gratis",
+      "AssociatedSentences": [
+        "Sou proprietário, tenho qual vantagem em anunciar grátis?",
+        "Sendo proprietário, qual a vantagem de anunciar grátis?",
+        "Para o proprietário, qual a vantagem de anunciar grátis?",
+        "Qual a vantagem de anunciar grátis para o proprietário?",
+        "Quero anunciar grátis e sou proprietário, qual a vantagem?",
+        "Quais vantagens o proprietário tem se anunciar grátis?",
+        "Vantagens de anunciar grátis sendo proprietário",
+        "O que ganho anunciando grátis?",
+        "Quero anunciar grátis, quais meus benefícios?",
+        "Benefícios de anunciar grátis",
+        "Ganho o que anunciando grátis?",
+        "Vantagens de anunciar grátis",
+        "Me informe sobre a vantagem de anunciar grátis"
+      ]
+    },
+    {
+      "Description": "suporte_vantagem_anuncio_premium",
+      "AssociatedSentences": [
+        "Qual a vantagem de anunciar no  premium?",
+        "O que ganho anunciando no premium?",
+        "Quero fazer um anúncio premium, quais meus benefícios?",
+        "Benefícios de anunciar premium",
+        "Ganho o que anunciando premium?",
+        "Vantagens de anunciar premium",
+        "Me informe sobre a vantagem de anunciar no premium",
+        "Vantagem de ser premium",
+        "benefícios de ser premium",
+        "O que tem a mais no plano premium",
+        "que vatagem tem o premium",
+        "o premium tem mais recursos?"
+      ]
+    },
+    {
+      "Description": "define_slots",
+      "AssociatedSentences": [
+        "quero mudar meu perfil",
+        "muda o perfil",
+        "quero trocar de perfil",
+        "troca meu perfil",
+        "set perfil",
+        "escolher perfil",
+        "quero definir o perfil",
+        "configurar o perfil",
+        "configuração de perfil",
+        "quero alterar o meu perfil",
+        "escolher qual perfil"
+      ]
+    },
+    {
+      "Description": "show_profile",
+      "AssociatedSentences": [
+        "who am I?",
+        "what am I?",
+        "show me slots",
+        "let me see configuration"
+      ]
+    }
+  ]
+}
