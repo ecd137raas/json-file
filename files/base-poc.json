@@ -1,0 +1,56 @@
+{
+  "base": [
+    {
+      "Description": "problema",
+      "AssociatedSentences": [
+        "tenho um problema",
+        "quero falar de um problema",
+        "estou enfrentando uma dificuldade",
+        "quero abrir um chamado",
+        "como abro um chamado",
+        "quero abrir um chamado",
+        "problema",
+        "estou com problema",
+        "estou com dificuldade",
+        "Tenho uma complicação",
+        "identifiquei um problema",
+        "Preciso abrir um chamado.",
+        "Quero abrir um chamado",
+        "Abrir um chamado",
+        "Poderia abrir um chamado?",
+        "como faço para abrir um chamado",
+        "me diga como abrir um chamado"
+      ]
+    },
+    {
+      "Description": "chamado_avaliacao_corretor",
+      "AssociatedSentences": [
+        "Não consigo avaliar o corretor",
+        "não estou conseguingo fazer a avaliação do corretor",
+        "avaliação do corretor está com problema?",
+        "estou com problema para avaliar o corretor",
+        "avalio um corretor mas não carrega",
+        "estou com problema para realizar a avaliação do corretor",
+        "tenho dificuldade de avaliar o corretor",
+        "a avaliação do corretor não está funcionando",
+        "não possível realizar a avaliação do corretor"
+      ]
+    },
+    {
+      "Description": "chamado_perfil",
+      "AssociatedSentences": [
+        "tenho um problema relacionado ao meu perfil",
+        "quero abrir um chamado sobre o perfil",
+        "estou com uma dificuldade no meu perfil",
+        "meu perfil está com erro",
+        "to com problema no perfil de cadastro",
+        "perfil está com problemas",
+        "não consigo realizar operações no meu perfil",
+        "não é possível usar as funções do perfil",
+        "perfil está com problemas",
+        "meu perfil está quebrado",
+        "identifiquei um problema no perfil"
+      ]
+    }
+  ]
+}

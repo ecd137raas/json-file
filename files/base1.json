@@ -1,0 +1,1385 @@
+{
+  "Description": "problema",
+  "AssociatedSentences": [
+    "tenho um problema",
+    "quero falar de um problema",
+    "estou enfrentando uma dificuldade",
+    "quero abrir um chamado",
+    "como abro um chamado",
+    "quero abrir um chamado",
+    "problema",
+    "estou com problema",
+    "estou com dificuldade",
+    "Tenho uma complicação",
+    "identifiquei um problema",
+    "Preciso abrir um chamado.",
+    "Quero abrir um chamado",
+    "Abrir um chamado",
+    "Poderia abrir um chamado?",
+    "como faço para abrir um chamado",
+    "me diga como abrir um chamado"
+  ]
+},
+{
+  "Description": "chamado_avaliacao_corretor",
+  "AssociatedSentences": [
+    "Não consigo avaliar o corretor",
+    "não estou conseguingo fazer a avaliação do corretor",
+    "avaliação do corretor está com problema?",
+    "estou com problema para avaliar o corretor",
+    "avalio um corretor mas não carrega",
+    "estou com problema para realizar a avaliação do corretor",
+    "tenho dificuldade de avaliar o corretor",
+    "a avaliação do corretor não está funcionando",
+    "não possível realizar a avaliação do corretor"
+  ]
+},
+{
+  "Description": "chamado_perfil",
+  "AssociatedSentences": [
+    "tenho um problema relacionado ao meu perfil",
+    "quero abrir um chamado sobre o perfil",
+    "estou com uma dificuldade no meu perfil",
+    "meu perfil está com erro",
+    "to com problema no perfil de cadastro",
+    "perfil está com problemas",
+    "não consigo realizar operações no meu perfil",
+    "não é possível usar as funções do perfil",
+    "perfil está com problemas",
+    "meu perfil está quebrado",
+    "identifiquei um problema no perfil"
+  ]
+},
+{
+  "Description": "chamado_perfil_senha",
+  "AssociatedSentences": [
+    "não consigo mudar minha senha",
+    "não estou conseguindo mudar minha senha",
+    "não estou achando onde mudar de senha",
+    "to tentando mudar de senha mas nao vai",
+    "tenho um problema para trocar a senha do meu perfil",
+    "estou com problemas para alterar a senha do meu perfil",
+    "O que faço quando estou com problemas para trocar a senha do meu perfil?",
+    "estou com problema no meu perfil para trocar a senha",
+    "minha senha precisa ser trocada, mas não consigo",
+    "não é possível trocar a senha do meu perfil",
+    "identifiquei um problema na alteração de senha do perfil"
+  ]
+},
+{
+  "Description": "chamado_perfil_dados",
+  "AssociatedSentences": [
+    "não estou conseguindo mudar meus dados pessoais",
+    "não consigo alterar meu endereço",
+    "quero mudar meu email",
+    "meu endereço esta errado não consigo trocar",
+    "não consigo trocar meu email",
+    "preciso alterar o e-mail",
+    "quero abrir um chamado para mudar meu email",
+    "me abre um chamado para trocar o e-mail da minha conta",
+    "gostaria de alterar meus dados de cadastro",
+    "queria alterar meus dados cadastrais",
+    "não estou conseguindo mudar de foto de perfil",
+    "a foto do perfil não carrega",
+    "mudei minha foto de perfil mas a nova não esta aparecendo",
+    "não consigo alterar o meus dados",
+    "estou com problemas para alterar meus dados",
+    "estou com dificuldade para trocar minhas informações",
+    "quero alterar minhas informações pessoais",
+    "identifiquei um problema na alteração de dados do meu perfil"
+  ]
+},
+{
+  "Description": "chamado_perfil_validacao_creci",
+  "AssociatedSentences": [
+    "tenho problemas na validação do creci",
+    "a validação do creci está com erro",
+    "dá erro na validação do creci",
+    "está com problema para validar o creci",
+    "fui bloqueado na validação do creci",
+    "a validação do creci me bloqueou",
+    "meu creci não foi validado",
+    "estou com problema de creci não validado",
+    "o creci não está validando",
+    "estou com problema para validar o creci",
+    "meu perfil tem problema para validar o creci",
+    "identifiquei um problema na validação do creci"
+  ]
+},
+{
+  "Description": "chamado_pedidos_cliente",
+  "AssociatedSentences": [
+    "quero ajuda com os pedidos de clientes",
+    "me ajuda com pedido de cliente",
+    "estou com dificuldade no pedido de cliente",
+    "o pedido de cliente está com problema",
+    "estou com problemas para realizar o pedido do meu cliente",
+    "durante o pedido de cliente ocorre um problema",
+    "por que não consigo realizar os pedidos dos meus clientes?",
+    "não é possível usar os pedidos de cliente",
+    "meus pedidos estão com problemas",
+    "Quero resolver um problema nos pedidos",
+    "identifiquei problemas com pedidos de cliente",
+    "estou com problema com pedidos",
+    "to com problemas no pedido",
+    "poderia me ajudar com dúvidas nos pedidos",
+    "estou com dúvida em um pedido",
+    "está dando erro no pedido clientes",
+    "me ajuda com dúvidas no pedido",
+    "queria brir chamado para pedido clientes",
+    "estou com dúvidas em pedidos",
+    "preciso de ajuda com um pedido",
+    "tenho dúvida com pedido clientes",
+    "fiquei em dúvida sobre como fazer um pedido",
+    "estou com problemas para realizar pedidos",
+    "tenho dificuldade com pedidos de clientes"
+  ]
+},
+{
+  "Description": "chamado_pedidos_cliente_enviar_proposta",
+  "AssociatedSentences": [
+    "quero ajuda para enviar proposta de pedidos de clientes",
+    "me ajuda com proposta do pedido de cliente",
+    "estou com dificuldade na proposta do pedido de cliente",
+    "a proposta do pedido de cliente está com problema",
+    "há um problema para realizar as propostas de pedidos de clientes",
+    "não é possível quando realizo um pedido de cliente enviar uma proposta",
+    "uma proposta não é enviada por um problema no pedido de cliente",
+    "estou com um problema no envio de propostas",
+    "propostas não são enviadas",
+    "tenho dificuldades para enviar propostas",
+    "identifiquei um problema ao enviar propostas de pedidos de clientes"
+  ]
+},
+{
+  "Description": "chamado_pedidos_cliente_visualizar_cliente",
+  "AssociatedSentences": [
+    "quero ajuda para visualizar os dados do cliente e dos pedidos de clientes",
+    "me ajuda com visualização de cliente no pedido de cliente",
+    "estou com dificuldade em ver as informações do cliente no pedido de cliente",
+    "a visualização do cliente no pedido de cliente está com problema",
+    "quero ajuda para visualizar contato do cliente do pedidos de clientes",
+    "me ajuda com visualização de contato do cliente no pedido de cliente",
+    "estou com dificuldade em ver o contato do cliente no pedido de cliente",
+    "a visualização do contato do cliente no pedido de cliente está com problema",
+    "estou com um problema ao tentar ver os dados de pedidos de clientes",
+    "as informações de pedidos de clientes não são exibidas",
+    "não enchergo os dados dos pedidos dos meus clientes",
+    "quero ver os dados de contato do meu cliente, mas não consigo",
+    "identifiquei um problema para visualizar os pedidos de clientes",
+    "identifiquei um problema para visualizar os dados de contato de clientes"
+  ]
+},
+{
+  "Description": "chamado_pedidos_cadastrar",
+  "AssociatedSentences": [
+    "não estou conseguindo cadastrar um pedido",
+    "não estou conseguindo incluir um pedido",
+    "tenho dúvidas para cadastrar um pedido",
+    "deu erro ao incluir um pedido",
+    "não consigo cadastrar meu pedido",
+    "quero cadastrar um pedido",
+    "está com erro na inclusão de pedido",
+    "deu erro no cadastro de pedido",
+    "incluir pedido está dando problema",
+    "como é que faço para cadastrar um pedido",
+    "me abre um chamado para cadastro de pedido",
+    "está com erro no cadastro de pedido",
+    "to com problema para cadastrar um pedido",
+    "se cadastrar pedido ou cadastro de pedido estiver com erro ou problema"
+  ]
+},
+{
+  "Description": "chamado_pedidos_cancelar",
+  "AssociatedSentences": [
+    "não estou conseguindo cancelar ou excluir um pedido",
+    "tenho dúvidas para cancelar um pedido",
+    "deu erro ao cancelar um pedido",
+    "está com erro no cancelamento de pedido",
+    "não consigo cancelar meu pedido",
+    "quero cancelar ou apagar um pedido",
+    "está com erro na exclusão do pedido",
+    "deu erro na exclusão de pedido",
+    "cancelar pedido está dando problema",
+    "como é que faço para cancelar ou excluir ou apagar um pedido",
+    "me abre um chamado para excluir um pedido",
+    "está com erro na exclusão de pedido",
+    "to com problema para cancelar um pedido",
+    "se cancelar pedido ou excluir de pedido der erro ou problema"
+  ]
+},
+{
+  "Description": "chamado_canal_corretor",
+  "AssociatedSentences": [
+    "quero ajuda com o canal do corretor",
+    "o canal do corretor está com problema",
+    "deu erro no canal do corretor",
+    "me ajuda com o canal do corretor com problemas",
+    "meu canal do corretor não está funcionando corretamente",
+    "estou com problemas com o canal do corretor",
+    "tenho dificuldades para utilizar o canal do corretor",
+    "o canal do corretor está com falhas",
+    "não é possível utilizar o canal do corretor",
+    "quero abrir um chamado sobre o canal do corretor",
+    "o canal do corretor está com problemas, preciso abrir um chamado",
+    "identifiquei um problema com o canal do corretor",
+    "problema no canal do corretor"
+  ]
+},
+{
+  "Description": "chamado_canal_corretor_potencial",
+  "AssociatedSentences": [
+    "estou com problema no meu canal em cliente potencial",
+    "estou com problema com o cliente em potencial",
+    "o cliente em potencial no meu canal do corretor não está funcionando.",
+    "no canal do corretor o cliente em potencial está com problemas",
+    "não consigo utilizar o cliente em potencial no meu canal do corretor",
+    "o cliente em potencial não funciona corretamente dentro do canal do corretor",
+    "dentro do canal do corretor o cliente em potencial apresenta falhas",
+    "identifiquei um problema com o cliente em potencial no canal do corretor"
+  ]
+},
+{
+  "Description": "chamado_canal_corretor_potencial_cliente_nao_vejo",
+  "AssociatedSentences": [
+    "não consigo ver o cliente em potêncial",
+    "cliente em potencial não aparece para mim",
+    "quero ajuda para visualizar o cliente em potencial",
+    "cliente em potencial com problema",
+    "tá ruim de ver o cliente em potencial",
+    "ao acessar o canaldo corretor não consigo ver o cliente em potencial que cadastrei",
+    "não vejo o cliente em potencial que cadastrei no meu canal do corretor",
+    "não é exibido o cliente em potencial cadastrado dentro do canal do corretor",
+    "não vejo os clientes em potencial que cadastrei",
+    "identifiquei um problema na exibição dos clientes em potencial já cadastrados",
+    "o cliente em potencial no canal do corretor está com problema para visualiza-los"
+  ]
+},
+{
+  "Description": "chamado_canal_corretor_potencial_cliente_nao_cadastrar",
+  "AssociatedSentences": [
+    "não consigo cadastrar o cliente em potencial",
+    "não consigo incluir um cliente potencial",
+    "estou com erro no cadastro do cliente em potencial",
+    "preciso de ajuda para incluir um cliente em potencial",
+    "não é possível cadastrar os clientes no meu canal do corretor",
+    "por que não consigo cadastrar clientes no canal do corretor?",
+    "o cadastratamento de clientes em potencial no canal do corretor não funciona",
+    "cadastro de clientes está com problemas dentro do canal do corretor",
+    "o canal do corretor não cadastra os clientes em potencial",
+    "identifiquei um problema no cadastro de clientes em potencial dentro do canal do corretor",
+    "o cliente em potencial no canal do corretor está com problema não consigo cadastrar cliente"
+  ]
+},
+{
+  "Description": "chamado_canal_corretor_potencial_nao_efetua_buscar",
+  "AssociatedSentences": [
+    "não consigo buscar o cliente em potencial",
+    "estou com erro na busca de cliente potencial",
+    "erro pesquisando o cliente em potencial",
+    "como faço para buscar um cliente em potencial",
+    "a pesquisa de cliente em potencial está com erro",
+    "a busca por clientes em potencial está com problemas dentro do canal do corretor",
+    "problema na busca por clientes em potencial no canal do corretor",
+    "estou com dificuldade de realizar a pesquisa por clientes em potencial no canal do corretor",
+    "quero pesquisar no canal do corretor por clientes em potencial",
+    "clientes em potencial não são trazidos ao realizar uma busca no canal do corretor",
+    "o canal do corretor não traz os resultados da busca por clientes em potencial",
+    "identifiquei um problema na busca afetuada por clientes em pontecial no canal do corretor",
+    "o cliente em potencial no canal do corretor está com problema não consigo efetuar uma busca"
+  ]
+},
+{
+  "Description": "chamado_canal_corretor_imovel_oportunidade",
+  "AssociatedSentences": [
+    "imóvel de oportunidade está com problemas",
+    "quero ajuda com imóvel de oportunidade",
+    "o imóvel de oportunidade está com erro",
+    "estou com problemas para utilizar o imóvel de oportunidade",
+    "o imovel de oportunidade não funciona corretamente",
+    "tenho dificuldades para utilizar o imóvel de oportunidade",
+    "não consigo utilizar o imóvel de oportunidade",
+    "encontrei falhas no canal do corretor em imóvel de oportunidade",
+    "dentro de canal do corretor o imóvel de oportunidade está apresentando falhas",
+    "identifiquei um problema no imóvel de oportunidade em canal do corretor",
+    "o imóvel de oportunidade no canal do corretor está com problema"
+  ]
+},
+{
+  "Description": "chamado_canal_corretor_imovel_oportunidade_nao_vejo",
+  "AssociatedSentences": [
+    "não consigo visulizar um imóvel de oportunidade",
+    "não vejo um imóvel de oportunidade",
+    "não abre o imóvel de oportunidade",
+    "não consigo ver um imóvel de oportunidade",
+    "estou com um problema não consigo ver um imóvel de oportunidade no canal do corretor",
+    "tenho um dificuldade em canal do corretor para visualizar os imóveis de oportunidade",
+    "identifiquei um problema na exibição de imóveis de oportunidade dentro do canal do corretor",
+    "os imoveis de oportunidade não estão sendo exibidos no canal do corretor",
+    "falha na exibição dos imóveis de oportunidade",
+    "o imovel de oportunidade no canal do corretor está com problema não consigo ver eles"
+  ]
+},
+{
+  "Description": "chamado_canal_corretor_imovel_oportunidade_nao_cadastra",
+  "AssociatedSentences": [
+    "erro no cadastro do imóvel de oportunidade",
+    "não consigo cadastrar um imóvel de oportunidades",
+    "preciso de ajuda com cadastro de imóvel de oportunidade",
+    "estou com um problema não consigo ver um imóvel de oportunidade",
+    "existe uma problema para cadastrar imóveis de oportunidade",
+    "tenho um problema ao cadastrar imóveis de oportunidade no canal do corretor",
+    "no canal do corretor não estão sendo cadstrados novos imóveis de oportunidade",
+    "imóveis de oportunidade não estão sendo cadastrados no canal do corretor",
+    "não é possível inserir imóveis de oportunidade dentro do canal do corretor",
+    "o canal do corretor dificuldades ao inserir imóveis de oportunidade",
+    "identifiquei um problema ao cadastrar imóveis de oportunidade no canal do corretor",
+    "o imovel de oportunidade no canal do corretor está com problema não consigo cadastrar nada"
+  ]
+},
+{
+  "Description": "chamado_canal_corretor_imovel_oportunidade_nao_busca",
+  "AssociatedSentences": [
+    "erro na busca do imóvel de oportunidade",
+    "não consigo buscar um imóvel de oportunidades",
+    "preciso de ajuda com busca de imóvel de oportunidade",
+    "estou com problemas para buscar um imóvel de oportunidade no canal do corretor",
+    "tenho dificuldade no canal do corretor para buscar um imóvel de oportunidade",
+    "o canal do corretor não consegue buscar imóveis de oportunidade",
+    "tem um problema ao pesquisar imóveis de oportunidade no canal do corretor",
+    "no canal do corretor não é possível pesquisar por imóveis de oportunidade",
+    "identifiquei uma falha ao buscar por imóveis de oportunidade no canal do corretor",
+    "o imovel de oportunidade no canal do corretor está com problema não consigo efetuar uma busca"
+  ]
+},
+{
+  "Description": "chamado_favoritos",
+  "AssociatedSentences": [
+    "não estou conseguindo incluir um favorito",
+    "deu problema nos favoritos",
+    "tenho dúvidas de como utilizar os favoritos",
+    "como marco um anúncio como favorito ?",
+    "queria favoritar um anúncio",
+    "não consigo favoritar o anúncio",
+    "quero incluir nos favoritos",
+    "como faço parar incluir um anúncio em favoritos ?",
+    "deu erro no cadastro de favoritos",
+    "incluir favorito está dando problema",
+    "como é que faço para favoritar um anúncio",
+    "me abre um chamado para favoritos",
+    "como uso os favoritos ?",
+    "quero abrir chamado pq estou com problema nos favoritos",
+    "poderia me ajudar com favoritos ?",
+    "não consigo marcar um anúncio como favorito",
+    "Como usar os favoritos?"
+  ]
+},
+{
+  "Description": "chamado_anuncios",
+  "AssociatedSentences": [
+    "quero ver um anuncio, mas está dando erro",
+    "estou com problemas nos anúncios",
+    "deu problema para ver o anuncio",
+    "deu erro quando tento abrir o anúncio",
+    "não consigo visualizar meu anúncio",
+    "me ajuda com meu anúncio",
+    "tenho um problema com anúncio",
+    "está dando erro no anúncio",
+    "meu anuncio está com problema",
+    "quero abrir um chamado, estou com erro no anúncio",
+    "o anúncio que fiz está com erro",
+    "como abro chamado para um anúncio",
+    "quero um chamado para problema com anúncio",
+    "tenho dificuldade com anúncio",
+    "não consigo anunciar meu imóvel",
+    "estou com problema para anunciar um imovel",
+    "identifiquei um problema nos anuncios"
+  ]
+},
+{
+  "Description": "chamado_anuncios_criar_anuncio",
+  "AssociatedSentences": [
+    "não consigo criar um anuncio",
+    "estou com problema na criação de anuncios",
+    "não estou conseguindo criar anuncios",
+    "Não consigo gerar meu anúncio",
+    "meu anúncio nao esta habilitando a opção de criar",
+    "não estou conseguindo fazer o meu anúncio",
+    "não consigo criar anuncio do meu imóvel",
+    "a criação de anuncios está com defeito",
+    "tenho um problema na geração de um anúncio",
+    "identifiquei uma falha na criação de anuncios",
+    "encontrei um problema na geração de anuncios",
+    "estou com problema para criar um imovel"
+  ]
+},
+{
+  "Description": "chamado_anuncios_existentes",
+  "AssociatedSentences": [
+    "está dando erro que atingiu o limite máximo de anúncios",
+    "tem erro com o limite máximo de anúncios",
+    "quero abrir um chamado de anúncio existente",
+    "anúncio existente com erro",
+    "deu erro nos anúncios existentes",
+    "estou com um anúncio que já existe com erro",
+    "identifiquei um problema com os anúncios existentes",
+    "há um problema com os anúncios existentes",
+    "os anúncios existentes apresentam uma falha",
+    "tenho algumas dificuldades dos anuncios existentes",
+    "não consigo usar os meus anúncios existentes",
+    "os meus amigos antigos estão com problemas"
+  ]
+},
+{
+  "Description": "chamado_anuncios_busca",
+  "AssociatedSentences": [
+    "estou com problema na busca de anúncio",
+    "está dando erro a busca de um anúncio",
+    "quero abrir um chamado para buscar um anúncio",
+    "a busca de anúncios está com erro",
+    "está com erro quando vou buscar um anúncio",
+    "deu problema na busca de anuncios",
+    "o buscador de anúncios tá com erro",
+    "tem um problema com a busca",
+    "a busca de anúncio está com erro, quero falar com o suporte",
+    "problemas para buscar anúncio",
+    "estou com um problema para buscar anúncios",
+    "buscar anúncios não funciona",
+    "falha ao pesquisar por anúncio",
+    "identifiquei um problema nas buscas por anúncio",
+    "erro na pesquisa de anúncios",
+    "está com falha a pesquisa de anuncios",
+    "estou com problemas para buscar anuncios",
+    "os anuncios não estão sendo pesquisados",
+    "a pesquisa de anuncios não está funcionando",
+    "fui tá dando erro quando vou buscar um anúncio",
+    "está com erro quando tento pesquisar um anúncio"
+  ]
+},
+{
+  "Description": "chamado_anuncios_turbinar",
+  "AssociatedSentences": [
+    "queria turbinar, mas está dando erro",
+    "estou com dificuldade para turbinar",
+    "quero abrir um chamado para turbinar",
+    "tenho um problema com a turbinada",
+    "está com erro o turbinar",
+    "estou com problemas para turbinar",
+    "deu problema na turbinada",
+    "deu erro ao turbinar",
+    "não consigo turbinar",
+    "me ajuda a turbinar",
+    "não estou conseguindo turbinar",
+    "não esta aparecendo pra turbinar",
+    "ajuda com turbinar",
+    "quero dar uma turbinada",
+    "estou com um problema para turbinar",
+    "quero turbinar, mas ele fica com erro"
+  ]
+},
+{
+  "Description": "chamado_anuncios_criar_anuncio_publicar",
+  "AssociatedSentences": [
+    "esta dando erro ao publicar meu anúncio",
+    "estou tentando publicar meu anúncio mas da erro",
+    "não consigo publicar meu anúncio",
+    "não estou conseguindo publicar meu anúncio",
+    "meu anúncio esta com problema na hora de publicar",
+    "meu anúncio não esta publicando",
+    "estou apertando para publicar mas não vai",
+    "não é possível fazer um anuncio ser publicado",
+    "identifiquei um problema a publicar um anúncio"
+  ]
+},
+{
+  "Description": "chamado_anuncios_criar_anuncio_fotos",
+  "AssociatedSentences": [
+    "estou com problema nas fotos dos anuncios",
+    "quero abrir um chamado para carregar fotos",
+    "estou com dificuldade com as fotos do anúncio",
+    "tem coisa errada com a foto do anúncio",
+    "estou criando um anuncio mas as fotos não vai",
+    "o anuncio esta com problema na hora de por fotos",
+    "o upload de fotos não esta funcionando na criação de um anuncio",
+    "está dando erro para subir as fotos, videos ou plantas do anúncio",
+    "não consigo carregar a foto, video ou planta no meu anuncio",
+    "nao ta indo o carregamento de fotos do meu anuncio",
+    "as fotos do meu anúncio nao estão carregando",
+    "não estou conseguindo definir uma foto do meu anuncio como principal",
+    "não esta dando pra deixar como princial minha foto do anuncio",
+    "não esta aparecendo pra escolher uma das minhas fotos do anuncio como principal",
+    "estou com problema para definir uma foto do anuncio como principal",
+    "esta dando erro para marcar a foto principal",
+    "identifiquei um problema ao criar um anúncio com foto, video e plantas.",
+    "estou com um problema nos meus anúncios com video",
+    "video no anuncio está com problema",
+    "platas no anuncio estão com problema",
+    "estou com dificuldades para fazer anúncios com fotos, videos e plantas",
+    "tenho problema para criar anuncios com mídias"
+  ]
+},
+{
+  "Description": "chamado_anuncios_pagamento",
+  "AssociatedSentences": [
+    "tenho um problema com o pagamento meu anúncio premium",
+    "meu anúncio premium está com problema, mas o pagamento está em dia",
+    "tenho um anúncio premium com erro tem alguma relação com o pagamento",
+    "anúncio premium dando erro, pode ser o pagamento",
+    "estou com problema para realizar o pagamento do meu anúncio premium",
+    "anuncios premiuns não pagos estão com erro",
+    "não consigo pagar pelos meus anuncios premium"
+  ]
+},
+{
+  "Description": "chamado_anuncios_pagamento_pagamento_nao_aprovado",
+  "AssociatedSentences": [
+    "tenho um problema com o pagamento do anúncio",
+    "paguei um anúncio mas o pagamento não foi aprovado",
+    "não está aprovado o pagamento do meu anúncio",
+    "meu pagamento não foi aprovado ainda, preciso de ajuda",
+    "quero ajuda com o pagamento que não foi aprovado",
+    "o anúncio foi pago, mas está aparecendo que ainda não foi aprovado"
+  ]
+},
+{
+  "Description": "chamado_anuncios_pagamento_duvidas_pagamento",
+  "AssociatedSentences": [
+    "estou com dúvidas de como pagar um anúncio",
+    "estou com dúvidas de como pagar um anúncio premium",
+    "fiz um anúncio, mas estou com dúvidas no pagamento",
+    "fiquei com dúvida no pagamento de um anúncio",
+    "com que posso falar sobre dúvidas no pagamento de anúncio",
+    "estou com um problema em relação ao pagamento do meu anuncio"
+  ]
+},
+{
+  "Description": "chamado_anuncios_existentes_arqu_eclu",
+  "AssociatedSentences": [
+    "quero gerenciar a exclusão de anúncios",
+    "onde pode gerir a exclusão de anúncios",
+    "me mostra o gerenciamento de exclusão de anúncios",
+    "problemas com o gerenciador dos anúncios existentes",
+    "estou com problemas para realizar operações nos meus anúncios existentes"
+  ]
+},
+{
+  "Description": "chamado_anuncios_existentes_arqu_eclu_arquivar",
+  "AssociatedSentences": [
+    "está dando erro para arquivar um anúncio",
+    "arquivar o anúncio está com problema",
+    "não consigo arquivar um anúncio",
+    "tenho um anúncio que não foi possível realizar o arquivamento",
+    "estou com um problema no arquivamento de anúncios",
+    "quero arquivar o meu anuncio",
+    "estou com dificuldades para arquivar uns anuncios",
+    "eu não consigo arquivar meu anuncio",
+    "o anuncio não fica disponível para arquivamento",
+    "identifiquei que o meu anuncio não está sendo arquivado"
+  ]
+},
+{
+  "Description": "chamado_anuncios_existentes_arqu_eclu_desarquivar",
+  "AssociatedSentences": [
+    "está dando erro para desarquivar um anúncio",
+    "desarquivar o anúncio está com problema",
+    "não consigo desarquivar um anúncio",
+    "quero desarquivar um anúncio, mas não consigo",
+    "problema ao desarquivar um anúncio",
+    "tenho um anúncio que não foi possível realizar o desarquivamento",
+    "estou com um problema desarquivar anúncios",
+    "o desarquivamento de anuncios não está funcionando",
+    "não posso desarquivar um anuncio?",
+    "identifiquei uma falha ao desarquivar anuncios"
+  ]
+},
+{
+  "Description": "chamado_anuncios_existentes_arqu_eclu_excluir",
+  "AssociatedSentences": [
+    "está dando erro para excluir um anúncio",
+    "excluir o anúncio está com problema",
+    "não consigo excluir um anúncio",
+    "estou com problema para deletar um anúncio",
+    "quero excluir um anúncio, mas não consigo",
+    "não to conseguindo excluir o anúncio",
+    "excluir anúncio está com problema",
+    "o site não está deixando excluir um anúncio",
+    "quero excluir um anuncio e não funciona",
+    "estou com dificuldades para deletar um anuncio",
+    "tenho um problema na exclusão de anúncios",
+    "preciso excluir um anúncio",
+    "identifiquei um erro ao excluir um anuncio"
+  ]
+},
+{
+  "Description": "chamado_anuncios_existentes_aprovacao",
+  "AssociatedSentences": [
+    "tenho problema com aprovação de anúncio",
+    "não consigo que meu anúncio seja aprovado",
+    "está dando erro na aprovação do anúncio",
+    "estou com erro na aprovação de anúncios",
+    "não to conseguirndo aprovar meu anúncio",
+    "anúncio não está aprovado",
+    "erro na aprovação do anúncio",
+    "não está funcionando a aprovação de anúncios",
+    "problemas com a aprovação de um anúncio",
+    "identifiquei falhas na aprovação de anuncios"
+  ]
+},
+{
+  "Description": "chamado_anuncios_existentes_aprovacao_ainda_nao",
+  "AssociatedSentences": [
+    "meu anúncio ainda não foi aprovado",
+    "porque o anúncio não foi aprovado",
+    "porque meus anúncios ainda não foram aprovados",
+    "tenho um problema com anúncio ainda não aprovado",
+    "o que faço para resolver o anúncio não aprovado",
+    "anúncio ainda não aprovado",
+    "quanto tempo demora para aprovar um anúncio ?",
+    "porque esta demorando p aprovar meu anúncio ?",
+    "vai demorar para aprovar meu anúncio ?",
+    "por que a aprovação de um anuncio demora tanto?",
+    "estou a muito tempo na espera pela aprovação do meu anuncio",
+    "um anuncio fica muito tempo aguardando para ser aprovado"
+  ]
+},
+{
+  "Description": "chamado_anuncios_existentes_aprovacao_foto_impropria",
+  "AssociatedSentences": [
+    "a foto foi classificada como imprópria",
+    "estou com problema de foto classificada imprópria",
+    "minhas fotos foram marcadas como impróprias",
+    "tenho uma foto considerada imprópria",
+    "o que faço agora que a foto foi imprópria",
+    "foto imprópria inapropriada",
+    "por que minha foto foi dada como inapropriada?",
+    "minha foto foi considerada imprópria e agora?",
+    "estou com problemas com a minha foto identificada como imprópria no meu anúncio existente",
+    "meu anuncio existente está com a descrição imprópria"
+  ]
+},
+{
+  "Description": "chamado_anuncios_existentes_aprovacao_desc_impropria",
+  "AssociatedSentences": [
+    "a descrição foi classificada como imprópria",
+    "estou com problema de descrição classificada imprópria",
+    "a descrição foi marcada como imprópria",
+    "o anúncio existente está com a descrição considerada imprópria",
+    "tenho um problema minha descrição está imprópria dentro do meu anúncio já existente",
+    "estou com um anuncio existente com uma descrição inapropriada"
+  ]
+},
+{
+  "Description": "chamado_anuncios_existentes_destaque",
+  "AssociatedSentences": [
+    "tenho problema com destaque do anúncio",
+    "preciso de ajuda para destacar meu anúncio",
+    "está dando erro no destaque do anúncio",
+    "tenho um problema com anúncio ainda não destacado",
+    "o que faço para resolver o anúncio não destacado",
+    "estou com o meu anúncio existente sem destaque",
+    "identifiquei um problema nos destaque de anúncios existentes"
+  ]
+},
+{
+  "Description": "chamado_anuncios_existentes_destaque_nao_consigo",
+  "AssociatedSentences": [
+    "não consigo destacar meu anúncio",
+    "não consigo que meu anúncio seja destacado",
+    "estou com dificuldade em destacar um anúncio",
+    "quero ajudar sobre como destacar um anúncio",
+    "não sei destacar um anúncio, me ajuda",
+    "não consigo fazer com que o meu anúncio se destaque",
+    "estou com dificuldades para destacar o meu anúncio existente",
+    "é possível eu destacar mais o meu anúncio"
+  ]
+},
+{
+  "Description": "chamado_anuncios_existentes_destaque_nao_aparece",
+  "AssociatedSentences": [
+    "o destaque do anúncio não aparece",
+    "porque o destaque não aparece",
+    "comprei o destaque, mas não está aparecendo",
+    "deu erro no anúncio, o destaque não aparece",
+    "estou com um problema no meu anúncio em destaque",
+    "tenho um anuncio e ele não está em destaque"
+  ]
+},
+{
+  "Description": "chamado_anuncios_existentes_destaque_desativar",
+  "AssociatedSentences": [
+    "quero desativar o destaque do anúncio",
+    "não consigo tirar o destaque do anúncio",
+    "preciso remover o destaque do anúncio",
+    "não to conseguindo tirar o destaque do anúncio",
+    "quero remover o destaque do anúncio",
+    "dificuldade para tirar o destaque do anúncio",
+    "dá erro quando tento tirar o destaque do anúncio",
+    "eu quero parar que o meu anuncio fique em destaque",
+    "estou com problemas para desativar o destaque do meu anúncio",
+    "não é possível desligar o destaque de um anúncio existente"
+  ]
+},
+{
+  "Description": "chamado_anuncios_existentes_match",
+  "AssociatedSentences": [
+    "problema fazer match com o anúncio",
+    "não consigo dar match no anúncio",
+    "não sei dar match em um anúncio",
+    "deu erro ao tentar um match",
+    "está com problema para fazer match",
+    "o match não tá funcionando",
+    "match no anúncio não funciona",
+    "estou com problema para realizar match com um anúncio",
+    "problema para realizar o match",
+    "tenho problemas para realizar os matches",
+    "os matches estaõ com defeito",
+    "não é possivel executar o match"
+  ]
+},
+{
+  "Description": "chamado_anuncios_busca_imagem_nao_aparece",
+  "AssociatedSentences": [
+    "não consigo visualizar a imagem de um anúncio",
+    "a imagem do anúncio não está aparecendo",
+    "tá com erro na visualização das imagens do anúncio",
+    "a busca está com problema nas imagens",
+    "estou com problema para visualizar imagens do anúncio",
+    "as imagens de anúncios existentes não são exibidas para mim",
+    "identifiquei um problema na exibição de imagens no anuncio",
+    "estou enfretando dificuldades para visualizar imagens nos anúncios"
+  ]
+},
+{
+  "Description": "chamado_anuncios_busca_nao_consigo",
+  "AssociatedSentences": [
+    "não estou conseguindo buscar um anúncio",
+    "não estou conseguindo pesquisar por anuncios",
+    "a busca de anúncios está com erro, eu não consigo",
+    "não é possível fazer a pesquisa por anúncios",
+    "não é possível realizar a busca por anuncios"
+  ]
+},
+{
+  "Description": "chamado_anuncios_busca_informacoes_anunciante",
+  "AssociatedSentences": [
+    "não estou conseguindo ver as informações do anunciante",
+    "está com erro para ver os dados do anúnciante",
+    "não vejo os dados do anunciante na busca",
+    "não tá aparecendo os dados do anúnciante",
+    "erro para ver os dados do anúnciante",
+    "quero ver os dados do anúnciante mas não consigo"
+  ]
+},
+{
+  "Description": "chamado_anuncios_turbinar_enviar_proposta",
+  "AssociatedSentences": [
+    "não estou conseguindo enviar uma proposta de turbinada no anúncio",
+    "não esta dando pra enviar a proposta de turbinada",
+    "não esta aparecendo pra enviar uma proposta de turbinada",
+    "estou com problema para disparar uma proposta de turbinada",
+    "deu erro ao criar uma proposta de turbinar",
+    "não consigo submeter uma proposta para turbinar meu anúncio",
+    "quero enviar uma proposta de turbinada",
+    "quero abrir um chamado para subir uma proposta de turbinada"
+  ]
+},
+{
+  "Description": "chamado_anuncios_turbinar_cancelar_turbinada",
+  "AssociatedSentences": [
+    "não estou conseguindo cancelar uma turbinada",
+    "deu erro para cancelar a turbinada",
+    "problemas para cancelar uma turbinada",
+    "está com erro no cancelamento de turbinada",
+    "quero um chamado para cancelar uma turbinada",
+    "estou com problemas para cancelar um turbo",
+    "tenho dificuldade para cancelar o turbinar",
+    "problema cancelar turbinar",
+    "problema cancelando a turbinado",
+    "quero um chamado para cancelar uma turbinada"
+  ]
+},
+{
+  "Description": "chamado_anuncios_criar_cadastro_endereco",
+  "AssociatedSentences": [
+    "não estou conseguindo cadastrar o endereço",
+    "estou criando um anúncio mas o endereço não vai",
+    "não é possível cadastrar o endereço em um anúncio existente",
+    "tenho um problema ao cadastrar o endereço ao um anuncio",
+    "anuncio com endereço impossível de ser cadastrado",
+    "não é inserido o endereço do anuncio",
+    "não consigo por meu endereço no anuncio que eu criei",
+    "problema para cadastrar o endereço do imóvel no anuncio criado",
+    "endereço não vai no anuncio que criei"
+  ]
+},
+{
+  "Description": "chamado_anuncios_existentes_editar",
+  "AssociatedSentences": [
+    "não consigo editar meu anúncio",
+    "não estou conseguindo modificar o meu endereço",
+    "ta com problema editar o anúncio",
+    "estou com uma dúvida de como editar meu anuncio",
+    "meu anuncio não é editavel",
+    "meu anuncio está com um problema para ser modificado",
+    "estou com um problema ao editar meus anuncios existentes",
+    "anuncios existentes não estão sendo alterados",
+    "problemas para modificar um anuncio",
+    "por que não consigo alterar um anuncio",
+    "quero editar as informações do meu anúncio mas não esta funcionando",
+    "estou tentando editar meu anúncio mas não vai"
+  ]
+},
+{
+  "Description": "chamado_anuncios_existentes_editar_substituir",
+  "AssociatedSentences": [
+    "não consigo substituir minhas midias",
+    "não consigo alterar minhas fotos do anúncio",
+    "estou sem conseguir trocar as fotos, videos e plantas do meus anúncios existentes",
+    "problema ao substituir os videos de anuncios anuncios que já existem",
+    "estou com dificuldade para substuir as fotos, videos e plantas",
+    "tenho um problema para realizar a edição de fotos , videos e plantas",
+    "tenho um problema para executar a edição de videos",
+    "tenho um problema para realizar a alteração de plantas"
+  ]
+},
+{
+  "Description": "chamado_anuncios_existentes_editar_endereco",
+  "AssociatedSentences": [
+    "não consigo editar meu endereço",
+    "não esta dando pra editar o endereço do meu anúncio",
+    "não estou conseguindo alterar o endereço no anuncio",
+    "estou editando um anúncio mas o endereço não vai",
+    "não é possível alterar o endereço em um anúncio existente",
+    "tenho um problema ao editar o endereço no anuncio existente",
+    "anuncio com endereço impossível de ser alterado",
+    "não é editado o endereço do anuncio"
+  ]
+},
+{
+  "Description": "chamado_minha_conta",
+  "AssociatedSentences": [
+    "quero falar sobre a minha conta",
+    "estou com problema na minha conta",
+    "minha conta está com problema",
+    "estou com dificuldades com a minha",
+    "a minha conta não está funcionando",
+    "por que a minha conta está com erro?",
+    "quero abrir um chamado sobre a minha conta",
+    "estou com dúvida sobre a minha conta"
+  ]
+},
+{
+  "Description": "chamado_minha_conta_pagamento",
+  "AssociatedSentences": [
+    "estou com problema no pagamento",
+    "ta dando erro na hora do pagamento",
+    "o pagamento não está funcionando corretamente",
+    "tenho um problema para realizar o pagamento de contas",
+    "estou com dificuldade para pagar a minha conta",
+    "existe um problema no pagamento do plano da minha conta",
+    "identifiquei um problema com o pagamento dos planos contratados"
+  ]
+},
+{
+  "Description": "chamado_minha_conta_pagamento_duvidas",
+  "AssociatedSentences": [
+    "estou com dúvidas na alteração dos dados de pagamento do plano",
+    "quero alterar o dados de pagamento do plano",
+    "como altero os dados de pagamento do plano",
+    "estou com algumas perguntas sobre o pagamento da minha conta",
+    "não ficou claro pra mim o pagamento da minha conta",
+    "estou com algumas dúvidas sobre a realização do pagamento dos planos",
+    "tenho dúvidas em relação ao pagamento da minha conta do plano contratado"
+  ]
+},
+{
+  "Description": "chamado_minha_conta_pagamento_recusado",
+  "AssociatedSentences": [
+    "meu plano está com pagamento recusado",
+    "recusaram o pagamento do meu plano",
+    "paguei o plano mas foi recusado",
+    "pagamento plano está recusado",
+    "por que o pagamento do meu plano foi recusado?",
+    "ocorreu a recusa do pagamento do meu plano e agora?",
+    "pagamento reprovado como devo proceder",
+    "estou com um problema meu pagamento foi recusado",
+    "minha conta tem um problema o pagamento está sendo recusado"
+  ]
+},
+{
+  "Description": "chamado_minha_conta_cancelamento",
+  "AssociatedSentences": [
+    "quero cancelar meu plano",
+    "preciso fazer o cancelamento do meu plano",
+    "quero cancelar minha assinatura",
+    "ajuda com cancelamento do plano",
+    "não consigo cancelar o meu plano",
+    "meu plano está com problema para ser cancelado",
+    "existe com dificuldade para cancelar o meu plano",
+    "estou com um problema sobre o cancelamento da minha conta",
+    "estou com dúvidas de como realizar o cancelamento da minha conta",
+    "minha conta não pode ser cancelada?"
+  ]
+},
+{
+  "Description": "chamado_minha_conta_adm_usuarios",
+  "AssociatedSentences": [
+    "usuários convidados do plano",
+    "meus usuários convidados",
+    "preciso de ajuda com os usuários convidados",
+    "estou com problema nos usuários convidados",
+    "usuários convidados estão com problema na minha conta",
+    "estou com rpoblema para administrar usuários",
+    "administrar usuários está com problema",
+    "quero administrar meus usuários",
+    "não consigo administrar usuarios"
+  ]
+},
+{
+  "Description": "chamado_minha_conta_adm_usuarios_cadastrar",
+  "AssociatedSentences": [
+    "não consigo cadastrar usuários convidados",
+    "está com erro no cadastro de usuários convidados",
+    "quero cadastrar meus usuários convidados",
+    "tenho usuários convidados, mas não consigo cadastrar",
+    "estou com problema para cadastrar os usuários convidados na minha conta"
+  ]
+},
+{
+  "Description": "chamado_minha_conta_adm_usuarios_excluir",
+  "AssociatedSentences": [
+    "não consigo excluir usuários convidados",
+    "está com erro na exclusão de usuários convidados",
+    "quero apagar meus usuários convidados",
+    "tenho usuários convidados, mas não consigo excluir",
+    "quero deletar um usuário cadastrado"
+  ]
+},
+{
+  "Description": "chamado_minha_conta_adm_usuarios_trocar_email",
+  "AssociatedSentences": [
+    "quero trocar o e-mail de um usuário convidado",
+    "não consigo trocar o e-mail do usuário convidado",
+    "está com erro para trocar o e-mail do usuário convidado",
+    "está ocorrendo um problema para alterar o e-mail dos usuários convidados",
+    "os usuários estão com dificuldade para alterar o email na minha conta"
+  ]
+},
+{
+  "Description": "chamado_minha_conta_adm_usuarios_limite_usuarios",
+  "AssociatedSentences": [
+    "está dando erro no limite de usuários convidados",
+    "preciso de ajda com o limite máximo de usuários convidados",
+    "o limite máximo de usuários está com erro",
+    "está ocorrendo um problema ao atingir o limite usuários convidados",
+    "o limite de usuários quando atingido está gerando uma falha",
+    "estou com um problema ao exceder o limite de usuários",
+    "há um erro quando excedo o limite de usuários convidados permitidos"
+  ]
+},
+{
+  "Description": "chamado_minha_conta_informacoes_plano",
+  "AssociatedSentences": [
+    "quero falar das informações do plano",
+    "tenho dúvida nas informações do plano",
+    "quero saber mais sobre as informações do plano",
+    "estou com dificuldade de encontrar mais informações sobre o meu plano contratado",
+    "não consigo encontrar mais dados sobre o meu plano",
+    "não é possível encontrar mais informações sobre o plano contratado",
+    "meu plano contratado tem poucas informações disponíveis",
+    "não estou encontrando na minha conta mais informações sobre meu plano",
+    "estou com um problema para encontrar dados sobre meu plano contratado na minha conta"
+  ]
+},
+{
+  "Description": "chamado_minha_conta_informacoes_plano_dados_errados",
+  "AssociatedSentences": [
+    "as informações do meu plano estão erradas",
+    "meu plano está com informações erradas",
+    "os dados do meu plano estão errados",
+    "quero mudar as informações do meu plano",
+    "dentro da minha conta o meu plano está errado",
+    "ao acessar os dados do meu plano na minha conta percebi que as informações estão incorretas",
+    "há dados incorretos sobre o meu plano dentro da minha conta"
+  ]
+},
+{
+  "Description": "chamado_minha_conta_informacoes_plano_limite_anuncios",
+  "AssociatedSentences": [
+    "estou com problema com o limite de anúncios do meu plano",
+    "ajuda com limite de anúncios plano",
+    "o limite de anúncios do meu plano está errado",
+    "limite de anúncios do meu plano com erro",
+    "a quantidade de maxíma de anúncios está com problema na minha conta",
+    "existe um problema no limite de anúncios que podem ser realizados?",
+    "por que a quantidade de anúncios que eu tenho está apresentando erro?",
+    "estou com dúvida sobre limite de anúncios na minha conta"
+  ]
+},
+{
+  "Description": "chamado_minha_conta_informacoes_plano_limite_destaques",
+  "AssociatedSentences": [
+    "estou com problema com o limite de destaques do meu plano",
+    "ajuda com limite de destaques plano",
+    "o limite de destaques do meu plano está errado",
+    "limite de destaques do meu plano com erro",
+    "a quantidade de maxíma de destaques para o meu plano está com problema",
+    "há um limite definido de destaque em anúncios que podem ser feitos?",
+    "por que a quantidade de anúncios em destaque que eu tenho na minha conta está dando erro?",
+    "exceder o limite de destaques disponíveis na minha conta pode dar problema?"
+  ]
+},
+{
+  "Description": "chamado_minha_conta_informacoes_plano_alterar_plano",
+  "AssociatedSentences": [
+    "quero fazer uma alteração no meu plano",
+    "ajuda para alterar o plano",
+    "quero alterar meu plano",
+    "não consigo mudar de plano",
+    "não é possível alterar o meu plano na minha conta",
+    "minha conta está com problema para alterar o meu plano contratado",
+    "estou co dificuldades para trocar o meu plano contratado na minha conta",
+    "estou com um problema para realizar a alteração do meu plano dentro da minha conta"
+  ]
+},
+{
+  "Description": "chamado_minha_conta_placa",
+  "AssociatedSentences": [
+    "problemas com as placas da minha conta",
+    "preciso de ajuda com placas do meu plano",
+    "estão erradas as placas na minha conta",
+    "ajuda com a placa da minha conta",
+    "com quem falo sobre placas ?",
+    "minhas placas estão com problemas",
+    "estou com um problema sobre as placas da minha conta",
+    "estou com uma dificuldade em relação as placas ligadas a minha conta"
+  ]
+},
+{
+  "Description": "chamado_minha_conta_placa_informacoes_erradas",
+  "AssociatedSentences": [
+    "as informações da placa estão erradas",
+    "placa contendo informações incorretas",
+    "está com erro nas informações da placa",
+    "as placas relacionadas com a minha conta chegaram com as informações incorretas",
+    "os dados da minha placa estão inconsistentes",
+    "por que as informações nas placas relacionadas a minhas conta estão com problemas?",
+    "a placa veio com a escrita errada",
+    "estou com um problema com as informações escritas na minha placa",
+    "minha placa ficou com as informações incorretas",
+    "com que falo quando a placa está com informações erradas",
+    "tenho placas que foram enviadas erradas pra minha conta",
+    "por que as placas que eu recebi vieram erradas para a minha conta?"
+  ]
+},
+{
+  "Description": "chamado_minha_conta_placa_nao_recebi",
+  "AssociatedSentences": [
+    "não recebi minhas placas",
+    "minha placa não foi recebida relacionadas a minha conta",
+    "por que não recebi as placas de anúncio?",
+    "as placas que ganhei não chegaram no meu endereço",
+    "não recebi as placas que foram enviadas o que devo fazer?",
+    "estou com um problema em relação ao recebimento das minhas placas",
+    "estou com dificuldade de receber a placa relacionada com a minha conta",
+    "por que as placas de anuncio não foram entregues?",
+    "não recebi as placas que foram enviadas o que devo fazer?",
+    "estou com um problema em relação ao recebimento das minhas placas",
+    "estou com dificuldade de receber a placa relacionada com a minha conta"
+  ]
+},
+{
+  "Description": "chamado_minha_conta_placa_qtd_errada",
+  "AssociatedSentences": [
+    "a quantidade de placas está errada",
+    "as placas estão com a qtd errada",
+    "recebi uma quantidade diferente de placas",
+    "eu recebi uma quantidade de placas de anuncio diferente do combinado",
+    "estou com um problema com a quantidade de placas recebidas",
+    "o número de placas que foram enviadas está diferente do prometido",
+    "existe um problema na quantidade de placas que estão sendo enviadas",
+    "minha conta está recebendo um número errado de placas de anúncio"
+  ]
+},
+{
+  "Description": "chamado_anuncios_existentes_turbinar",
+  "AssociatedSentences": [
+    "queria turbinar um anúncio, mas está dando erro",
+    "estou com dificuldade para turbinar um anúncio",
+    "quero abrir um chamado para turbinar um anuncio",
+    "to tentando dar uma turbinada, mas tá dando problema",
+    "tenho um problema com anúncio turbinado",
+    "está com erro o turbinar anúncio",
+    "estou com problemas para turbinar anuncios",
+    "deu problema na turbinada do anúncio",
+    "deu erro ao turbinar o anúncio",
+    "não consigo turbinar meu anúncio",
+    "me ajuda a turbinar meu anúncio",
+    "estou com problema no turbo de meu anuncio existente",
+    "anuncios existentes não são turbinados",
+    "identifiquei um problema com os anúncios turbinados"
+  ]
+},
+{
+  "Description": "chamado_anuncios_existentes_turbinar_aceitar_proposta",
+  "AssociatedSentences": [
+    "não estou conseguindo aceitar uma proposta de turbinada no anúncio",
+    "não esta dando pra confirmar a proposta de turbinada",
+    "não esta aparecendo pra aceitar uma proposta de turbinada",
+    "estou com problema para confirmar uma proposta de turbinada",
+    "deu erro ao aceitar uma proposta de turbinar",
+    "não consigo aceitar uma proposta para turbinar meu anúncio",
+    "quero aceitar ou confirmar uma proposta de turbinada",
+    "quero abrir um chamado para aceitar proposta de turbinada",
+    "estou com problema para aceitar um turbinar nos anuncios existentes"
+  ]
+},
+{
+  "Description": "chamado_anuncios_existentes_turbinar_cancelar_turbinada",
+  "AssociatedSentences": [
+    "não estou conseguindo cancelar uma turbinada no anúncio",
+    "deu erro para cancelar a turbinada no meu anuncio",
+    "problemas para cancelar uma turbinada em um anuncio",
+    "está com erro no cancelamento de turbinada do anúncio",
+    "estou com problemas para cancelar um turbo de um anuncio",
+    "tenho dificuldade para cancelar o turbinar de um anúncio",
+    "cancelar turbinar em um anuncio existente"
+  ]
+},
+{
+  "Description": "chamado_anuncios_existentes_turbinar_visualizar_proposta",
+  "AssociatedSentences": [
+    "não estou conseguindo visualizar uma proposta",
+    "estou com problema na visualização de propostas",
+    "não consigo visualizar nenhuma proposta",
+    "deu erro para visualizar a turbinada",
+    "problemas para ver uma turbinada",
+    "está com erro no exibição do turbinado de um anúncio",
+    "problema para visualizar um turbo nos anuncios existentes",
+    "problemas para enxergar uma turbinada",
+    "problema para enxergar um turbo nos anuncios"
+  ]
+},
+{
+  "Description": "chamado_anuncios_existentes_problemas_placa",
+  "AssociatedSentences": [
+    "meu anúncio premium está com problema na placa",
+    "tenho um problema com a placa do anúncio premium",
+    "a placa do meu anuncio está incorreta",
+    "quero um chamado para a placa do meu anuncio",
+    "preciso de ajuda com a placa do anúncio que ficou errada",
+    "estou com problemas nas placas dos meus anuncios",
+    "as placas dos meus anúncios estão incorretas",
+    "problemas com as placas de anuncios",
+    "estão erradas as placas de anuncios",
+    "ajuda com a placa de anúncio",
+    "com quem falo sobre placas de anuncio?",
+    "minhas placas de anúncio",
+    "estou com um problema sobre as placas anunciadas"
+  ]
+},
+{
+  "Description": "chamado_anuncios_existentes_problemas_placa_informacoes_erradas",
+  "AssociatedSentences": [
+    "eu vi um anúncio que a placa está com informações erradas",
+    "existem um anuncio com a placa incorreta",
+    "estão erradas as informações da placa do anúncio",
+    "tem informação errada na placa do anuncio",
+    "placa que vi pelo anuncio tem informações incorretas",
+    "Anuncio com a placa informações errada"
+  ]
+},
+{
+  "Description": "chamado_anuncios_existentes_problemas_placa_nao_recebi",
+  "AssociatedSentences": [
+    "não recebi a placa do meu anúncio",
+    "ainda não veio a placa do meu anúncio",
+    "tenho um anuncio de uma placa que ainda não foi recebida",
+    "quero um chamado da placa do anuncio que não recebi",
+    "não recebi minhas placas do anuncio",
+    "minha placa do anuncio não foi recebida",
+    "poque não recebi as placas de anúncio?",
+    "por que as placas dos meus anuncios criados não foram entregues?"
+  ]
+},
+{
+  "Description": "chamado_minha_conta_avaliacoes_recebidas",
+  "AssociatedSentences": [
+    "quero abrir uma chamado sobre uma avaliação baixa que recebi",
+    "estou com avalições ruins quero saber qual o problema",
+    "tenho um problema com avalições baixas",
+    "eu não consigo ter avalições altas",
+    "por que as minhas avaliações são tão baixas?",
+    "qual a razão das minhas pessímas avaliações?",
+    "avaliações ruins o que fazer?",
+    "estou com problema com as avaliações que eu recebi",
+    "recebi avaliações que estão com defeito"
+  ]
+},
+{
+  "Description": "chamado_criticas",
+  "AssociatedSentences": [
+    "quero fazer uma crítica",
+    "quero fazer uma reclamação",
+    "vou criticar",
+    "quero reclamar",
+    "tenho uma reclamação",
+    "reclamação",
+    "preciso realizar uma crítica",
+    "consigo fazer uma crítica?",
+    "posso fazer uma reclamação",
+    "to criticando",
+    "necessito reclamar",
+    "reclamando",
+    "preciso abrir uma reclamação",
+    "quero mandar uma reclamação",
+    "como posso fazer uma reclamação?"
+  ]
+},
+{
+  "Description": "chamado_criticas_anuncio",
+  "AssociatedSentences": [
+    "quero reclamar sobre um anúncio que vi",
+    "gostaria de fazer uma reclamação em relação a anuncios",
+    "sobre anuncios quero reclamar",
+    "preciso dizer uma reclamação envolvendo anúncios",
+    "posso fazer uma reclamação em anúncios",
+    "quero criticar a funcionalidade de anuncios",
+    "vou criticar os anuncios no portal Compre & Alugue Agora",
+    "quero criticar os anuncios",
+    "preciso abrir uma reclamação sobre anuncios",
+    "anuncios, quero fazer uma crítica",
+    "quero mandar uma reclamação sobre anúncios"
+  ]
+},
+{
+  "Description": "chamado_criticas_canal_corretor",
+  "AssociatedSentences": [
+    "quero reclamar sobre o meu canal do corretor",
+    "gostaria de fazer uma reclamação em relação ao canal do corretor",
+    "sobre canal do corretor quero reclamar",
+    "preciso dizer uma reclamação envolvendo o meu canal do corretor",
+    "posso fazer uma reclamação em canal do corretor",
+    "quero criticar a funcionalidade de canal do corretor",
+    "vou criticar o canal do corretor no portal Compre & Alugue Agora",
+    "quero criticar canal do corretor",
+    "preciso abrir uma reclamação sobre canal do corretor",
+    "canal do corretor, quero fazer uma crítica",
+    "quero mandar uma reclamação sobre o canal do corretor"
+  ]
+},
+{
+  "Description": "chamado_criticas_atendimento_caa",
+  "AssociatedSentences": [
+    "quero reclamar sobre o atendimento no portal Compre & Alugue Agora",
+    "gostaria de fazer uma reclamação em relação ao atendimento no Compre & Alugue Agora",
+    "sobre atendimento no portal quero reclamar",
+    "preciso dizer uma reclamação envolvendo o atendimento prestado pelo Compre & Alugue Agora",
+    "posso fazer uma reclamação em atendimento no portal Compre & Alugue Agora",
+    "quero criticar como foi o atendimento no portal Compre & Alugue Agora",
+    "vou criticar os atendimentos no portal Compre & Alugue Agora",
+    "quero criticar os atendimentos no portal do Compre & Alugue Agora",
+    "preciso abrir uma reclamação sobre atendimento no portal Compre & Alugue Agora",
+    "atendimento no portal Compre & Alugue Agora, quero fazer uma crítica",
+    "fui mal atendido no compre & alugue agora e quero mandar uma reclamação",
+    "quero mandar uma reclamação o atendimento no portal Compre & Alugue Agora"
+  ]
+},
+{
+  "Description": "chamado_criticas_pagamentos",
+  "AssociatedSentences": [
+    "quero reclamar sobre pagamentos da minha conta",
+    "gostaria de fazer uma reclamação em relação a pagamentos",
+    "sobre pagamentos quero reclamar",
+    "preciso dizer uma reclamação envolvendo pagamentos",
+    "posso fazer uma reclamação em pagamentos",
+    "quero criticar a funcionalidade de pagamentos",
+    "vou criticar os pagamentos no portal Compre & Alugue Agora",
+    "quero criticar os pagamentos",
+    "preciso abrir uma reclamação sobre pagamentos",
+    "pagamentos, quero fazer uma crítica",
+    "quero mandar uma reclamação sobre pagamentos",
+    "meus pagamentos não estão certos, quero fazer uma reclamação"
+  ]
+},
+{
+  "Description": "chamado_sugestoes",
+  "AssociatedSentences": [
+    "quero sugerir algo",
+    "gostaria de fazer uma sugestão",
+    "quero dar uma sugestão",
+    "preciso oferecer uma sugestão",
+    "como posso fazer uma sugestão?",
+    "sugerir uma melhoria para o portal Compre & Alugue Agora",
+    "quero recomendar algo que ajude o Compre & Alugue agora",
+    "gostaria de fazer uma recomendação de melhoria",
+    "quero dar um concelho para auxiliar o portal a melhorar",
+    "preciso oferecer uma opinião",
+    "como posso da minha opinião?",
+    "fazer uma observação de melhoria para o portal Compre & Alugue Agora"
+  ]
+},
+{
+  "Description": "chamado_sugestoes_anuncio",
+  "AssociatedSentences": [
+    "quero sugerir algo para melhorar os anúncios",
+    "gostaria de fazer uma sugestão sobre anúncios",
+    "quero dar uma sugestão para aprimorar os anúncios",
+    "preciso oferecer uma sugestão que ajude a melhorar os anúncios",
+    "quero melhorar os anuncios com uma sugestão, como faço?",
+    "sugerir uma melhoria dentro de anúncios no portal Compre & Alugue Agora",
+    "quero recomendar uma melhoria em anúncios que ajude o Compre & Alugue agora",
+    "gostaria de fazer uma recomendação de melhoria na funcionalidade de anúncios",
+    "quero dar um concelho para o portal a melhorar seus anúncios",
+    "preciso oferecer uma opinião que contibua com os anúncios",
+    "fazer uma observação de melhoria para os anúncios no portal do Compre & Alugue Agora"
+  ]
+},
+{
+  "Description": "chamado_sugestoes_canal_corretor",
+  "AssociatedSentences": [
+    "quero sugerir algo para melhorar o canal do corretor",
+    "gostaria de fazer uma sugestão sobre canal do corretor",
+    "quero dar uma sugestão para aprimorar canal do corretor",
+    "preciso oferecer uma sugestão que ajude a melhorar o canal do corretor",
+    "quero melhorar o canal do corretor com uma sugestão, como faço?",
+    "sugerir uma melhoria dentro do canal do corretor no portal Compre & Alugue Agora",
+    "quero recomendar uma melhoria no canal do corretor que ajude o Compre & Alugue agora",
+    "gostaria de fazer uma recomendação de melhoria na funcionalidade canal do corretor",
+    "quero dar um concelho para o portal de melhorar seu canal do corretor",
+    "preciso oferecer uma opinião que contibua com o canal do corretor",
+    "fazer uma observação de melhoria para o canal do corretor no portal do Compre & Alugue Agora"
+  ]
+},
+{
+  "Description": "chamado_sugestoes_atendimento_caa",
+  "AssociatedSentences": [
+    "quero sugerir algo para melhorar o atendimento no portal Compre & Alugue Agora",
+    "gostaria de fazer uma sugestão sobre o atendimento no Compre & Alugue Agora",
+    "quero dar uma sugestão para aprimorar o atendimento no portal",
+    "preciso oferecer uma sugestão que ajude a melhorar o atendimento",
+    "quero melhorar o atendimento no portal Compre & Alugue Agora com uma sugestão, como faço?",
+    "sugerir uma melhoria dentro do atendimento no portal Compre & Alugue Agora",
+    "quero recomendar uma melhoria no atendimento que ajude o Compre & Alugue agora",
+    "gostaria de fazer uma recomendação de melhoria no atendimento no portal Compre & Alugue Agora",
+    "quero dar um concelho para o portal de melhorar seu atendimento",
+    "preciso oferecer uma opinião que contibua com o atendimento Compre & Alugue Agora",
+    "fazer uma observação de melhoria para o atendimento no portal do Compre & Alugue Agora"
+  ]
+},
+{
+  "Description": "chamado_sugestoes_pagamentos",
+  "AssociatedSentences": [
+    "quero sugerir algo para melhorar o pagamento no portal",
+    "gostaria de fazer uma sugestão sobre o pagamento do Compre & Alugue Agora",
+    "quero dar uma sugestão para aprimorar pagamento",
+    "preciso oferecer uma sugestão que ajude a melhorar o pagamento",
+    "quero melhorar as formas de pagamento com uma sugestão, como faço?",
+    "sugerir uma melhoria dentro da funcionalidade de pagamentos no portal Compre & Alugue Agora",
+    "quero recomendar uma melhoria no processo de pagamento que ajude o Compre & Alugue agora",
+    "gostaria de fazer uma recomendação de melhoria na funcionalidade pagamento",
+    "quero dar um concelho para o portal de melhorar seu meios de pagamentos",
+    "preciso oferecer uma opinião que contibua com o pagamento",
+    "fazer uma observação de melhoria para pagamentos no portal do Compre & Alugue Agora"
+  ]
+}
