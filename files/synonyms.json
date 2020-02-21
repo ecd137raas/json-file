@@ -1,8 +1,8 @@
 {
-  "intent": [
+  "base": [
     {
       "definition": "problema",
-      "synonims": [
+      "synonyms": [
         "problema1",
         "problema2",
         "problema3",
@@ -13,7 +13,7 @@
     },
     {
       "definition": "problema_note",
-      "synonims": [
+      "synonyms": [
         "problema_note1",
         "problema_note2",
         "problema_note3",
@@ -24,7 +24,7 @@
     },
     {
       "definition": "problema_celular",
-      "synonims": [
+      "synonyms": [
         "problema_cel1",
         "problema_cel2",
         "problema_cel3",
@@ -35,7 +35,7 @@
     },
     {
       "definition": "problema",
-      "synonims": [
+      "synonyms": [
         "problema1",
         "problema2",
         "problema3",
@@ -46,7 +46,7 @@
     },
     {
       "definition": "problema_note",
-      "synonims": [
+      "synonyms": [
         "problema_note1",
         "problema_note2",
         "problema_note3",
@@ -57,7 +57,7 @@
     },
     {
       "definition": "problema_celular",
-      "synonims": [
+      "synonyms": [
         "problema_cel1",
         "problema_cel2",
         "problema_cel3",
@@ -68,7 +68,7 @@
     },
     {
       "definition": "problema",
-      "synonims": [
+      "synonyms": [
         "problema1",
         "problema2",
         "problema3",
@@ -79,7 +79,7 @@
     },
     {
       "definition": "problema_note",
-      "synonims": [
+      "synonyms": [
         "problema_note1",
         "problema_note2",
         "problema_note3",
@@ -90,7 +90,7 @@
     },
     {
       "definition": "problema_celular",
-      "synonims": [
+      "synonyms": [
         "problema_cel1",
         "problema_cel2",
         "problema_cel3",
@@ -101,7 +101,7 @@
     },
     {
       "definition": "problema",
-      "synonims": [
+      "synonyms": [
         "problema1",
         "problema2",
         "problema3",
@@ -112,7 +112,7 @@
     },
     {
       "definition": "problema_note",
-      "synonims": [
+      "synonyms": [
         "problema_note1",
         "problema_note2",
         "problema_note3",
@@ -123,7 +123,7 @@
     },
     {
       "definition": "problema_celular",
-      "synonims": [
+      "synonyms": [
         "problema_cel1",
         "problema_cel2",
         "problema_cel3",
@@ -134,7 +134,7 @@
     },
     {
       "definition": "problema",
-      "synonims": [
+      "synonyms": [
         "problema1",
         "problema2",
         "problema3",
@@ -145,7 +145,7 @@
     },
     {
       "definition": "problema_note",
-      "synonims": [
+      "synonyms": [
         "problema_note1",
         "problema_note2",
         "problema_note3",
@@ -156,7 +156,7 @@
     },
     {
       "definition": "problema_celular",
-      "synonims": [
+      "synonyms": [
         "problema_cel1",
         "problema_cel2",
         "problema_cel3",
@@ -167,7 +167,7 @@
     },
     {
       "definition": "problema",
-      "synonims": [
+      "synonyms": [
         "problema1",
         "problema2",
         "problema3",
@@ -178,7 +178,7 @@
     },
     {
       "definition": "problema_note",
-      "synonims": [
+      "synonyms": [
         "problema_note1",
         "problema_note2",
         "problema_note3",
@@ -189,7 +189,7 @@
     },
     {
       "definition": "problema_celular",
-      "synonims": [
+      "synonyms": [
         "problema_cel1",
         "problema_cel2",
         "problema_cel3",
@@ -200,7 +200,7 @@
     },
     {
       "definition": "problema",
-      "synonims": [
+      "synonyms": [
         "problema1",
         "problema2",
         "problema3",
@@ -211,7 +211,7 @@
     },
     {
       "definition": "problema_note",
-      "synonims": [
+      "synonyms": [
         "problema_note1",
         "problema_note2",
         "problema_note3",
@@ -222,7 +222,7 @@
     },
     {
       "definition": "problema_celular",
-      "synonims": [
+      "synonyms": [
         "problema_cel1",
         "problema_cel2",
         "problema_cel3",
@@ -233,7 +233,7 @@
     },
     {
       "definition": "problema",
-      "synonims": [
+      "synonyms": [
         "problema1",
         "problema2",
         "problema3",
@@ -244,7 +244,7 @@
     },
     {
       "definition": "problema_note",
-      "synonims": [
+      "synonyms": [
         "problema_note1",
         "problema_note2",
         "problema_note3",
@@ -255,7 +255,7 @@
     },
     {
       "definition": "problema_celular",
-      "synonims": [
+      "synonyms": [
         "problema_cel1",
         "problema_cel2",
         "problema_cel3",
@@ -266,7 +266,7 @@
     },
     {
       "definition": "problema",
-      "synonims": [
+      "synonyms": [
         "problema1",
         "problema2",
         "problema3",
@@ -277,7 +277,7 @@
     },
     {
       "definition": "problema_note",
-      "synonims": [
+      "synonyms": [
         "problema_note1",
         "problema_note2",
         "problema_note3",
@@ -288,7 +288,7 @@
     },
     {
       "definition": "problema_celular",
-      "synonims": [
+      "synonyms": [
         "problema_cel1",
         "problema_cel2",
         "problema_cel3",
@@ -299,7 +299,7 @@
     },
     {
       "definition": "problema",
-      "synonims": [
+      "synonyms": [
         "problema1",
         "problema2",
         "problema3",
@@ -310,7 +310,7 @@
     },
     {
       "definition": "problema_note",
-      "synonims": [
+      "synonyms": [
         "problema_note1",
         "problema_note2",
         "problema_note3",
@@ -321,7 +321,7 @@
     },
     {
       "definition": "problema_celular",
-      "synonims": [
+      "synonyms": [
         "problema_cel1",
         "problema_cel2",
         "problema_cel3",
@@ -332,7 +332,7 @@
     },
     {
       "definition": "problema",
-      "synonims": [
+      "synonyms": [
         "problema1",
         "problema2",
         "problema3",
@@ -343,7 +343,7 @@
     },
     {
       "definition": "problema_note",
-      "synonims": [
+      "synonyms": [
         "problema_note1",
         "problema_note2",
         "problema_note3",
@@ -354,7 +354,7 @@
     },
     {
       "definition": "problema_celular",
-      "synonims": [
+      "synonyms": [
         "problema_cel1",
         "problema_cel2",
         "problema_cel3",
@@ -365,7 +365,7 @@
     },
     {
       "definition": "problema",
-      "synonims": [
+      "synonyms": [
         "problema1",
         "problema2",
         "problema3",
@@ -376,7 +376,7 @@
     },
     {
       "definition": "problema_note",
-      "synonims": [
+      "synonyms": [
         "problema_note1",
         "problema_note2",
         "problema_note3",
@@ -387,7 +387,7 @@
     },
     {
       "definition": "problema_celular",
-      "synonims": [
+      "synonyms": [
         "problema_cel1",
         "problema_cel2",
         "problema_cel3",
@@ -398,7 +398,7 @@
     },
     {
       "definition": "problema",
-      "synonims": [
+      "synonyms": [
         "problema1",
         "problema2",
         "problema3",
@@ -409,7 +409,7 @@
     },
     {
       "definition": "problema_note",
-      "synonims": [
+      "synonyms": [
         "problema_note1",
         "problema_note2",
         "problema_note3",
@@ -420,7 +420,7 @@
     },
     {
       "definition": "problema_celular",
-      "synonims": [
+      "synonyms": [
         "problema_cel1",
         "problema_cel2",
         "problema_cel3",
@@ -431,7 +431,7 @@
     },
     {
       "definition": "problema",
-      "synonims": [
+      "synonyms": [
         "problema1",
         "problema2",
         "problema3",
@@ -442,7 +442,7 @@
     },
     {
       "definition": "problema_note",
-      "synonims": [
+      "synonyms": [
         "problema_note1",
         "problema_note2",
         "problema_note3",
@@ -453,7 +453,7 @@
     },
     {
       "definition": "problema_celular",
-      "synonims": [
+      "synonyms": [
         "problema_cel1",
         "problema_cel2",
         "problema_cel3",
@@ -464,7 +464,7 @@
     },
     {
       "definition": "problema_note",
-      "synonims": [
+      "synonyms": [
         "problema_note1",
         "problema_note2",
         "problema_note3",
@@ -475,7 +475,7 @@
     },
     {
       "definition": "problema_celular",
-      "synonims": [
+      "synonyms": [
         "problema_cel1",
         "problema_cel2",
         "problema_cel3",
@@ -486,7 +486,7 @@
     },
     {
       "definition": "problema",
-      "synonims": [
+      "synonyms": [
         "problema1",
         "problema2",
         "problema3",
@@ -497,7 +497,7 @@
     },
     {
       "definition": "problema_note",
-      "synonims": [
+      "synonyms": [
         "problema_note1",
         "problema_note2",
         "problema_note3",
@@ -508,7 +508,7 @@
     },
     {
       "definition": "problema_celular",
-      "synonims": [
+      "synonyms": [
         "problema_cel1",
         "problema_cel2",
         "problema_cel3",
@@ -519,7 +519,7 @@
     },
     {
       "definition": "problema",
-      "synonims": [
+      "synonyms": [
         "problema1",
         "problema2",
         "problema3",
@@ -530,7 +530,7 @@
     },
     {
       "definition": "problema_note",
-      "synonims": [
+      "synonyms": [
         "problema_note1",
         "problema_note2",
         "problema_note3",
@@ -541,7 +541,7 @@
     },
     {
       "definition": "problema_celular",
-      "synonims": [
+      "synonyms": [
         "problema_cel1",
         "problema_cel2",
         "problema_cel3",
@@ -552,7 +552,7 @@
     },
     {
       "definition": "problema",
-      "synonims": [
+      "synonyms": [
         "problema1",
         "problema2",
         "problema3",
@@ -563,7 +563,7 @@
     },
     {
       "definition": "problema_note",
-      "synonims": [
+      "synonyms": [
         "problema_note1",
         "problema_note2",
         "problema_note3",
@@ -574,7 +574,7 @@
     },
     {
       "definition": "problema_celular",
-      "synonims": [
+      "synonyms": [
         "problema_cel1",
         "problema_cel2",
         "problema_cel3",
@@ -585,7 +585,7 @@
     },
     {
       "definition": "problema",
-      "synonims": [
+      "synonyms": [
         "problema1",
         "problema2",
         "problema3",
@@ -596,7 +596,7 @@
     },
     {
       "definition": "problema_note",
-      "synonims": [
+      "synonyms": [
         "problema_note1",
         "problema_note2",
         "problema_note3",
@@ -607,7 +607,7 @@
     },
     {
       "definition": "problema_celular",
-      "synonims": [
+      "synonyms": [
         "problema_cel1",
         "problema_cel2",
         "problema_cel3",
@@ -618,7 +618,7 @@
     },
     {
       "definition": "problema",
-      "synonims": [
+      "synonyms": [
         "problema1",
         "problema2",
         "problema3",
@@ -629,7 +629,7 @@
     },
     {
       "definition": "problema_note",
-      "synonims": [
+      "synonyms": [
         "problema_note1",
         "problema_note2",
         "problema_note3",
@@ -640,7 +640,7 @@
     },
     {
       "definition": "problema_celular",
-      "synonims": [
+      "synonyms": [
         "problema_cel1",
         "problema_cel2",
         "problema_cel3",
@@ -651,7 +651,7 @@
     },
     {
       "definition": "problema",
-      "synonims": [
+      "synonyms": [
         "problema1",
         "problema2",
         "problema3",
@@ -662,7 +662,7 @@
     },
     {
       "definition": "problema_note",
-      "synonims": [
+      "synonyms": [
         "problema_note1",
         "problema_note2",
         "problema_note3",
@@ -673,7 +673,7 @@
     },
     {
       "definition": "problema_celular",
-      "synonims": [
+      "synonyms": [
         "problema_cel1",
         "problema_cel2",
         "problema_cel3",
@@ -684,7 +684,7 @@
     },
     {
       "definition": "problema",
-      "synonims": [
+      "synonyms": [
         "problema1",
         "problema2",
         "problema3",
@@ -695,7 +695,7 @@
     },
     {
       "definition": "problema_note",
-      "synonims": [
+      "synonyms": [
         "problema_note1",
         "problema_note2",
         "problema_note3",
@@ -706,7 +706,7 @@
     },
     {
       "definition": "problema_celular",
-      "synonims": [
+      "synonyms": [
         "problema_cel1",
         "problema_cel2",
         "problema_cel3",
@@ -717,7 +717,7 @@
     },
     {
       "definition": "problema",
-      "synonims": [
+      "synonyms": [
         "problema1",
         "problema2",
         "problema3",
@@ -728,7 +728,7 @@
     },
     {
       "definition": "problema_note",
-      "synonims": [
+      "synonyms": [
         "problema_note1",
         "problema_note2",
         "problema_note3",
@@ -739,7 +739,7 @@
     },
     {
       "definition": "problema_celular",
-      "synonims": [
+      "synonyms": [
         "problema_cel1",
         "problema_cel2",
         "problema_cel3",
@@ -750,7 +750,7 @@
     },
     {
       "definition": "problema",
-      "synonims": [
+      "synonyms": [
         "problema1",
         "problema2",
         "problema3",
@@ -761,7 +761,7 @@
     },
     {
       "definition": "problema_note",
-      "synonims": [
+      "synonyms": [
         "problema_note1",
         "problema_note2",
         "problema_note3",
@@ -772,7 +772,7 @@
     },
     {
       "definition": "problema_celular",
-      "synonims": [
+      "synonyms": [
         "problema_cel1",
         "problema_cel2",
         "problema_cel3",
@@ -783,7 +783,7 @@
     },
     {
       "definition": "problema",
-      "synonims": [
+      "synonyms": [
         "problema1",
         "problema2",
         "problema3",
@@ -794,7 +794,7 @@
     },
     {
       "definition": "problema_note",
-      "synonims": [
+      "synonyms": [
         "problema_note1",
         "problema_note2",
         "problema_note3",
@@ -805,7 +805,7 @@
     },
     {
       "definition": "problema_celular",
-      "synonims": [
+      "synonyms": [
         "problema_cel1",
         "problema_cel2",
         "problema_cel3",
@@ -816,7 +816,7 @@
     },
     {
       "definition": "problema",
-      "synonims": [
+      "synonyms": [
         "problema1",
         "problema2",
         "problema3",
@@ -827,7 +827,7 @@
     },
     {
       "definition": "problema_note",
-      "synonims": [
+      "synonyms": [
         "problema_note1",
         "problema_note2",
         "problema_note3",
@@ -838,7 +838,7 @@
     },
     {
       "definition": "problema_celular",
-      "synonims": [
+      "synonyms": [
         "problema_cel1",
         "problema_cel2",
         "problema_cel3",
@@ -849,7 +849,7 @@
     },
     {
       "definition": "problema",
-      "synonims": [
+      "synonyms": [
         "problema1",
         "problema2",
         "problema3",
@@ -860,7 +860,7 @@
     },
     {
       "definition": "problema_note",
-      "synonims": [
+      "synonyms": [
         "problema_note1",
         "problema_note2",
         "problema_note3",
@@ -871,7 +871,7 @@
     },
     {
       "definition": "problema_celular",
-      "synonims": [
+      "synonyms": [
         "problema_cel1",
         "problema_cel2",
         "problema_cel3",
@@ -882,7 +882,7 @@
     },
     {
       "definition": "problema",
-      "synonims": [
+      "synonyms": [
         "problema1",
         "problema2",
         "problema3",
@@ -893,7 +893,7 @@
     },
     {
       "definition": "problema_note",
-      "synonims": [
+      "synonyms": [
         "problema_note1",
         "problema_note2",
         "problema_note3",
@@ -904,7 +904,7 @@
     },
     {
       "definition": "problema_celular",
-      "synonims": [
+      "synonyms": [
         "problema_cel1",
         "problema_cel2",
         "problema_cel3",
@@ -915,7 +915,7 @@
     },
     {
       "definition": "problema",
-      "synonims": [
+      "synonyms": [
         "problema1",
         "problema2",
         "problema3",
@@ -926,7 +926,7 @@
     },
     {
       "definition": "problema_note",
-      "synonims": [
+      "synonyms": [
         "problema_note1",
         "problema_note2",
         "problema_note3",
@@ -937,7 +937,7 @@
     },
     {
       "definition": "problema_celular",
-      "synonims": [
+      "synonyms": [
         "problema_cel1",
         "problema_cel2",
         "problema_cel3",
@@ -948,7 +948,7 @@
     },
     {
       "definition": "problema",
-      "synonims": [
+      "synonyms": [
         "problema1",
         "problema2",
         "problema3",
@@ -959,7 +959,7 @@
     },
     {
       "definition": "problema_note",
-      "synonims": [
+      "synonyms": [
         "problema_note1",
         "problema_note2",
         "problema_note3",
@@ -970,7 +970,7 @@
     },
     {
       "definition": "problema_celular",
-      "synonims": [
+      "synonyms": [
         "problema_cel1",
         "problema_cel2",
         "problema_cel3",
@@ -981,7 +981,7 @@
     },
     {
       "definition": "problema",
-      "synonims": [
+      "synonyms": [
         "problema1",
         "problema2",
         "problema3",
@@ -992,7 +992,7 @@
     },
     {
       "definition": "problema_note",
-      "synonims": [
+      "synonyms": [
         "problema_note1",
         "problema_note2",
         "problema_note3",
@@ -1003,7 +1003,7 @@
     },
     {
       "definition": "problema_celular",
-      "synonims": [
+      "synonyms": [
         "problema_cel1",
         "problema_cel2",
         "problema_cel3",
@@ -1014,7 +1014,7 @@
     },
     {
       "definition": "problema",
-      "synonims": [
+      "synonyms": [
         "problema1",
         "problema2",
         "problema3",
@@ -1025,7 +1025,7 @@
     },
     {
       "definition": "problema_note",
-      "synonims": [
+      "synonyms": [
         "problema_note1",
         "problema_note2",
         "problema_note3",
@@ -1036,7 +1036,7 @@
     },
     {
       "definition": "problema_celular",
-      "synonims": [
+      "synonyms": [
         "problema_cel1",
         "problema_cel2",
         "problema_cel3",
@@ -1047,7 +1047,7 @@
     },
     {
       "definition": "problema",
-      "synonims": [
+      "synonyms": [
         "problema1",
         "problema2",
         "problema3",
@@ -1058,7 +1058,7 @@
     },
     {
       "definition": "problema_note",
-      "synonims": [
+      "synonyms": [
         "problema_note1",
         "problema_note2",
         "problema_note3",
@@ -1069,7 +1069,7 @@
     },
     {
       "definition": "problema_celular",
-      "synonims": [
+      "synonyms": [
         "problema_cel1",
         "problema_cel2",
         "problema_cel3",
@@ -1080,7 +1080,7 @@
     },
     {
       "definition": "problema",
-      "synonims": [
+      "synonyms": [
         "problema1",
         "problema2",
         "problema3",
@@ -1091,7 +1091,7 @@
     },
     {
       "definition": "problema_note",
-      "synonims": [
+      "synonyms": [
         "problema_note1",
         "problema_note2",
         "problema_note3",
@@ -1102,7 +1102,7 @@
     },
     {
       "definition": "problema_celular",
-      "synonims": [
+      "synonyms": [
         "problema_cel1",
         "problema_cel2",
         "problema_cel3",
@@ -1113,7 +1113,7 @@
     },
     {
       "definition": "problema",
-      "synonims": [
+      "synonyms": [
         "problema1",
         "problema2",
         "problema3",
@@ -1124,7 +1124,7 @@
     },
     {
       "definition": "problema_note",
-      "synonims": [
+      "synonyms": [
         "problema_note1",
         "problema_note2",
         "problema_note3",
@@ -1135,7 +1135,7 @@
     },
     {
       "definition": "problema_celular",
-      "synonims": [
+      "synonyms": [
         "problema_cel1",
         "problema_cel2",
         "problema_cel3",
@@ -1146,7 +1146,7 @@
     },
     {
       "definition": "problema",
-      "synonims": [
+      "synonyms": [
         "problema1",
         "problema2",
         "problema3",
@@ -1157,7 +1157,7 @@
     },
     {
       "definition": "problema_note",
-      "synonims": [
+      "synonyms": [
         "problema_note1",
         "problema_note2",
         "problema_note3",
@@ -1168,7 +1168,7 @@
     },
     {
       "definition": "problema_celular",
-      "synonims": [
+      "synonyms": [
         "problema_cel1",
         "problema_cel2",
         "problema_cel3",
@@ -1179,7 +1179,7 @@
     },
     {
       "definition": "problema",
-      "synonims": [
+      "synonyms": [
         "problema1",
         "problema2",
         "problema3",
@@ -1190,7 +1190,7 @@
     },
     {
       "definition": "problema_note",
-      "synonims": [
+      "synonyms": [
         "problema_note1",
         "problema_note2",
         "problema_note3",
@@ -1201,7 +1201,7 @@
     },
     {
       "definition": "problema_celular",
-      "synonims": [
+      "synonyms": [
         "problema_cel1",
         "problema_cel2",
         "problema_cel3",
@@ -1212,7 +1212,7 @@
     },
     {
       "definition": "problema",
-      "synonims": [
+      "synonyms": [
         "problema1",
         "problema2",
         "problema3",
@@ -1223,7 +1223,7 @@
     },
     {
       "definition": "problema_note",
-      "synonims": [
+      "synonyms": [
         "problema_note1",
         "problema_note2",
         "problema_note3",
@@ -1234,7 +1234,7 @@
     },
     {
       "definition": "problema_celular",
-      "synonims": [
+      "synonyms": [
         "problema_cel1",
         "problema_cel2",
         "problema_cel3",
@@ -1245,7 +1245,7 @@
     },
     {
       "definition": "problema",
-      "synonims": [
+      "synonyms": [
         "problema1",
         "problema2",
         "problema3",
@@ -1256,7 +1256,7 @@
     },
     {
       "definition": "problema_note",
-      "synonims": [
+      "synonyms": [
         "problema_note1",
         "problema_note2",
         "problema_note3",
@@ -1267,7 +1267,7 @@
     },
     {
       "definition": "problema_celular",
-      "synonims": [
+      "synonyms": [
         "problema_cel1",
         "problema_cel2",
         "problema_cel3",
@@ -1278,7 +1278,7 @@
     },
     {
       "definition": "problema",
-      "synonims": [
+      "synonyms": [
         "problema1",
         "problema2",
         "problema3",
@@ -1289,7 +1289,7 @@
     },
     {
       "definition": "problema_note",
-      "synonims": [
+      "synonyms": [
         "problema_note1",
         "problema_note2",
         "problema_note3",
@@ -1300,7 +1300,7 @@
     },
     {
       "definition": "problema_celular",
-      "synonims": [
+      "synonyms": [
         "problema_cel1",
         "problema_cel2",
         "problema_cel3",
@@ -1311,7 +1311,7 @@
     },
     {
       "definition": "problema",
-      "synonims": [
+      "synonyms": [
         "problema1",
         "problema2",
         "problema3",
@@ -1322,7 +1322,7 @@
     },
     {
       "definition": "problema_note",
-      "synonims": [
+      "synonyms": [
         "problema_note1",
         "problema_note2",
         "problema_note3",
@@ -1333,7 +1333,7 @@
     },
     {
       "definition": "problema_celular",
-      "synonims": [
+      "synonyms": [
         "problema_cel1",
         "problema_cel2",
         "problema_cel3",
@@ -1344,7 +1344,7 @@
     },
     {
       "definition": "problema",
-      "synonims": [
+      "synonyms": [
         "problema1",
         "problema2",
         "problema3",
@@ -1355,7 +1355,7 @@
     },
     {
       "definition": "problema_note",
-      "synonims": [
+      "synonyms": [
         "problema_note1",
         "problema_note2",
         "problema_note3",
@@ -1366,7 +1366,7 @@
     },
     {
       "definition": "problema_celular",
-      "synonims": [
+      "synonyms": [
         "problema_cel1",
         "problema_cel2",
         "problema_cel3",
@@ -1377,7 +1377,7 @@
     },
     {
       "definition": "problema_note",
-      "synonims": [
+      "synonyms": [
         "problema_note1",
         "problema_note2",
         "problema_note3",
@@ -1388,7 +1388,7 @@
     },
     {
       "definition": "problema_celular",
-      "synonims": [
+      "synonyms": [
         "problema_cel1",
         "problema_cel2",
         "problema_cel3",
@@ -1399,7 +1399,7 @@
     },
     {
       "definition": "problema",
-      "synonims": [
+      "synonyms": [
         "problema1",
         "problema2",
         "problema3",
@@ -1410,7 +1410,7 @@
     },
     {
       "definition": "problema_note",
-      "synonims": [
+      "synonyms": [
         "problema_note1",
         "problema_note2",
         "problema_note3",
@@ -1421,7 +1421,7 @@
     },
     {
       "definition": "problema_celular",
-      "synonims": [
+      "synonyms": [
         "problema_cel1",
         "problema_cel2",
         "problema_cel3",
@@ -1432,7 +1432,7 @@
     },
     {
       "definition": "problema",
-      "synonims": [
+      "synonyms": [
         "problema1",
         "problema2",
         "problema3",
@@ -1443,7 +1443,7 @@
     },
     {
       "definition": "problema_note",
-      "synonims": [
+      "synonyms": [
         "problema_note1",
         "problema_note2",
         "problema_note3",
@@ -1454,7 +1454,7 @@
     },
     {
       "definition": "problema_celular",
-      "synonims": [
+      "synonyms": [
         "problema_cel1",
         "problema_cel2",
         "problema_cel3",
@@ -1465,7 +1465,7 @@
     },
     {
       "definition": "problema",
-      "synonims": [
+      "synonyms": [
         "problema1",
         "problema2",
         "problema3",
@@ -1476,7 +1476,7 @@
     },
     {
       "definition": "problema_note",
-      "synonims": [
+      "synonyms": [
         "problema_note1",
         "problema_note2",
         "problema_note3",
@@ -1487,7 +1487,7 @@
     },
     {
       "definition": "problema_celular",
-      "synonims": [
+      "synonyms": [
         "problema_cel1",
         "problema_cel2",
         "problema_cel3",
@@ -1498,7 +1498,7 @@
     },
     {
       "definition": "problema",
-      "synonims": [
+      "synonyms": [
         "problema1",
         "problema2",
         "problema3",
@@ -1509,7 +1509,7 @@
     },
     {
       "definition": "problema_note",
-      "synonims": [
+      "synonyms": [
         "problema_note1",
         "problema_note2",
         "problema_note3",
@@ -1520,7 +1520,7 @@
     },
     {
       "definition": "problema_celular",
-      "synonims": [
+      "synonyms": [
         "problema_cel1",
         "problema_cel2",
         "problema_cel3",
@@ -1531,7 +1531,7 @@
     },
     {
       "definition": "problema",
-      "synonims": [
+      "synonyms": [
         "problema1",
         "problema2",
         "problema3",
@@ -1542,7 +1542,7 @@
     },
     {
       "definition": "problema_note",
-      "synonims": [
+      "synonyms": [
         "problema_note1",
         "problema_note2",
         "problema_note3",
@@ -1553,7 +1553,7 @@
     },
     {
       "definition": "problema_celular",
-      "synonims": [
+      "synonyms": [
         "problema_cel1",
         "problema_cel2",
         "problema_cel3",
@@ -1564,7 +1564,7 @@
     },
     {
       "definition": "problema",
-      "synonims": [
+      "synonyms": [
         "problema1",
         "problema2",
         "problema3",
@@ -1575,7 +1575,7 @@
     },
     {
       "definition": "problema_note",
-      "synonims": [
+      "synonyms": [
         "problema_note1",
         "problema_note2",
         "problema_note3",
@@ -1586,7 +1586,7 @@
     },
     {
       "definition": "problema_celular",
-      "synonims": [
+      "synonyms": [
         "problema_cel1",
         "problema_cel2",
         "problema_cel3",
@@ -1597,7 +1597,7 @@
     },
     {
       "definition": "problema",
-      "synonims": [
+      "synonyms": [
         "problema1",
         "problema2",
         "problema3",
@@ -1608,7 +1608,7 @@
     },
     {
       "definition": "problema_note",
-      "synonims": [
+      "synonyms": [
         "problema_note1",
         "problema_note2",
         "problema_note3",
@@ -1619,7 +1619,7 @@
     },
     {
       "definition": "problema_celular",
-      "synonims": [
+      "synonyms": [
         "problema_cel1",
         "problema_cel2",
         "problema_cel3",
@@ -1630,7 +1630,7 @@
     },
     {
       "definition": "problema",
-      "synonims": [
+      "synonyms": [
         "problema1",
         "problema2",
         "problema3",
@@ -1641,7 +1641,7 @@
     },
     {
       "definition": "problema_note",
-      "synonims": [
+      "synonyms": [
         "problema_note1",
         "problema_note2",
         "problema_note3",
@@ -1652,7 +1652,7 @@
     },
     {
       "definition": "problema_celular",
-      "synonims": [
+      "synonyms": [
         "problema_cel1",
         "problema_cel2",
         "problema_cel3",
@@ -1663,7 +1663,7 @@
     },
     {
       "definition": "problema",
-      "synonims": [
+      "synonyms": [
         "problema1",
         "problema2",
         "problema3",
@@ -1674,7 +1674,7 @@
     },
     {
       "definition": "problema_note",
-      "synonims": [
+      "synonyms": [
         "problema_note1",
         "problema_note2",
         "problema_note3",
@@ -1685,7 +1685,7 @@
     },
     {
       "definition": "problema_celular",
-      "synonims": [
+      "synonyms": [
         "problema_cel1",
         "problema_cel2",
         "problema_cel3",
@@ -1696,7 +1696,7 @@
     },
     {
       "definition": "problema",
-      "synonims": [
+      "synonyms": [
         "problema1",
         "problema2",
         "problema3",
@@ -1707,7 +1707,7 @@
     },
     {
       "definition": "problema_note",
-      "synonims": [
+      "synonyms": [
         "problema_note1",
         "problema_note2",
         "problema_note3",
@@ -1718,7 +1718,7 @@
     },
     {
       "definition": "problema_celular",
-      "synonims": [
+      "synonyms": [
         "problema_cel1",
         "problema_cel2",
         "problema_cel3",
@@ -1729,7 +1729,7 @@
     },
     {
       "definition": "problema",
-      "synonims": [
+      "synonyms": [
         "problema1",
         "problema2",
         "problema3",
@@ -1740,7 +1740,7 @@
     },
     {
       "definition": "problema_note",
-      "synonims": [
+      "synonyms": [
         "problema_note1",
         "problema_note2",
         "problema_note3",
@@ -1751,7 +1751,7 @@
     },
     {
       "definition": "problema_celular",
-      "synonims": [
+      "synonyms": [
         "problema_cel1",
         "problema_cel2",
         "problema_cel3",
@@ -1762,7 +1762,7 @@
     },
     {
       "definition": "problema",
-      "synonims": [
+      "synonyms": [
         "problema1",
         "problema2",
         "problema3",
@@ -1773,7 +1773,7 @@
     },
     {
       "definition": "problema_note",
-      "synonims": [
+      "synonyms": [
         "problema_note1",
         "problema_note2",
         "problema_note3",
@@ -1784,7 +1784,7 @@
     },
     {
       "definition": "problema_celular",
-      "synonims": [
+      "synonyms": [
         "problema_cel1",
         "problema_cel2",
         "problema_cel3",
@@ -1795,7 +1795,7 @@
     },
     {
       "definition": "problema",
-      "synonims": [
+      "synonyms": [
         "problema1",
         "problema2",
         "problema3",
@@ -1806,7 +1806,7 @@
     },
     {
       "definition": "problema_note",
-      "synonims": [
+      "synonyms": [
         "problema_note1",
         "problema_note2",
         "problema_note3",
@@ -1817,7 +1817,7 @@
     },
     {
       "definition": "problema_celular",
-      "synonims": [
+      "synonyms": [
         "problema_cel1",
         "problema_cel2",
         "problema_cel3",
