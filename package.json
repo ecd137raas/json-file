@@ -17,6 +17,8 @@
     "mongodb": "^3.5.3",
     "nodemon": "^2.0.2",
     "slugid": "^2.0.0",
+    "txt-file-to-json": "^3.0.6",
+    "txt-to-json": "^1.0.0",
     "uuid": "^3.4.0",
     "uuid-mongodb": "^2.1.3"
   }
